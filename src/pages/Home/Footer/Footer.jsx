@@ -1,18 +1,3 @@
-<<<<<<< HEAD
-const Footer = () => {
-  return (
-    <footer className="footer footer-center bg-base-300 text-base-content p-4">
-      <aside>
-        <p>
-          Copyright © ${new Date().getFullYear()} - All right reserved by Brac Skills Development Programme
-        </p>
-      </aside>
-    </footer>
-  );
-};
-
-export default Footer;
-=======
 import { Link } from "react-router-dom";
 import { FaFacebookSquare } from "react-icons/fa";
 import { FaInstagramSquare } from "react-icons/fa";
@@ -49,4 +34,3 @@ const Footer = () => {
 };
 
 export default Footer;
->>>>>>> 8a932e4 (Added Retail and Sales course)

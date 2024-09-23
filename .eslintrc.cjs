@@ -1,10 +1,6 @@
 module.exports = {
   root: true,
-<<<<<<< HEAD
-  env: { browser: true,node: true,  es2020: true },
-=======
   env: { browser: true, node: true, es2020: true },
->>>>>>> 8a932e4 (Added Retail and Sales course)
   extends: [
     'eslint:recommended',
     'plugin:react/recommended',

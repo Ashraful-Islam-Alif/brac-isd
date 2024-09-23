@@ -1,38 +1,3 @@
-<<<<<<< HEAD
-
-import gifImage from "./gif/bannerGif.gif";
-
-const Banner = () => {
-    const backgroundImageStyle = {
-      backgroundImage: `url(${gifImage})`,
-      backgroundSize: "cover",
-      backgroundPosition: "center",
-      backgroundRepeat: "no-repeat",
-      width: "100%",
-      height: "60vh",
-    };
-    return (
-        <div className="bg-gray-300 ">
-      <div className="hero mt-24" style={backgroundImageStyle}>
-        <div className="hero-overlay bg-opacity-60"></div>
-        <div className="hero-content text-center text-neutral-content">
-          <div className="max-w-xl md:max-w-2xl lg:max-w-2xl">
-            <h2 className="text-xl md:text-3xl lg:text-5xl font-bold text-white">
-              BRAC Institute of Skills Development
-            </h2>
-            <hr className="mx-12 md:mx-20 lg:mx-60 mt-4 border-t-8 font-bold border-[#FFA100]"></hr>
-          </div>
-        </div>
-      </div>
-      <h2 className="text-center text-black text-lg md:text-2xl lg:text-5xl p-8 font-bold">
-        About Us
-      </h2>
-    </div>
-    );
-};
-
-export default Banner;
-=======
 import { Swiper, SwiperSlide } from "swiper/react";
 import { FreeMode, Pagination, Autoplay } from "swiper/modules";
 
@@ -181,4 +146,3 @@ const Banner = () => {
 };
 
 export default Banner;
->>>>>>> 8a932e4 (Added Retail and Sales course)
