@@ -1,0 +1,12 @@
+/* Regular mode (light mode) */
+.logo {
+    content: url('https://i.ibb.co/tJrzNvT/brac-ISD-PNG-logo.png');
+  }
+  
+  /* Dark mode */
+  @media (prefers-color-scheme: dark) {
+    .logo {
+      content: url('https://i.ibb.co/dJbsFh5/BRAC-ISD-Logo-flor-website-02.png');
+    }
+  }
+  

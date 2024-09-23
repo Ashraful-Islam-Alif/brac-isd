@@ -1,0 +1,11 @@
+body {
+<<<<<<< HEAD
+    font-family: 'Poppins', sans-serif;
+  }
+=======
+  font-family: 'Poppins', sans-serif;
+}
+>>>>>>> 8a932e4 (Added Retail and Sales course)
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

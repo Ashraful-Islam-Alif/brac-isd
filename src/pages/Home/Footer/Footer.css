@@ -1,0 +1,8 @@
+.instagram-icon {
+    display: inline-block;
+    background: linear-gradient(90deg, rgba(247, 4, 121, 0.95) 0%, rgba(244, 108, 11, 0.91) 35%);
+    border-radius: 8px; /* Optional */
+    padding: 4px; /* Optional */
+    color: white;
+  }
+  
