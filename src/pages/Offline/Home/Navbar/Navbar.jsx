@@ -89,9 +89,9 @@ const Navbar = () => {
         <li>
           <Link to="/offline/courses/plc">Programmable Logic Controller</Link>
         </li>
-        <li>
+        {/* <li>
           <Link to="/offline/courses/it-support-technician">IT Support Technician</Link>
-        </li>
+        </li> */}
         <li>
           <Link to="/offline/courses/food-beverage-services">
             Food and Beverage Services

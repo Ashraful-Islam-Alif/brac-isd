@@ -25,7 +25,6 @@ import ElectricalInstalAndMaintenanceCourses from "../pages/Offline/ListOfAllCou
 import RefrigerationAndAirConditioningCourses from "../pages/Offline/ListOfAllCourses/ListOfAllCourses/RefrigerationAndAirConditioningCourses";
 import ProgrammableLogicControllerCourses from "../pages/Offline/ListOfAllCourses/ListOfAllCourses/ProgrammableLogicControllerCourses";
 import GraphicsDesignCourses from "../pages/Offline/ListOfAllCourses/ListOfAllCourses/GraphicsDesignCourses";
-import ITSupportTechnicianCourses from "../pages/Offline/ListOfAllCourses/ListOfAllCourses/ITSupportTechnicianCourses";
 import FoodAndBeverageServicesCourses from "../pages/Offline/ListOfAllCourses/ListOfAllCourses/FoodAndBeverageServicesCourses";
 import HouseKeepingOccupationCourses from "../pages/Offline/ListOfAllCourses/ListOfAllCourses/HouseKeepingOccupationCourses";
 import SewingMachine from "../pages/Offline/ListOfAllCourses/ListOfAllCourses/SewingMachine";
@@ -144,10 +143,6 @@ export const router = createBrowserRouter([
       {
         path: "offline/courses/graphics-design",
         element: <GraphicsDesignCourses></GraphicsDesignCourses>
-      },
-      {
-        path: "offline/courses/it-support-technician",
-        element: <ITSupportTechnicianCourses></ITSupportTechnicianCourses>
       },
       {
         path: "offline/courses/food-beverage-services",

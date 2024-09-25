@@ -39,11 +39,11 @@ const ListOfCourses = () => {
         <div className="my-8 text-lg font-semibold underline">
           <Link to="/offline/courses/plc">Programmable Logic Controller</Link>
         </div>
-        <div className="my-8 text-lg font-semibold underline">
+        {/* <div className="my-8 text-lg font-semibold underline">
           <Link to="/offline/courses/it-support-technician">
             IT Support Technician
           </Link>
-        </div>
+        </div> */}
         <div className="my-8 text-lg font-semibold underline">
           <Link to="/offline/courses/food-beverage-services">
             Food and Beverage Services
