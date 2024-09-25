@@ -185,8 +185,9 @@ const Navbar = () => {
         </div>
         <Link to="/">
           <img
+          className="logo"
             style={{ width: "120px", height: "auto" }}
-            alt=""
+            alt="BRAC ISD Logo"
             src="https://i.ibb.co/tJrzNvT/brac-ISD-PNG-logo.png"
           ></img>
         </Link>
