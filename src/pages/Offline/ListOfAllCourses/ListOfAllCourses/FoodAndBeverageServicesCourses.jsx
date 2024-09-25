@@ -26,9 +26,9 @@ const FoodAndBeverageServicesCourses = () => {
       </div>
 
       <div className="container mx-auto px-4 md:px-8 lg:px-16 my-8">
-        <div className="flex justify-between" style={{ whiteSpace: "nowrap" }}>
-          <div>
-            <h2 className="font-bold md:text-2xl text-md ">
+        <div className="flex justify-between" >
+          <div style={{ whiteSpace: "wrap" }}>
+            <h2 className="font-bold md:text-2xl text-lg ">
               Food and Beverage Services
             </h2>
           </div>
@@ -37,6 +37,7 @@ const FoodAndBeverageServicesCourses = () => {
               to="https://docs.google.com/forms/d/e/1FAIpQLScoauq-f2VJ6nHBH_X7qNMb7pwg-p2XA-tUzNI45HmaTbRbBw/viewform"
               target="_blank"
               className="btn btn-xs sm:btn-sm md:btn-md bg-[#FFA100] text-black hover:text-[#FFA100]  hover:outline hover:outline-2 hover:outline-[#FFA100] hover:bg-white"
+              style={{ whiteSpace: "nowrap" }}
             >
               Click for Registration
             </Link>

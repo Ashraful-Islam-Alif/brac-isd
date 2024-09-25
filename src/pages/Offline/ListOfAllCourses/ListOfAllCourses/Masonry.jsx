@@ -34,7 +34,7 @@ const DigitalMarketingCourses = () => {
             style={{ whiteSpace: "nowrap" }}
           >
             <div>
-              <h2 className="font-bold md:text-2xl text-md ">Masonry</h2>
+              <h2 className="font-bold md:text-2xl text-lg ">Masonry</h2>
             </div>
             <div>
               <Link

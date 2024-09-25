@@ -33,7 +33,7 @@ const Welding = () => {
             style={{ whiteSpace: "nowrap" }}
           >
             <div>
-              <h2 className="font-bold md:text-2xl text-md ">
+              <h2 className="font-bold md:text-2xl text-lg ">
               Welding
               </h2>
             </div>

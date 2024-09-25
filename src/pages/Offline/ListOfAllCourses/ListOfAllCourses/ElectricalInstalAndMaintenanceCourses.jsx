@@ -30,7 +30,7 @@ const ElectricalInstalAndMaintenanceCourses = () => {
         <div>
           <div className="flex justify-between">
             <div>
-              <h2 className="font-bold md:text-2xl text-md ">
+              <h2 className="font-bold md:text-2xl text-lg ">
                 Electrical Installation and Maintenance
               </h2>
             </div>

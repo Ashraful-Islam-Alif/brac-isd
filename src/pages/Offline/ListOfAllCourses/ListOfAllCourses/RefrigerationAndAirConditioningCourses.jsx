@@ -28,7 +28,7 @@ const RefrigerationAndAirConditioningCourses = () => {
       <div className="container mx-auto px-4 md:px-8 lg:px-16 my-8">
         <div className="flex justify-between">
           <div>
-            <h2 className="font-bold md:text-2xl text-md ">
+            <h2 className="font-bold md:text-2xl text-lg ">
               Refrigeration and Air Conditioning
             </h2>
           </div>
