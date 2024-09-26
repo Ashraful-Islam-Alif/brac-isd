@@ -30,7 +30,7 @@ const Two_Course = () => {
         </div>
       </a>
       <a
-        href="https://bracisd-staging.brac.net/"
+        href="https://bisdonline.brac.net/"
         className="card grid lg:grid-cols-2 shadow-xl p-4 gap-x-8 gap-y-4"
       >
         <div className="grid gap-x-8 gap-y-4">

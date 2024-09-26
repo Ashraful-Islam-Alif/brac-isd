@@ -24,7 +24,7 @@ const Footer = () => {
           </span>
           <Link
             className="link link-hover"
-            to="https://bracisd-staging.brac.net/"
+            to="https://bisdonline.brac.net/"
             target="_blank"
           >
             BISD Online

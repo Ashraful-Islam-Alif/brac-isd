@@ -53,6 +53,7 @@ const Banner = () => {
           <SwiperSlide>
             <img
               src={image1}
+              loading="lazy"
               alt="Slide 1"
               className="w-full h-full object-cover "
             />
@@ -60,6 +61,7 @@ const Banner = () => {
           <SwiperSlide>
             <img
               src={image2}
+              loading="lazy"
               alt="Slide 2"
               className="w-full h-full object-cover "
             />
@@ -67,6 +69,7 @@ const Banner = () => {
           <SwiperSlide>
             <img
               src={image3}
+              loading="lazy"
               alt="Slide 3"
               className="w-full h-full object-cover "
             />
@@ -74,57 +77,138 @@ const Banner = () => {
           <SwiperSlide>
             <img
               src={image4}
+              loading="lazy"
               alt="Slide 4"
               className="w-full h-full object-cover "
             />
           </SwiperSlide>
           <SwiperSlide>
-            <img src={image5} alt="" className="w-full h-full object-cover " />
+            <img
+              src={image5}
+              loading="lazy"
+              alt=""
+              className="w-full h-full object-cover "
+            />
           </SwiperSlide>
           <SwiperSlide>
-            <img src={image6} alt="" className="w-full h-full object-cover " />
+            <img
+              src={image6}
+              loading="lazy"
+              alt=""
+              className="w-full h-full object-cover "
+            />
           </SwiperSlide>
           <SwiperSlide>
-            <img src={image7} alt="" className="w-full h-full object-cover " />
+            <img
+              src={image7}
+              loading="lazy"
+              alt=""
+              className="w-full h-full object-cover "
+            />
           </SwiperSlide>
           <SwiperSlide>
-            <img src={image8} alt="" className="w-full h-full object-cover " />
+            <img
+              src={image8}
+              loading="lazy"
+              alt=""
+              className="w-full h-full object-cover "
+            />
           </SwiperSlide>
           <SwiperSlide>
-            <img src={image9} alt="" className="w-full h-full object-cover " />
+            <img
+              src={image9}
+              loading="lazy"
+              alt=""
+              className="w-full h-full object-cover "
+            />
           </SwiperSlide>
           <SwiperSlide>
-            <img src={image10} alt="" className="w-full h-full object-cover " />
+            <img
+              src={image10}
+              loading="lazy"
+              alt=""
+              className="w-full h-full object-cover "
+            />
           </SwiperSlide>
           <SwiperSlide>
-            <img src={image11} alt="" className="w-full h-full object-cover " />
+            <img
+              src={image11}
+              loading="lazy"
+              alt=""
+              className="w-full h-full object-cover "
+            />
           </SwiperSlide>
           <SwiperSlide>
-            <img src={image12} alt="" className="w-full h-full object-cover " />
+            <img
+              src={image12}
+              loading="lazy"
+              alt=""
+              className="w-full h-full object-cover "
+            />
           </SwiperSlide>
           <SwiperSlide>
-            <img src={image13} alt="" className="w-full h-full object-cover " />
+            <img
+              src={image13}
+              loading="lazy"
+              alt=""
+              className="w-full h-full object-cover "
+            />
           </SwiperSlide>
           <SwiperSlide>
-            <img src={image14} alt="" className="w-full h-full object-cover " />
+            <img
+              src={image14}
+              loading="lazy"
+              alt=""
+              className="w-full h-full object-cover "
+            />
           </SwiperSlide>
           <SwiperSlide>
-            <img src={image15} alt="" className="w-full h-full object-cover " />
+            <img
+              src={image15}
+              loading="lazy"
+              alt=""
+              className="w-full h-full object-cover "
+            />
           </SwiperSlide>
           <SwiperSlide>
-            <img src={image16} alt="" className="w-full h-full object-cover " />
+            <img
+              src={image16}
+              loading="lazy"
+              alt=""
+              className="w-full h-full object-cover "
+            />
           </SwiperSlide>
           <SwiperSlide>
-            <img src={image17} alt="" className="w-full h-full object-cover " />
+            <img
+              src={image17}
+              loading="lazy"
+              alt=""
+              className="w-full h-full object-cover "
+            />
           </SwiperSlide>
           <SwiperSlide>
-            <img src={image18} alt="" className="w-full h-full object-cover " />
+            <img
+              src={image18}
+              loading="lazy"
+              alt=""
+              className="w-full h-full object-cover "
+            />
           </SwiperSlide>
           <SwiperSlide>
-            <img src={image19} alt="" className="w-full h-full object-cover " />
+            <img
+              src={image19}
+              loading="lazy"
+              alt=""
+              className="w-full h-full object-cover "
+            />
           </SwiperSlide>
           <SwiperSlide>
-            <img src={image20} alt="" className="w-full h-full object-cover " />
+            <img
+              src={image20}
+              loading="lazy"
+              alt=""
+              className="w-full h-full object-cover "
+            />
           </SwiperSlide>
         </Swiper>
 

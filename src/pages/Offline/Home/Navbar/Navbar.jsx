@@ -177,7 +177,7 @@ const Navbar = () => {
               </details>
             </li>
             <button className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg btn-outline font-bold mt-2">
-              <Link to="https://bracisd-staging.brac.net/" >
+              <Link to="https://bisdonline.brac.net/" >
                 BISD Online
               </Link>
             </button>
@@ -241,7 +241,7 @@ const Navbar = () => {
           </a>
         </div>
         <button className="btn btn-xs sm:btn-sm md:btn-md bg-[#FFA100] text-black hover:text-[#FFA100]  hover:outline hover:outline-2 hover:outline-[#FFA100] hover:bg-white">
-          <Link to="https://bracisd-staging.brac.net/" >
+          <Link to="https://bisdonline.brac.net/" >
             BISD Online
           </Link>
         </button>
