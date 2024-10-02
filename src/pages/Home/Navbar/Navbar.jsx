@@ -17,12 +17,12 @@ const Navbar = () => {
       <button className="btn btn-xs sm:btn-sm md:btn-md bg-[#FFA100] text-black hover:text-[#FFA100]  hover:outline hover:outline-2 hover:outline-[#FFA100] hover:bg-white">
  
 
-          <Link to="https://bisdonline.brac.net/">BISD Online</Link>
+          <Link to="https://bisdonline.brac.net/">Online Courses</Link>
         
         </button>
         <button className="btn btn-xs sm:btn-sm md:btn-md bg-[#FFA100] text-black hover:text-[#FFA100]  hover:outline hover:outline-2 hover:outline-[#FFA100] hover:bg-white"
          >
-          <Link to="offline">BISD Offline</Link>
+          <Link to="offline">Offline Courses</Link>
         </button>
       </div>
     </div>

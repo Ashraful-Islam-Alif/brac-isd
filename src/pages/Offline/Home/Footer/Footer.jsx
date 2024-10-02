@@ -2,12 +2,11 @@ import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
-    <div className="">
-      <footer className="footer p-10 bg-base-200 text-base-content grid justify-items-center">
-        <div>
-          <span className="font-bold uppercase text-lg text-[#FFA100]">
+      <footer className="footer bg-base-200 text-base-content p-10">
+        <nav>
+          <h6 className="font-bold uppercase text-lg text-[#FFA100]">
             Menu
-          </span>
+          </h6>
           <Link to="/home" className="link link-hover">
             Home
           </Link>
@@ -17,11 +16,11 @@ const Footer = () => {
           <Link to="/list-of-Courses" className="link link-hover">
             List of Courses
           </Link>
-        </div>
-        <div>
-          <span className="font-bold uppercase text-lg text-[#FFA100]">
+        </nav>
+        <nav>
+          <h6 className="font-bold uppercase text-lg text-[#FFA100]">
             Quick Links
-          </span>
+          </h6>
           <Link
             className="link link-hover"
             to="https://bisdonline.brac.net/"
@@ -43,16 +42,16 @@ const Footer = () => {
           >
             BRAC
           </Link>
-        </div>
-        <div>
-          <span className="font-bold uppercase text-lg text-[#FFA100]">
+        </nav>
+        <nav>
+          <h6 className="font-bold uppercase text-lg text-[#FFA100]">
             Contact Us
-          </span>
+          </h6>
           <p className="text-gray-500 ">info.bisdonline@brac.net</p>
           <p>+880177143483</p>
-        </div>
+        </nav>
       </footer>
-    </div>
+
   );
 };
 

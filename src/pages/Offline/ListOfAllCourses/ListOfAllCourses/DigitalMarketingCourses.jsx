@@ -8,7 +8,7 @@ const DigitalMarketingCourses = () => {
     <div>
       <Navbar></Navbar>
       <div
-        className="hero mt-20"
+        className="hero mt-20 "
         style={{
           backgroundImage:
             "url(https://i.ibb.co/LpP7WtX/Digital-marketing-png-background-2023-v3-1.png)",

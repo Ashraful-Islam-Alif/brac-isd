@@ -33,17 +33,19 @@ const Banner = () => {
   return (
     <div className="grid md:grid-cols-2 grid-cols-1 items-center gap-4 mt-24">
       <div className="px-8">
-        <h2 className="font-bold text-xl md:text-2xl lg:text-5xl mb-4">
+        <h2 className="font-bold text-xl md:text-2xl lg:text-5xl mb-4 mt-4">
           Better Learning Future Starts With BRAC ISD
         </h2>
         <p className="mt-4 md:text-lg text-sm">
-          BRAC Institute of Skills Development (BRAC ISD) is a registered
-          training organisation providing National Technical Vocational
-          Qualification Framework (NTVQF) training designed for young people.
-          BRAC Institute of Skills Development (BRAC ISD) facilitates industry
-          demand-driven and competency-based skills training in highly modern
-          workshops, with one-to-one and hands-on training conducted by
-          Competency Based Training & Assessment-certified trainers.
+          The BRAC Institute of Skills Development (BRAC ISD) is a registered
+          training organisation that offers National Technical and Vocational
+          Qualification Framework (NTVQF) training tailored specifically for
+          young people. BRAC ISD delivers industry demand-driven,
+          competency-based skills training in state-of-the-art workshops. The
+          training is hands-on and individualised, provided by trainers
+          certified in Competency-Based Training & Assessment (CBT&A), ensuring
+          that learners gain practical expertise aligned with industry
+          standards.
         </p>
       </div>
       <div>
