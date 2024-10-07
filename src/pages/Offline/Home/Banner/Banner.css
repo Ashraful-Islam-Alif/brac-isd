@@ -22,4 +22,19 @@
     object-fit: cover;
     opacity: 0.8;
   }
+  .swiper-lazy-preloader {
+    width: 42px;
+    height: 42px;
+    margin: auto;
+    background-color: #ddd;
+    border-radius: 50%;
+    border: 3px solid transparent;
+    border-top-color: #fff;
+    animation: swiper-preloader-spin 1s linear infinite;
+  }
   
+  @keyframes swiper-preloader-spin {
+    100% {
+      transform: rotate(360deg);
+    }
+  }

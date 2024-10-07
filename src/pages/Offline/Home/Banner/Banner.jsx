@@ -39,12 +39,13 @@ const Banner = () => {
         <Swiper
           slidesPerView={3}
           spaceBetween={20}
+          lazy={true}
           freeMode={true}
           pagination={{
             clickable: true,
           }}
           autoplay={{
-            delay: 5000, // Slide every 3 seconds
+            delay: 3000, // Slide every 3 seconds
             disableOnInteraction: false, // Keeps autoplay running even after user interaction
           }}
           modules={[FreeMode, Pagination, Autoplay]} // Add Autoplay module
@@ -53,162 +54,182 @@ const Banner = () => {
           <SwiperSlide>
             <img
               src={image1}
-              loading="lazy"
+              
               alt="Slide 1"
               className="w-full h-full object-cover "
             />
+             <div className="swiper-lazy-preloader"></div>
           </SwiperSlide>
           <SwiperSlide>
             <img
               src={image2}
-              loading="lazy"
+              
               alt="Slide 2"
               className="w-full h-full object-cover "
             />
+             <div className="swiper-lazy-preloader"></div>
           </SwiperSlide>
           <SwiperSlide>
             <img
               src={image3}
-              loading="lazy"
+              
               alt="Slide 3"
               className="w-full h-full object-cover "
             />
+             <div className="swiper-lazy-preloader"></div>
           </SwiperSlide>
           <SwiperSlide>
             <img
               src={image4}
-              loading="lazy"
+              
               alt="Slide 4"
               className="w-full h-full object-cover "
             />
+             <div className="swiper-lazy-preloader"></div>
           </SwiperSlide>
           <SwiperSlide>
             <img
               src={image5}
-              loading="lazy"
+              
               alt=""
               className="w-full h-full object-cover "
             />
+             <div className="swiper-lazy-preloader"></div>
           </SwiperSlide>
           <SwiperSlide>
             <img
               src={image6}
-              loading="lazy"
+              
               alt=""
               className="w-full h-full object-cover "
             />
+             <div className="swiper-lazy-preloader"></div>
           </SwiperSlide>
           <SwiperSlide>
             <img
               src={image7}
-              loading="lazy"
+              
               alt=""
               className="w-full h-full object-cover "
             />
+             <div className="swiper-lazy-preloader"></div>
           </SwiperSlide>
           <SwiperSlide>
             <img
               src={image8}
-              loading="lazy"
+              
               alt=""
               className="w-full h-full object-cover "
             />
+             <div className="swiper-lazy-preloader"></div>
           </SwiperSlide>
           <SwiperSlide>
             <img
               src={image9}
-              loading="lazy"
+              
               alt=""
               className="w-full h-full object-cover "
             />
+             <div className="swiper-lazy-preloader"></div>
           </SwiperSlide>
           <SwiperSlide>
             <img
               src={image10}
-              loading="lazy"
+              
               alt=""
               className="w-full h-full object-cover "
             />
+             <div className="swiper-lazy-preloader"></div>
           </SwiperSlide>
           <SwiperSlide>
             <img
               src={image11}
-              loading="lazy"
+              
               alt=""
               className="w-full h-full object-cover "
             />
+             <div className="swiper-lazy-preloader"></div>
           </SwiperSlide>
           <SwiperSlide>
             <img
               src={image12}
-              loading="lazy"
+              
               alt=""
               className="w-full h-full object-cover "
             />
+             <div className="swiper-lazy-preloader"></div>
           </SwiperSlide>
           <SwiperSlide>
             <img
               src={image13}
-              loading="lazy"
+              
               alt=""
               className="w-full h-full object-cover "
             />
+             <div className="swiper-lazy-preloader"></div>
           </SwiperSlide>
           <SwiperSlide>
             <img
               src={image14}
-              loading="lazy"
+              
               alt=""
               className="w-full h-full object-cover "
             />
+             <div className="swiper-lazy-preloader"></div>
           </SwiperSlide>
           <SwiperSlide>
             <img
               src={image15}
-              loading="lazy"
+              
               alt=""
               className="w-full h-full object-cover "
             />
+             <div className="swiper-lazy-preloader"></div>
           </SwiperSlide>
           <SwiperSlide>
             <img
               src={image16}
-              loading="lazy"
+              
               alt=""
               className="w-full h-full object-cover "
             />
+             <div className="swiper-lazy-preloader"></div>
           </SwiperSlide>
           <SwiperSlide>
             <img
               src={image17}
-              loading="lazy"
+              
               alt=""
               className="w-full h-full object-cover "
             />
+             <div className="swiper-lazy-preloader"></div>
           </SwiperSlide>
           <SwiperSlide>
             <img
               src={image18}
-              loading="lazy"
+              
               alt=""
               className="w-full h-full object-cover "
             />
+             <div className="swiper-lazy-preloader"></div>
           </SwiperSlide>
           <SwiperSlide>
             <img
               src={image19}
-              loading="lazy"
+              
               alt=""
               className="w-full h-full object-cover "
             />
+             <div className="swiper-lazy-preloader"></div>
           </SwiperSlide>
           <SwiperSlide>
             <img
               src={image20}
-              loading="lazy"
+              
               alt=""
               className="w-full h-full object-cover "
             />
+             <div className="swiper-lazy-preloader"></div>
           </SwiperSlide>
         </Swiper>
 
