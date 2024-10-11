@@ -1,4 +1,4 @@
-import image1 from "./offline.webp";
+import image1 from "./Offline.webp";
 import image2 from "./Online2.jpg";
 
 const Two_Course = () => {
