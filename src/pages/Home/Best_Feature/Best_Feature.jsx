@@ -6,8 +6,8 @@ const Best_Feature = () => {
           Why Choose BRAC ISD?
         </h2>
       </div>
-      <div className="grid lg:grid-cols-2 md:grid-cols-2 grid-cols-1 gap-4 mt-4 px-8 py-4">
-        <div className="p-4 border shadow-md rounded-md">
+      <div className="grid lg:grid-cols-2 md:grid-cols-2 grid-cols-1 mt-4 px-8 py-4">
+        <div className="p-4 border">
           <div className="grid grid-cols-[auto_1fr] items-center gap-2">
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -31,7 +31,7 @@ const Best_Feature = () => {
             support to help track progress and ensure success.
           </p>
         </div>
-        <div className="p-4 border shadow-md rounded-md">
+        <div className="p-4 border">
           <div className="grid grid-cols-[auto_1fr] items-center gap-2">
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -54,7 +54,7 @@ const Best_Feature = () => {
             and peer interaction without geographical limits.
           </p>
         </div>
-        <div className="p-4 border shadow-md rounded-md">
+        <div className="p-4 border">
           <div className="grid grid-cols-[auto_1fr] items-center gap-2">
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -77,7 +77,7 @@ const Best_Feature = () => {
             support.
           </p>
         </div>
-        <div className="p-4 border shadow-md rounded-md">
+        <div className="p-4 border">
           <div className="grid grid-cols-[auto_1fr] items-center gap-2">
             <svg
               xmlns="http://www.w3.org/2000/svg"

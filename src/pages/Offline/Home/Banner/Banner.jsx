@@ -29,7 +29,7 @@ import image19 from "./Trade Based Offline Photos/Retail_Sales1.webp";
 import image20 from "./Trade Based Offline Photos/Retail_Sales2.webp";
 const Banner = () => {
   return (
-    <div className="bg-gray-200">
+    <div className="">
       <div
         className="hero mt-24 relative"
         style={{ width: "100%", height: "60vh" }}
@@ -233,19 +233,17 @@ const Banner = () => {
           </SwiperSlide>
         </Swiper>
 
-        <div className="absolute inset-0 flex flex-col items-center justify-center text-center  z-10">
-          {/* bg-black bg-opacity-10 p-6 */}
+        {/* <div className="absolute inset-0 flex flex-col items-center justify-center text-center  z-10">
+          bg-black bg-opacity-10 p-6
           <div className="max-w-xl md:max-w-2xl lg:max-w-2xl">
             <h2 className="text-xl md:text-3xl lg:text-5xl font-bold text-white ">
               BRAC Institute of Skills Development
             </h2>
             <hr className="mx-12 md:mx-20 lg:mx-60 mt-4 border-t-8 font-bold border-[#FFA100]" />
           </div>
-        </div>
+        </div> */}
       </div>
-      <h2 className="text-center text-black text-lg md:text-2xl lg:text-5xl p-8 font-bold">
-        About Us
-      </h2>
+      
     </div>
   );
 };
