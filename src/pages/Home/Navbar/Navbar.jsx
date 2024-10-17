@@ -14,13 +14,13 @@ const Navbar = () => {
         </Link>
       </div>
       <div className="navbar-end gap-4">
-      <button  className="btn px-6 py-3 bg-gradient-to-r from-yellow-400 to-orange-500 text-white font-semibold rounded-lg hover:from-orange-500 hover:to-yellow-400 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg">
+      <button  className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg px-4 bg-gradient-to-r from-yellow-400 to-orange-500 text-white font-semibold rounded-lg hover:from-orange-500 hover:to-yellow-400 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg">
  
 
           <Link to="https://bisdonline.brac.net/">Online Courses</Link>
         
         </button>
-        <button  className="btn px-6 py-3 bg-gradient-to-r from-yellow-400 to-orange-500 text-white font-semibold rounded-lg hover:from-orange-500 hover:to-yellow-400 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg"
+        <button  className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg px-4 bg-gradient-to-r from-yellow-400 to-orange-500 text-white font-semibold rounded-lg hover:from-orange-500 hover:to-yellow-400 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg"
          >
           <Link to="offline">Offline Courses</Link>
         </button>
