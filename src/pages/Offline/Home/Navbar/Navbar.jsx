@@ -176,9 +176,17 @@ const Navbar = () => {
                 <ul className="">{ListOfCoursesOptions}</ul>
               </details>
             </li>
-            <button className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg btn-outline font-bold mt-2">
+            <div className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg btn-outline mt-2 bg-gradient-to-r from-yellow-400 to-orange-500 text-white font-semibold rounded-lg hover:from-orange-500 hover:to-yellow-400 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg">
+          <a
+            href="https://docs.google.com/forms/d/e/1FAIpQLScoauq-f2VJ6nHBH_X7qNMb7pwg-p2XA-tUzNI45HmaTbRbBw/viewform"
+            
+          >
+            Registration
+          </a>
+        </div>
+            <button className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg btn-outline mt-2 bg-gradient-to-r from-yellow-400 to-orange-500 text-white font-semibold rounded-lg hover:from-orange-500 hover:to-yellow-400 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg">
               <Link to="https://bisdonline.brac.net/" >
-                BISD Online
+                Online Courses
               </Link>
             </button>
           </ul>
@@ -232,7 +240,7 @@ const Navbar = () => {
             </ul>
           </div>
         </ul>
-        <div className="btn px-6 py-3 mx-2 bg-gradient-to-r from-yellow-400 to-orange-500 text-white font-semibold rounded-lg hover:from-orange-500 hover:to-yellow-400 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg">
+        <div className="btn px-4 mx-2 bg-gradient-to-r from-yellow-400 to-orange-500 text-white font-semibold rounded-lg hover:from-orange-500 hover:to-yellow-400 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg">
           <a
             href="https://docs.google.com/forms/d/e/1FAIpQLScoauq-f2VJ6nHBH_X7qNMb7pwg-p2XA-tUzNI45HmaTbRbBw/viewform"
             
@@ -240,9 +248,9 @@ const Navbar = () => {
             Registration
           </a>
         </div>
-        <button  className="btn px-6 py-3 bg-gradient-to-r from-yellow-400 to-orange-500 text-white font-semibold rounded-lg hover:from-orange-500 hover:to-yellow-400 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg">
+        <button  className="btn px-4 bg-gradient-to-r from-yellow-400 to-orange-500 text-white font-semibold rounded-lg hover:from-orange-500 hover:to-yellow-400 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg">
           <Link to="https://bisdonline.brac.net/" >
-            BISD Online
+            Online Courses
           </Link>
         </button>
       </div>
