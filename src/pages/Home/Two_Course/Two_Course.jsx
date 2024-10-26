@@ -3,8 +3,8 @@ import image2 from "./Online2.webp";
 
 const Two_Course = () => {
   return (
-    <div className="grid gap-8 sm:grid-cols-1 md:grid-cols-2 p-4 bg-gray-100">
-      <a href="offline" className="card flex flex-col lg:flex-row overflow-hidden rounded-xl shadow-lg transition-all duration-300 hover:shadow-2xl hover:scale-105 bg-white">
+    <div className="grid gap-8 sm:grid-cols-1 md:grid-cols-2 p-4 ">
+      <a href="offline" className="card flex flex-col lg:flex-row overflow-hidden rounded-xl shadow-lg transition-all duration-300 hover:shadow-2xl hover:scale-105">
         <div className="flex flex-col justify-between lg:w-1/2 p-6">
           <div>
             <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold mb-4">
@@ -34,7 +34,7 @@ const Two_Course = () => {
           <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent"></div>
         </div>
       </a>
-      <a href="https://bisdonline.brac.net/" className="card flex flex-col lg:flex-row overflow-hidden rounded-xl shadow-lg transition-all duration-300 hover:shadow-2xl hover:scale-105 bg-white">
+      <a href="https://bisdonline.brac.net/" className="card flex flex-col lg:flex-row overflow-hidden rounded-xl shadow-lg transition-all duration-300 hover:shadow-2xl hover:scale-105">
         <div className="flex flex-col justify-between lg:w-1/2 p-6">
           <div>
             <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold mb-4 ">

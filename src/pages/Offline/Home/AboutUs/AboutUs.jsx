@@ -2,7 +2,7 @@ const AboutUs = () => {
   return (
     <div className=" ">
       <div className="grid justify-items-center sm:grid-cols-1 lg:grid-cols-2 gap-4 py-8">
-        <h2 className="flex items-center text-center text-black text-lg md:text-2xl lg:text-7xl font-bold">
+        <h2 className="flex items-center text-center  text-lg md:text-2xl lg:text-7xl font-bold">
           About Us
         </h2>
         <h2 className="text-left max-w-screen-xl ">
