@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import './Navbar.css'
+import "./Navbar.css";
 const Navbar = () => {
   const ListOfCentersOptions = (
     <div
@@ -29,13 +29,19 @@ const Navbar = () => {
           <Link to="/offline/centers/coxbazar">BISD Cox's Bazar</Link>
         </li>
         <li>
-          <Link to="/offline/centers/chattogram2">BISD Halishahr (Chattogram)</Link>
+          <Link to="/offline/centers/chattogram2">
+            BISD Halishahr (Chattogram)
+          </Link>
         </li>
         <li>
-          <Link to="/offline/centers/chattogram3">BISD Patiya (Chattogram)</Link>
+          <Link to="/offline/centers/chattogram3">
+            BISD Patiya (Chattogram)
+          </Link>
         </li>
         <li>
-          <Link to="/offline/centers/narayanganjnKanchan">BISD Narayanganj </Link>
+          <Link to="/offline/centers/narayanganjnKanchan">
+            BISD Narayanganj{" "}
+          </Link>
         </li>
         <li>
           <Link to="/offline/centers/narayanganjnBondor">
@@ -64,10 +70,14 @@ const Navbar = () => {
           <Link to="/offline/courses/digital-marketing">Digital Marketing</Link>
         </li>
         <li>
-          <Link to="/offline/courses/palliative-care">Palliative Care Assistant</Link>
+          <Link to="/offline/courses/palliative-care">
+            Palliative Care Assistant
+          </Link>
         </li>
         <li>
-          <Link to="/offline/courses/careGivingTraining">Caregiving Training</Link>
+          <Link to="/offline/courses/careGivingTraining">
+            Caregiving Training
+          </Link>
         </li>
         <li>
           <Link to="/offline/courses/web-design">Web Design</Link>
@@ -108,7 +118,9 @@ const Navbar = () => {
           </Link>
         </li>
         <li>
-          <Link to="/offline/courses/sewing-machine">Sewing Machine Operation</Link>
+          <Link to="/offline/courses/sewing-machine">
+            Sewing Machine Operation
+          </Link>
         </li>
         <li>
           <Link to="/offline/courses/plumbing-pipe-fitting">
@@ -121,7 +133,9 @@ const Navbar = () => {
           </Link>
         </li>
         <li>
-          <Link to="/offline/courses/tiles-marbel-work">Tiles & Marbel Work</Link>
+          <Link to="/offline/courses/tiles-marbel-work">
+            Tiles & Marbel Work
+          </Link>
         </li>
         <li>
           <Link to="/offline/courses/masonry">Masonry</Link>
@@ -130,7 +144,9 @@ const Navbar = () => {
           <Link to="/offline/courses/welding">Welding</Link>
         </li>
         <li>
-          <Link to="/offline/courses/retail-Sales-Service">Retail Sales Service</Link>
+          <Link to="/offline/courses/retail-Sales-Service">
+            Retail Sales Service
+          </Link>
         </li>
       </ul>
     </div>
@@ -176,31 +192,39 @@ const Navbar = () => {
                 <ul className="">{ListOfCoursesOptions}</ul>
               </details>
             </li>
-            <div className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg btn-outline mt-2 bg-gradient-to-r from-yellow-400 to-orange-500 text-white font-semibold rounded-lg hover:from-orange-500 hover:to-yellow-400 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg">
-          <a
-            href="https://docs.google.com/forms/d/e/1FAIpQLScoauq-f2VJ6nHBH_X7qNMb7pwg-p2XA-tUzNI45HmaTbRbBw/viewform"
-            
-          >
-            Registration
-          </a>
-        </div>
+            {/* <div className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg btn-outline mt-2 bg-gradient-to-r from-yellow-400 to-orange-500 text-white font-semibold rounded-lg hover:from-orange-500 hover:to-yellow-400 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg">
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLScoauq-f2VJ6nHBH_X7qNMb7pwg-p2XA-tUzNI45HmaTbRbBw/viewform">
+                Registration
+              </a>
+            </div>
             <button className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg btn-outline mt-2 bg-gradient-to-r from-yellow-400 to-orange-500 text-white font-semibold rounded-lg hover:from-orange-500 hover:to-yellow-400 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg">
-              <Link to="https://bisdonline.brac.net/" >
-                Online Courses
-              </Link>
-            </button>
+              <Link to="https://bisdonline.brac.net/">Online Courses</Link>
+            </button> */}
+            <a
+              href="https://docs.google.com/forms/d/e/1FAIpQLScoauq-f2VJ6nHBH_X7qNMb7pwg-p2XA-tUzNI45HmaTbRbBw/viewform"
+              className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg btn-outline mt-2 bg-gradient-to-r from-yellow-400 to-orange-500 text-white font-semibold rounded-lg hover:from-orange-500 hover:to-yellow-400 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg"
+            >
+              Registration
+            </a>
+
+            <Link
+              to="https://bisdonline.brac.net/"
+              className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg btn-outline mt-2 bg-gradient-to-r from-yellow-400 to-orange-500 text-white font-semibold rounded-lg hover:from-orange-500 hover:to-yellow-400 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg"
+            >
+              Online Courses
+            </Link>
           </ul>
         </div>
         <Link to="/">
           <img
-          className="logo"
+            className="logo"
             style={{ width: "120px", height: "auto" }}
             alt="BRAC ISD Logo"
             src="https://i.ibb.co/tJrzNvT/brac-ISD-PNG-logo.png"
           ></img>
         </Link>
       </div>
-      <div className="navbar-end hidden lg:flex">
+      <div className="navbar-end gap-4 hidden lg:flex">
         <ul className="menu menu-horizontal  grid grid-flow-col auto-cols-max">
           <div>
             <label
@@ -240,19 +264,16 @@ const Navbar = () => {
             </ul>
           </div>
         </ul>
-        <div className="btn px-4 mx-2 bg-gradient-to-r from-yellow-400 to-orange-500 text-white font-semibold rounded-lg hover:from-orange-500 hover:to-yellow-400 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg">
-          <a
-            href="https://docs.google.com/forms/d/e/1FAIpQLScoauq-f2VJ6nHBH_X7qNMb7pwg-p2XA-tUzNI45HmaTbRbBw/viewform"
-            
-          >
+        <Link to="https://docs.google.com/forms/d/e/1FAIpQLScoauq-f2VJ6nHBH_X7qNMb7pwg-p2XA-tUzNI45HmaTbRbBw/viewform">
+          <button className="btn btn-xs sm:btn-sm md:btn-md bg-gradient-to-r from-yellow-400 to-orange-500 text-white font-semibold rounded-lg hover:from-orange-500 hover:to-yellow-400 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg">
             Registration
-          </a>
-        </div>
-        <button  className="btn px-4 bg-gradient-to-r from-yellow-400 to-orange-500 text-white font-semibold rounded-lg hover:from-orange-500 hover:to-yellow-400 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg">
-          <Link to="https://bisdonline.brac.net/" >
+          </button>
+        </Link>
+        <Link to="https://bisdonline.brac.net/">
+          <button className="btn btn-xs sm:btn-sm md:btn-md bg-gradient-to-r from-yellow-400 to-orange-500 text-white font-semibold rounded-lg hover:from-orange-500 hover:to-yellow-400 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg">
             Online Courses
-          </Link>
-        </button>
+          </button>
+        </Link>
       </div>
     </div>
   );
