@@ -13,21 +13,15 @@ const Navbar = () => {
           />
         </Link>
       </div>
-      <div className="navbar-end gap-4">
-        {/* <button className="btn btn-xs sm:btn-sm md:btn-md bg-gradient-to-r from-yellow-400 to-orange-500 text-white font-semibold rounded-lg hover:from-orange-500 hover:to-yellow-400 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg">
-          <Link to="https://bisdonline.brac.net/">Online Courses</Link>
-        </button>
-        <button className="btn btn-xs sm:btn-sm md:btn-md bg-gradient-to-r from-yellow-400 to-orange-500 text-white font-semibold rounded-lg hover:from-orange-500 hover:to-yellow-400 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg">
-          <Link to="offline">Offline Courses</Link>
-        </button> */}
+      <div className="navbar-end gap-2 md:gap-4">
         <Link to="https://bisdonline.brac.net/">
-          <button className="btn btn-xs sm:btn-sm md:btn-md bg-gradient-to-r from-yellow-400 to-orange-500 text-white font-semibold rounded-lg hover:from-orange-500 hover:to-yellow-400 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg">
+          <button className="btn btn-xs sm:btn-sm md:btn-md whitespace-nowrap bg-gradient-to-r from-yellow-400 to-orange-500 text-white font-semibold rounded-lg hover:from-orange-500 hover:to-yellow-400 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg">
             Online Courses
           </button>
         </Link>
 
         <Link to="offline">
-          <button className="btn btn-xs sm:btn-sm md:btn-md bg-gradient-to-r from-yellow-400 to-orange-500 text-white font-semibold rounded-lg hover:from-orange-500 hover:to-yellow-400 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg">
+          <button className="btn btn-xs sm:btn-sm md:btn-md whitespace-nowrap bg-gradient-to-r from-yellow-400 to-orange-500 text-white font-semibold rounded-lg hover:from-orange-500 hover:to-yellow-400 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg">
             Offline Courses
           </button>
         </Link>

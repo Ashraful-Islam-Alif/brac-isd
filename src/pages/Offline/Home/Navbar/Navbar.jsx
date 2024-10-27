@@ -192,14 +192,6 @@ const Navbar = () => {
                 <ul className="">{ListOfCoursesOptions}</ul>
               </details>
             </li>
-            {/* <div className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg btn-outline mt-2 bg-gradient-to-r from-yellow-400 to-orange-500 text-white font-semibold rounded-lg hover:from-orange-500 hover:to-yellow-400 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg">
-              <a href="https://docs.google.com/forms/d/e/1FAIpQLScoauq-f2VJ6nHBH_X7qNMb7pwg-p2XA-tUzNI45HmaTbRbBw/viewform">
-                Registration
-              </a>
-            </div>
-            <button className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg btn-outline mt-2 bg-gradient-to-r from-yellow-400 to-orange-500 text-white font-semibold rounded-lg hover:from-orange-500 hover:to-yellow-400 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg">
-              <Link to="https://bisdonline.brac.net/">Online Courses</Link>
-            </button> */}
             <a
               href="https://docs.google.com/forms/d/e/1FAIpQLScoauq-f2VJ6nHBH_X7qNMb7pwg-p2XA-tUzNI45HmaTbRbBw/viewform"
               className="btn btn-xs sm:btn-sm md:btn-md lg:btn-lg btn-outline mt-2 bg-gradient-to-r from-yellow-400 to-orange-500 text-white font-semibold rounded-lg hover:from-orange-500 hover:to-yellow-400 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg"
@@ -266,7 +258,7 @@ const Navbar = () => {
         </ul>
         <Link to="https://docs.google.com/forms/d/e/1FAIpQLScoauq-f2VJ6nHBH_X7qNMb7pwg-p2XA-tUzNI45HmaTbRbBw/viewform">
           <button className="btn btn-xs sm:btn-sm md:btn-md bg-gradient-to-r from-yellow-400 to-orange-500 text-white font-semibold rounded-lg hover:from-orange-500 hover:to-yellow-400 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg">
-            Registration
+          Registration
           </button>
         </Link>
         <Link to="https://bisdonline.brac.net/">
@@ -274,6 +266,8 @@ const Navbar = () => {
             Online Courses
           </button>
         </Link>
+
+        
       </div>
     </div>
   );
