@@ -48,7 +48,7 @@ const Footer = () => {
             Contact Us
           </h6>
           <p className="text-gray-500 ">info.bisdonline@brac.net</p>
-          <p>+880177143483</p>
+          <p>০৯৬১৪৪০০৮০০</p>
         </nav>
       </footer>
 
