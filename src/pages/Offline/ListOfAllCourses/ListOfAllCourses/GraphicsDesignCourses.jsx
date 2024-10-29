@@ -155,7 +155,7 @@ const GraphicsDesignCourses = () => {
               </Link>
             </p>
             <p className="underline">
-              <Link to="/offline/centers/maymanshing">
+              <Link to="/offline/centers/mymensingh">
                 BISD Mymensingh Centre
               </Link>
             </p>

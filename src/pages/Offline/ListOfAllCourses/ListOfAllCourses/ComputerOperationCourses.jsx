@@ -175,24 +175,24 @@ const ComputerOperationCourses = () => {
           </h1>
           <div className="mt-4">
             <p className="underline">
-              <Link to="offline/centers/dhaka">BISD Dhaka Centre</Link>
+              <Link to="/offline/centers/dhaka">BISD Dhaka Centre</Link>
             </p>
             <p className="underline">
-              <Link to="offline/centers/rangpur">BISD Rangpur Centre</Link>
+              <Link to="/offline/centers/rangpur">BISD Rangpur Centre</Link>
             </p>
             <p className="underline">
-              <Link to="offline/centers/rajshahi">BISD Rajshahi Centre</Link>
+              <Link to="/offline/centers/rajshahi">BISD Rajshahi Centre</Link>
             </p>
             <p className="underline">
-              <Link to="offline/centers/cumilla">BISD Cumilla Centre</Link>
+              <Link to="/offline/centers/cumilla">BISD Cumilla Centre</Link>
             </p>
             <p className="underline">
-              <Link to="offline/centers/chattogram">
+              <Link to="/offline/centers/chattogram">
                 BISD Chattogram Centre
               </Link>
             </p>
             <p className="underline">
-              <Link to="offline/centers/sylhet">BISD Sylhet Centre</Link>
+              <Link to="/offline/centers/sylhet">BISD Sylhet Centre</Link>
             </p>
           </div>
         </div>

@@ -41,7 +41,7 @@ const DigitalMarketingCourses = () => {
             </div>
             <div>
               <Link
-                to="https://docs.google.com/forms/d/e/1FAIpQLSfUhIt6DCWApWz-7aIyKSt0ji5xGap0mBsP6rDcXji9RIfiyQ/viewform"
+                to="https://docs.google.com/forms/d/e/1FAIpQLScoauq-f2VJ6nHBH_X7qNMb7pwg-p2XA-tUzNI45HmaTbRbBw/viewform"
                 target="_blank"
                  className="btn px-6 py-3 bg-gradient-to-r from-yellow-400 to-orange-500 text-white font-semibold rounded-lg hover:from-orange-500 hover:to-yellow-400 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg"
                 style={{ whiteSpace: "nowrap" }}
@@ -180,27 +180,27 @@ const DigitalMarketingCourses = () => {
           </h1>
           <div className="mt-4">
             <p className="underline">
-              <Link to="/centers/dhaka">BISD Dhaka Centre</Link>
+              <Link to="/offline/centers/dhaka">BISD Dhaka Centre</Link>
             </p>
             <p className="underline">
-              <Link to="/centers/cumilla">BISD Cumilla Centre</Link>
+              <Link to="/offline/centers/cumilla">BISD Cumilla Centre</Link>
             </p>
             <p className="underline">
-              <Link to="/centers/chattogram">BISD Chattogram Centre</Link>
+              <Link to="/offline/centers/chattogram">BISD Chattogram Centre</Link>
             </p>
             <p className="underline">
-              <Link to="/centers/sylhet">BISD Sylhet Centre</Link>
+              <Link to="/offline/centers/sylhet">BISD Sylhet Centre</Link>
             </p>
             <p className="underline">
-              <Link to="/centers/chattogram3">
+              <Link to="/offline/centers/chattogram3">
                 BISD Patiya(Chattogram) Centre
               </Link>
             </p>
             <p className="underline">
-              <Link to="/centers/maymanshing">BISD Mymensingh Centre</Link>
+              <Link to="/offline/centers/mymensingh">BISD Mymensingh Centre</Link>
             </p>
             <p className="underline">
-              <Link to="/centers/narayanganjnBondor">
+              <Link to="/offline/centers/narayanganjnBondor">
                 BISD Bandar(Narayanganj) Centre
               </Link>
             </p>
