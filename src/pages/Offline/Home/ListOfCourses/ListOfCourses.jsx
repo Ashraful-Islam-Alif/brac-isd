@@ -29,7 +29,7 @@ const ListOfCourses = () => {
           </Link>
         </div>
         <div className="my-8 text-lg font-semibold underline">
-          <Link to="/offline/courses/graphics-design">GraphicDesign</Link>
+          <Link to="/offline/courses/graphics-design">Graphic Design</Link>
         </div>
         <div className="my-8 text-lg font-semibold underline">
           <Link to="/offline/courses/refrigeration-ac">
