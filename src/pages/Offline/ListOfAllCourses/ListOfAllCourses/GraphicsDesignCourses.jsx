@@ -60,8 +60,7 @@ const GraphicsDesignCourses = () => {
         </p>
         <p className="mt-4">
           <span className="font-bold md:text-xl text-md mt-4">Schedule</span>{" "}
-          Saturday, Monday, Wednesday Sunday, Tuesday, Thursday (3 days in a
-          week)
+          Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday
         </p>
         <p className="mt-4 font-bold md:text-xl text-md">Course Contents:</p>
         <p className=" ">
@@ -128,40 +127,43 @@ const GraphicsDesignCourses = () => {
           <h1 className="font-bold md:text-xl text-md ">
             Course available in:
           </h1>
-          <div className="mt-4">
+          <div className="">
             <p className="underline">
-              <Link to="/offline/centers/dhaka">BISD Dhaka Centre</Link>
+              <Link to="/offline/centers/dhaka">BRAC ISD Dhaka Centre</Link>
             </p>
             <p className="underline">
-              <Link to="/offline/centers/rangpur">BISD Rangpur Centre</Link>
+              <Link to="/offline/centers/rangpur">BRAC ISD Rangpur Centre</Link>
             </p>
             <p className="underline">
-              <Link to="/offline/centers/rajshahi">BISD Rajshahi Centre</Link>
+              <Link to="/offline/centers/rajshahi">BRAC ISD Rajshahi Centre</Link>
             </p>
             <p className="underline">
-              <Link to="/offline/centers/cumilla">BISD Cumilla Centre</Link>
+              <Link to="/offline/centers/cumilla">BRAC ISD Cumilla Centre</Link>
             </p>
             <p className="underline">
               <Link to="/offline/centers/chattogram">
-                BISD Chattogram Centre
+                BRAC ISD Chattogram Centre
               </Link>
             </p>
             <p className="underline">
-              <Link to="/offline/centers/sylhet">BISD Sylhet Centre</Link>
+              <Link to="/offline/centers/sylhet">BRAC ISD Sylhet Centre</Link>
+            </p>
+            <p className="underline">
+              <Link to="/offline/centers/chattogram2">BRAC ISD Halishahar Centre</Link>
             </p>
             <p className="underline">
               <Link to="/offline/centers/chattogram3">
-                BISD Patiya(Chattogram) Centre
+                BRAC ISD Patiya(Chattogram) Centre
               </Link>
             </p>
             <p className="underline">
               <Link to="/offline/centers/mymensingh">
-                BISD Mymensingh Centre
+                BRAC ISD Mymensingh Centre
               </Link>
             </p>
             <p className="underline">
               <Link to="/offline/centers/narayanganjnBondor">
-                BISD Bandar(Narayanganj) Centre
+                BRAC ISD Bandar(Narayanganj) Centre
               </Link>
             </p>
           </div>

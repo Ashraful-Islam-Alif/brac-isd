@@ -36,7 +36,7 @@ const Banner = () => {
         <h2 className="font-bold text-xl md:text-2xl lg:text-5xl mb-4 mt-4">
           Better Learning Future Starts With BRAC ISD
         </h2>
-        <p className="mt-4 md:text-lg text-sm">
+        <p className="mt-4 md:text-lg text-sm text-justify">
           The BRAC Institute of Skills Development (BRAC ISD) is a registered
           training organisation that offers National Technical and Vocational
           Qualification Framework (NTVQF) training tailored specifically for

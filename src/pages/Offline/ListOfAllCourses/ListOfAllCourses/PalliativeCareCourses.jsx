@@ -69,7 +69,7 @@ const PalliativeCareCourses = () => {
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Schedule:</p>
           <p className=" ">
-            <span>1. Sunday-Thursday (9 am to 1:30 pm)</span>
+            <span>Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday</span>
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Course Contents:</p>
           <p className=" ">
@@ -163,9 +163,9 @@ const PalliativeCareCourses = () => {
           <h1 className="font-bold md:text-xl text-md ">
             Course available in:
           </h1>
-          <div className="mt-4">
+          <div className="">
             <p className="underline">
-              <Link to="/offline/centers/dhaka">BISD Dhaka Centre</Link>
+              <Link to="/offline/centers/dhaka">BRAC ISD Dhaka Centre</Link>
             </p>
           </div>
         </div>

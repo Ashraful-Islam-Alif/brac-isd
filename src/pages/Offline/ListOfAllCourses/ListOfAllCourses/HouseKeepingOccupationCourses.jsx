@@ -61,7 +61,7 @@ const HouseKeepingOccupationCourses = () => {
           Minimum SSC
         </p>
         <p className="mt-4 font-bold md:text-xl text-md">Schedule:</p>
-        <p className="mt-4 ">Saturday to Thusday / 6 day</p>
+        <p className="">Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday</p>
         <p className="mt-4 font-bold md:text-xl text-md">Course Contents:</p>
         <p className=" ">
           OSH, Work In the Team Environment, Participate In Workplace
@@ -207,13 +207,13 @@ const HouseKeepingOccupationCourses = () => {
           <h1 className="font-bold md:text-xl text-md ">
             Course available in:
           </h1>
-          <div className="mt-4">
+          <div className="">
             <p className="underline">
-              <Link to="/offline/centers/dhaka">BISD Dhaka Centre</Link>
+              <Link to="/offline/centers/dhaka">BRAC ISD Dhaka Centre</Link>
             </p>
             <p className="underline">
               <Link to="/offline/centers/coxbazar">
-                BISD Cox's Bazar Centre
+                BRAC ISD Cox's Bazar Centre
               </Link>
             </p>
           </div>

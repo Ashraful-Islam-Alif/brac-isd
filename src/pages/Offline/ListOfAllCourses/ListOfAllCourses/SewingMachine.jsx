@@ -65,11 +65,11 @@ const SewingMachine = () => {
             Minimum class 5
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Schedule:</p>
-          <p className="mt-4 ">
-            <span>Sat, Mon & Wed Sun, Tue & Thu</span>
+          <p className="">
+            <span>Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday</span>
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Course Contents:</p>
-          <p className="mt-4 ">
+          <p className="">
             <span>
               1. Generic : Communicate in the Workplace, Work in a team
               Invironment.
@@ -113,7 +113,7 @@ const SewingMachine = () => {
             <br></br>
           </p>
           <p className=" font-bold md:text-xl text-md mt-4">Course Overview:</p>
-          <p className="mt-2">
+          <p className="">
             Occupation Specific: Operate Single needle lock stitch Machine,<br />
             Operate Dubble needle lock stitch Machine, <br />Operate Single needle
             chain stitch Machine <br />Operate dubble needle chain stitch Machine,
@@ -122,7 +122,7 @@ const SewingMachine = () => {
           <p className=" font-bold md:text-xl text-md mt-4">
             Course Objectives:
           </p>
-          <p className="mt-2">Professional Competency</p>
+          <p className="">Professional Competency</p>
 
           <p className="font-bold mt-4 md:text-xl text-md">
             Teaching Approach:
@@ -138,11 +138,14 @@ const SewingMachine = () => {
           <h1 className="font-bold md:text-xl text-md ">
             Course available in:
           </h1>
-          <div className="mt-4">
+          <div className="">
             <p className="underline">
               <Link to="/offline/centers/narayanganjnKanchan">
-                BISD Narayanganj Centre
+                BRAC ISD Narayanganj Centre
               </Link>
+            </p>
+            <p className="underline">
+              <Link to="/offline/centers/manikganj">BRAC ISD Manikganj Centre</Link>
             </p>
           </div>
         </div>

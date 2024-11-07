@@ -10,7 +10,7 @@ const Two_Course = () => {
             <h2 className="text-2xl md:text-3xl lg:text-4xl font-bold mb-4">
               Centre-based Training
             </h2>
-            <p className="mb-6  leading-relaxed">
+            <p className="mb-6  leading-relaxed ">
               At BRAC's Skills Development Programme, we provide high-quality,
               affordable NTVQF physical training sessions across our various
               centres in Bangladesh. These in-person courses provide hands-on

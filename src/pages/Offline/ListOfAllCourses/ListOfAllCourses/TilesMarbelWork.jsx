@@ -57,12 +57,12 @@ const TilesMarbelWork = () => {
             Minimum SSC
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Schedule:</p>
-          <p className="mt-4 ">
-            <span>8:30 AM To 4:30 PM</span>
+          <p className="">
+            <span>Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday</span>
             <br></br>
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Course Contents:</p>
-          <p className="mt-4 ">
+          <p className="">
             <span>
               BCA, OSH, First AID, Teem Work, Comunication in English, Hand and
               Power Tools, Graduate Measurments, Interprate Technical Drawing,
@@ -102,10 +102,18 @@ const TilesMarbelWork = () => {
         </div>
         <div className="mt-4">
           <h1 className="font-bold  md:text-xl text-md">Course available in:</h1>
-          <div className="mt-4">
+          <div className="">
             <p className="underline">
               <Link to="/offline/centers/narayanganjnKanchan">
-                BISD Narayanganj Centre
+                BRAC ISD Narayanganj Centre
+              </Link>
+            </p>
+            <p className="underline">
+              <Link to="/offline/centers/manikganj">BRAC ISD Manikganj Centre</Link>
+            </p>
+            <p className="underline">
+              <Link to="/offline/centers/nilphamari">
+                BRAC ISD Nilphamari Centre
               </Link>
             </p>
           </div>

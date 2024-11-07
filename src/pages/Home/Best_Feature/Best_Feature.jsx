@@ -21,7 +21,7 @@ const Best_Feature = () => {
               Quality Training at Affordable Prices
             </h2>
           </div>
-          <p className="mt-4">
+          <p className="mt-4 text-justify">
             BRAC ISD Online offers high-quality training at affordable prices,
             making education accessible to all. With expert-certified
             instructors and an up-to-date curriculum, we cover essential topics
@@ -43,7 +43,7 @@ const Best_Feature = () => {
             </svg>
             <h2 className="text-lg font-semibold">Interactive Live Classes</h2>
           </div>
-          <p className="mt-4">
+          <p className="mt-4 text-justify">
             BRAC ISD Online provides a dynamic learning experience with
             real-time interaction between instructors and learners. Using video
             conferencing tools, these classes offer discussions, instant
@@ -68,7 +68,7 @@ const Best_Feature = () => {
               Scholarships for Disadvantaged Students
             </h2>
           </div>
-          <p className="mt-4">
+          <p className="mt-4 text-justify">
             BRAC ISD Online offers scholarships to support underprivileged
             students who cannot afford expensive market-priced courses.
             Applicants must undergo an assessment process to be eligible for
@@ -91,7 +91,7 @@ const Best_Feature = () => {
               Renowned Training Service Providers
             </h2>
           </div>
-          <p className="mt-4">
+          <p className="mt-4 text-justify">
             BRAC ISD Online collaborates with leading training providers to
             offer in-demand courses to eager learners. Partnering with renowned
             institutions enhances the quality and credibility of our programmes,

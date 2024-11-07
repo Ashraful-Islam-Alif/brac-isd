@@ -33,7 +33,7 @@ const Nilphamari = () => {
         <div className="hero-content text-center text-white">
           <div className="max-w-xl md:max-w-2xl lg:max-w-2xl">
             <h2 className="text-xl md:text-3xl lg:text-5xl font-bold">
-              BISD Nilphamari
+              BRAC ISD Nilphamari
             </h2>
             <hr className="mx-8 md:mx-10 lg:mx-10 mt-4 border-t-8 font-bold border-[#FFA100]"></hr>
           </div>
@@ -41,7 +41,7 @@ const Nilphamari = () => {
       </div>
       <div className="my-8 max-w-screen-xl mx-8">
         <h2 className="my-4 text-xl font-bold">
-          Available Course of BISD Nilphamari Centre
+          Available Course of BRAC ISD Nilphamari Centre
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
           <Link
@@ -51,12 +51,40 @@ const Nilphamari = () => {
             <h2>Electrical Installation & Maintenance</h2>
             <img className="h-[20px] " src={arrowIcon}></img>
           </Link>
+          <Link
+            class="my-8 text-lg font-semibold underline flex items-center"
+            to="/offline/courses/rod-Binding"
+          >
+            <h2>Rod Binding</h2>
+            <img className="h-[20px] " src={arrowIcon}></img>
+          </Link>
+          <Link
+            class="my-8 text-lg font-semibold underline flex items-center"
+            to="/offline/courses/computer-operation"
+          >
+            <h2>Computer Office Applications</h2>
+            <img className="h-[20px] " src={arrowIcon}></img>
+          </Link>
+          <Link
+            class="my-8 text-lg font-semibold underline flex items-center"
+            to="/offline/courses/plumbing-pipe-fitting"
+          >
+            <h2>Plumbing & Pipe Fitting</h2>
+            <img className="h-[20px] " src={arrowIcon}></img>
+          </Link>
+          <Link
+            class="my-8 text-lg font-semibold underline flex items-center"
+            to="/offline/courses/tiles-marbel-work"
+          >
+            <h2>Tiles and Marble Fittings</h2>
+            <img className="h-[20px] " src={arrowIcon}></img>
+          </Link>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4 my-8">
           <div className="mb-6 md:mb-0">
             <p className="text-xl font-bold">Contact</p>
-            <p>Center Lead of BISD Nilphamari</p>
+            <p>Center Lead of BRAC ISD Nilphamari</p>
             <p className="font-bold">01786809157</p>
             <p>
               <Link

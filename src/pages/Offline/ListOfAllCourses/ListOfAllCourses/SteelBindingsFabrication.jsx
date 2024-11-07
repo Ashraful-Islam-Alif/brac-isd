@@ -58,11 +58,11 @@ const SteelBindingsFabrication = () => {
             Minimum SSC
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Schedule:</p>
-          <p className="mt-4 ">
-            <span>8:30 AM To 4:30 PM</span>
+          <p className="">
+            <span>Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday</span>
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Course Contents:</p>
-          <p className="mt-4 ">
+          <p className="">
             <span>
               Perform Basic Mathics, OH&S in Workplace, Communicate in English
               in the work Environment.Translate Drawing ,plan and
@@ -107,9 +107,14 @@ const SteelBindingsFabrication = () => {
         </div>
         <div className="mt-4">
           <h1 className="font-bold  md:text-xl text-md">Course available in:</h1>
-          <div className="mt-4">
+          <div className="">
+          <p className="underline">
+              <Link to="/offline/centers/narayanganjnKanchan">
+                BRAC ISD Narayanganj Centre
+              </Link>
+            </p>
             <p className="underline">
-              <Link to="/offline/centers/manikganj">BISD Manikganj Centre</Link>
+              <Link to="/offline/centers/manikganj">BRAC ISD Manikganj Centre</Link>
             </p>
           </div>
         </div>

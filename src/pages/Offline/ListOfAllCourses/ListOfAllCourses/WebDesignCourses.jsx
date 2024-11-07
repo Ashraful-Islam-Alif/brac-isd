@@ -68,12 +68,11 @@ const WebDesignCourses = () => {
             Minimum HSC
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Schedule:</p>
-          <p className="mt-4 ">
-            Saturday, Monday, Wednesday Sunday, Tuesday, Thursday (3 days in a
-            week)
+          <p className="">
+            Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday 
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Course Contents:</p>
-          <p className="mt-4 ">
+          <p className="">
             BRAC ISD Courses Information 100% G5 PHP,MySQL,OOP,CRUD Operation
             Front-end Integration: Integrate Laravel with front-end libraries.
             MVC Architecture: Understand Laravel's MVC design pattern. Blade
@@ -137,12 +136,12 @@ const WebDesignCourses = () => {
           <h1 className="font-bold md:text-xl text-md ">
             Course available in:
           </h1>
-          <div className="mt-4">
+          <div className="">
             <p className="underline">
-              <Link to="/offline/centers/dhaka">BISD Dhaka Centre</Link>
+              <Link to="/offline/centers/dhaka">BRAC ISD Dhaka Centre</Link>
             </p>
             <p className="underline">
-              <Link to="/offline/centers/rajshahi">BISD Rajshahi Centre</Link>
+              <Link to="/offline/centers/rajshahi">BRAC ISD Rajshahi Centre</Link>
             </p>
           </div>
         </div>

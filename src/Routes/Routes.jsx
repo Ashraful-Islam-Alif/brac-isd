@@ -36,6 +36,7 @@ import CaregivingTraining from "../pages/Offline/ListOfAllCourses/ListOfAllCours
 import Masonry from "../pages/Offline/ListOfAllCourses/ListOfAllCourses/Masonry";
 import Welding from "../pages/Offline/ListOfAllCourses/ListOfAllCourses/Welding";
 import RetailSalesService from "../pages/Offline/ListOfAllCourses/ListOfAllCourses/RetailSalesService";
+import RodBinding from "../pages/Offline/ListOfAllCourses/ListOfAllCourses/RodBinding";
 
 export const router = createBrowserRouter([
   {
@@ -187,6 +188,10 @@ export const router = createBrowserRouter([
       {
         path: "offline/courses/retail-Sales-Service",
         element: <RetailSalesService></RetailSalesService>,
+      },
+      {
+        path: "offline/courses/rod-Binding",
+        element: <RodBinding></RodBinding>,
       },
     ],
   },

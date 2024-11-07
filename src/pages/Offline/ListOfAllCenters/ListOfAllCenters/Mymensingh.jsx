@@ -34,7 +34,7 @@ const Mymensingh = () => {
             <div className="hero-content text-center text-white">
               <div className="max-w-xl md:max-w-2xl lg:max-w-2xl">
                 <h2 className="text-xl md:text-3xl lg:text-5xl font-bold">
-                  BISD Mymensingh
+                  BRAC ISD Mymensingh
                 </h2>
                 <hr className="mx-8 md:mx-10 lg:mx-10 mt-4 border-t-8 font-bold border-[#FFA100]"></hr>
               </div>
@@ -42,7 +42,7 @@ const Mymensingh = () => {
           </div>
           <div className="my-8 max-w-screen-xl mx-8">
             <h2 className="my-4 text-xl font-bold">
-              Available Course of BISD Mymensingh Centre
+              Available Course of BRAC ISD Mymensingh Centre
             </h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
               <Link
@@ -64,7 +64,7 @@ const Mymensingh = () => {
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4 my-8">
               <div className="mb-6 md:mb-0">
                 <p className="text-xl font-bold">Contact</p>
-                <p>Center Lead of BISD Mymensingh</p>
+                <p>Center Lead of BRAC ISD Mymensingh</p>
                 <p className="font-bold">01991342454</p>
                 <p>
                   <Link to="mailto:hasanrakib78@yahoo.com" className="underline">

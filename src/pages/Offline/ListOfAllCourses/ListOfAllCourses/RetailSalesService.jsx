@@ -65,12 +65,12 @@ const RetailSalesService = () => {
             Minimum SSC
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Schedule:</p>
-          <p className="mt-4 ">
-            <span>Morning Shift: 8:30 AM - 12:30 PM</span>
-            <span>Afternoon Shift: 1:30 PM- 5:30 PM</span>
+          <p className="">
+            <span>Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday</span>
+           
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Course Contents:</p>
-          <p className="mt-4 ">
+          <p className="">
             <span>
               1.Practice Occupational Safety and Health <br />
               2.Work in Team Environment <br />
@@ -163,10 +163,10 @@ const RetailSalesService = () => {
           <h1 className="font-bold md:text-xl text-md ">
             Course available in:
           </h1>
-          <div className="mt-4">
+          <div className="">
             <p className="underline">
               <Link to="/offline/centers/coxbazar">
-                BISD Cox's Bazar Centre
+                BRAC ISD Cox's Bazar Centre
               </Link>
             </p>
           </div>

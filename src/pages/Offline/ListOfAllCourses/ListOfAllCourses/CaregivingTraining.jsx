@@ -1,4 +1,3 @@
-
 import { Link } from "react-router-dom";
 import Navbar from "../../Home/Navbar/Navbar";
 import Footer from "../../Home/Footer/Footer";
@@ -32,10 +31,7 @@ const CaregivingTraining = () => {
       <div className="container mx-auto px-4 md:px-8 lg:px-16 my-8">
         {/* course info */}
         <div>
-          <div
-            className="flex justify-between"
-            
-          >
+          <div className="flex justify-between">
             <div style={{ whiteSpace: "wrap" }}>
               <h2 className="font-bold md:text-2xl text-lg ">
                 Caregiving Training
@@ -45,7 +41,7 @@ const CaregivingTraining = () => {
               <Link
                 to="https://docs.google.com/forms/d/e/1FAIpQLScoauq-f2VJ6nHBH_X7qNMb7pwg-p2XA-tUzNI45HmaTbRbBw/viewform"
                 target="_blank"
-                 className="btn px-6 py-3 bg-gradient-to-r from-yellow-400 to-orange-500 text-white font-semibold rounded-lg hover:from-orange-500 hover:to-yellow-400 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg"
+                className="btn px-6 py-3 bg-gradient-to-r from-yellow-400 to-orange-500 text-white font-semibold rounded-lg hover:from-orange-500 hover:to-yellow-400 transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg"
                 style={{ whiteSpace: "nowrap" }}
               >
                 Click for Registration
@@ -70,13 +66,13 @@ const CaregivingTraining = () => {
             </span>{" "}
             Minimum SSC (Secondary School Certificate)
           </p>
-          <p className="mt-4 font-bold md:text-xl text-md">Schedule:</p>
-          <p className="mt-4 ">
-            <span> 6 days/week</span>
-            <br></br>
+          <p className="mt-4">
+            
+            <span className="font-bold md:text-xl text-md mt-4">Schedule: </span>
+            Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Course Contents:</p>
-          <p className="mt-4 ">
+          <p className="">
             <span>1. Fundamental Skills of Caregiving</span>
             <br></br>
             <span>2. Working as a Team</span>
@@ -92,7 +88,6 @@ const CaregivingTraining = () => {
             <span>7. Physiotherapy</span>
             <br></br>
             <span>8. Basic Personal Care to the Client</span>
-            <br></br>
             <br></br>
             <span>9. Food Safety and Nutrition.</span>
             <br></br>
@@ -148,12 +143,12 @@ const CaregivingTraining = () => {
           </p>
         </div>
         <div className="mt-4">
-          <h1 className="font-bold md:text-xl text-md ">
+          <h1 className="font-bold md:text-xl text-md">
             Course available in:
           </h1>
-          <div className="mt-4">
+          <div className="">
             <p className="underline">
-              <Link to="/offline/centers/dhaka">BISD Dhaka Centre</Link>
+              <Link to="/offline/centers/dhaka">BRAC ISD Dhaka Centre</Link>
             </p>
           </div>
         </div>

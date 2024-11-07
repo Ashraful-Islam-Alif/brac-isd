@@ -63,8 +63,8 @@ const ProgrammableLogicControllerCourses = () => {
           Minimum SSC
         </p>
         <p className="mt-4 font-bold md:text-xl text-md">Schedule:</p>
-        <p className="mt-4 ">
-          Saturday, Monday, Wednesday Sunday, Tuesday, Thursday 3 days in a week
+        <p className="">
+        Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday
         </p>
         <h2 className="mt-4 font-bold md:text-xl text-md">Course Contents:</h2>
         <p>
@@ -140,9 +140,9 @@ const ProgrammableLogicControllerCourses = () => {
           <h1 className="font-bold md:text-xl text-md ">
             Course available in:
           </h1>
-          <div className="mt-4">
+          <div className="">
             <p className="underline">
-              <Link to="/offline/centers/dhaka">BISD Dhaka Centre</Link>
+              <Link to="/offline/centers/dhaka">BRAC ISD Dhaka Centre</Link>
             </p>
           </div>
         </div>

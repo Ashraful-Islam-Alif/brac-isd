@@ -15,7 +15,7 @@ const ListOfCenters = () => {
               style={{ width: "400px", height: "220px" }}
             ></img>
             <h2 className="text-center underline font-bold text-[#FFA100] text-xl">
-              <Link to="/offline/centers/dhaka">BISD Uttara (Dhaka)</Link>
+              <Link to="/offline/centers/dhaka">BRAC ISD Uttara (Dhaka)</Link>
             </h2>
           </a>
         </div>
@@ -27,7 +27,7 @@ const ListOfCenters = () => {
               style={{ width: "400px", height: "220px" }}
             ></img>
             <h2 className="text-center underline font-bold text-[#FFA100] text-xl">
-              <Link to="/offline/centers/rangpur">BISD Rangpur</Link>
+              <Link to="/offline/centers/rangpur">BRAC ISD Rangpur</Link>
             </h2>
           </a>
         </div>
@@ -39,7 +39,7 @@ const ListOfCenters = () => {
               style={{ width: "400px", height: "220px" }}
             ></img>
             <h2 className="text-center underline font-bold text-[#FFA100] text-xl">
-              <Link to="/offline/centers/rajshahi">BISD Rajshahi</Link>
+              <Link to="/offline/centers/rajshahi">BRAC ISD Rajshahi</Link>
             </h2>
           </a>
         </div>
@@ -51,7 +51,7 @@ const ListOfCenters = () => {
               style={{ width: "400px", height: "220px" }}
             ></img>
             <h2 className="text-center underline font-bold text-[#FFA100] text-xl">
-              <Link to="/offline/centers/cumilla">BISD Cumilla</Link>
+              <Link to="/offline/centers/cumilla">BRAC ISD Cumilla</Link>
             </h2>
           </a>
         </div>
@@ -63,7 +63,7 @@ const ListOfCenters = () => {
               style={{ width: "400px", height: "220px" }}
             ></img>
             <h2 className="text-center underline font-bold text-[#FFA100] text-xl">
-              <Link to="/offline/centers/chattogram">BISD Chattogram</Link>
+              <Link to="/offline/centers/chattogram">BRAC ISD Chattogram</Link>
             </h2>
           </a>
         </div>
@@ -75,7 +75,7 @@ const ListOfCenters = () => {
               style={{ width: "400px", height: "220px" }}
             ></img>
             <h2 className="text-center underline font-bold text-[#FFA100] text-xl">
-              <Link to="/offline/centers/sylhet">BISD Sylhet</Link>
+              <Link to="/offline/centers/sylhet">BRAC ISD Sylhet</Link>
             </h2>
           </a>
         </div>
@@ -87,7 +87,7 @@ const ListOfCenters = () => {
               style={{ width: "400px", height: "220px" }}
             ></img>
             <h2 className="text-center underline font-bold text-[#FFA100] text-xl">
-              <Link to="/offline/centers/coxbazar">BISD Cox's Bazar</Link>
+              <Link to="/offline/centers/coxbazar">BRAC ISD Cox's Bazar</Link>
             </h2>
           </a>
         </div>
@@ -100,7 +100,7 @@ const ListOfCenters = () => {
             ></img>
             <h2 className="text-center underline font-bold text-[#FFA100] text-xl">
               <Link to="/offline/centers/chattogram2">
-                BISD Halishahar (Chattogram)
+                BRAC ISD Halishahar (Chattogram)
               </Link>
             </h2>
           </a>
@@ -114,7 +114,7 @@ const ListOfCenters = () => {
             ></img>
             <h2 className="text-center underline font-bold text-[#FFA100] text-xl">
               <Link to="/offline/centers/chattogram3">
-                BISD Patiya (Chattogram)
+                BRAC ISD Patiya (Chattogram)
               </Link>
             </h2>
           </a>
@@ -128,7 +128,7 @@ const ListOfCenters = () => {
             ></img>
             <h2 className="text-center underline font-bold text-[#FFA100] text-xl">
               <Link to="/offline/centers/narayanganjnBondor">
-                BISD Bandar (Narayanganj)
+                BRAC ISD Bandar (Narayanganj)
               </Link>
             </h2>
           </a>
@@ -142,7 +142,7 @@ const ListOfCenters = () => {
             ></img>
             <h2 className="text-center underline font-bold text-[#FFA100] text-xl">
               <Link to="/offline/centers/narayanganjnKanchan">
-                BISD Narayanganj
+                BRAC ISD Narayanganj
               </Link>
             </h2>
           </a>
@@ -155,7 +155,7 @@ const ListOfCenters = () => {
               style={{ width: "400px", height: "220px" }}
             ></img>
             <h2 className="text-center underline font-bold text-[#FFA100] text-xl">
-              <Link to="/offline/centers/manikganj">BISD Manikganj</Link>
+              <Link to="/offline/centers/manikganj">BRAC ISD Manikganj</Link>
             </h2>
           </a>
         </div>
@@ -167,7 +167,7 @@ const ListOfCenters = () => {
               style={{ width: "400px", height: "220px" }}
             ></img>
             <h2 className="text-center underline font-bold text-[#FFA100] text-xl">
-              <Link to="/offline/centers/mymensingh">BISD Mymensingh</Link>
+              <Link to="/offline/centers/mymensingh">BRAC ISD Mymensingh</Link>
             </h2>
           </a>
         </div>
@@ -179,7 +179,7 @@ const ListOfCenters = () => {
               style={{ width: "400px", height: "220px" }}
             ></img>
             <h2 className="text-center underline font-bold text-[#FFA100] text-xl">
-              <Link to="/offline/centers/nilphamari">BISD Nilphamari</Link>
+              <Link to="/offline/centers/nilphamari">BRAC ISD Nilphamari</Link>
             </h2>
           </a>
         </div>

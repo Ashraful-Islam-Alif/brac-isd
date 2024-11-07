@@ -146,7 +146,7 @@ const ITSupportTechnicianCourses = () => {
           </h1>
           <div className="mt-4">
             <p className="underline">
-              <Link to="/offline/centers/rajshahi">BISD Rajshahi Centre</Link>
+              <Link to="/offline/centers/rajshahi">BRAC ISD Rajshahi Centre</Link>
             </p>
           </div>
         </div>

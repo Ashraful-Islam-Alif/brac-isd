@@ -33,7 +33,7 @@ const ChattogramCenter = () => {
         <div className="hero-content text-center text-white">
           <div className="max-w-xl md:max-w-2xl lg:max-w-2xl">
             <h2 className="text-xl md:text-3xl lg:text-5xl font-bold">
-              BISD Chattogram
+              BRAC ISD Chattogram
             </h2>
             <hr className="mx-8 md:mx-10 lg:mx-10 mt-4 border-t-8 font-bold border-[#FFA100]"></hr>
           </div>
@@ -41,7 +41,7 @@ const ChattogramCenter = () => {
       </div>
       <div className="my-8 max-w-screen-xl  mx-8">
         <h2 className="my-4 text-xl font-bold">
-          Available Course of BISD Chattogram Centre
+          Available Course of BRAC ISD Chattogram Centre
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
           <Link
@@ -58,11 +58,18 @@ const ChattogramCenter = () => {
             <h2>Graphic Design</h2>
             <img className="h-[20px] " src={arrowIcon}></img>
           </Link>
+          <Link
+            class="my-8 text-lg font-semibold underline flex items-center"
+            to="/offline/courses/computer-operation"
+          >
+            <h2>Computer Office Applications</h2>
+            <img className="h-[20px] " src={arrowIcon}></img>
+          </Link>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4 my-8">
           <div className="mb-6 md:mb-0">
             <p className="text-xl font-bold">Contact</p>
-            <p>Centre Lead of BISD Chattogram</p>
+            <p>Centre Lead of BRAC ISD Chattogram</p>
             <p className="font-bold">01713052618</p>
             <p>
               <Link to="mailto:bisdchattogram@brac.net" className="underline">

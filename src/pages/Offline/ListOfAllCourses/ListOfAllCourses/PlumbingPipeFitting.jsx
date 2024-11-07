@@ -65,11 +65,11 @@ const PlumbingPipeFitting = () => {
             Minimum SSC
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Schedule:</p>
-          <p className="mt-4 ">
-            <span>8:30 AM To 4:30 PM</span>
+          <p className="">
+            <span>Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday</span>
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Course Contents:</p>
-          <p className="mt-4 ">
+          <p className="">
             <span>
               OHS in Workplace, First Aid, Communication in English in the work
               Environment, Perform Basic Mathics, Translate Drawing, Plan and
@@ -110,10 +110,18 @@ const PlumbingPipeFitting = () => {
           <h1 className="font-bold  md:text-xl text-md">
             Course available in:
           </h1>
-          <div className="mt-4">
+          <div className="">
             <p className="underline">
               <Link to="/offline/centers/narayanganjnKanchan">
-                BISD Narayanganj Centre
+                BRAC ISD Narayanganj Centre
+              </Link>
+            </p>
+            <p className="underline">
+              <Link to="/offline/centers/manikganj">BRAC ISD Manikganj Centre</Link>
+            </p>
+            <p className="underline">
+              <Link to="/offline/centers/nilphamari">
+                BRAC ISD Nilphamari Centre
               </Link>
             </p>
           </div>

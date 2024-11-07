@@ -36,7 +36,7 @@ const DhakaCenter = () => {
         <div className="hero-content text-center text-white">
           <div className="max-w-xl md:max-w-2xl lg:max-w-2xl">
             <h2 className="text-xl md:text-3xl lg:text-5xl font-bold">
-              BISD Uttara (Dhaka)
+              BRAC ISD Uttara (Dhaka)
             </h2>
             <hr className="mx-4 md:mx-8 lg:mx-30 mt-4 border-t-8 font-bold border-[#FFA100]"></hr>
           </div>
@@ -44,7 +44,7 @@ const DhakaCenter = () => {
       </div>
       <div className=" my-8 max-w-screen-xl mx-8">
         <h2 className="my-4 text-xl font-bold">
-          Available Courses of BISD Uttara (Dhaka) Centre
+          Available Courses of BRAC ISD Uttara (Dhaka) Centre
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
           <Link
@@ -128,7 +128,7 @@ const DhakaCenter = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4 my-8">
           <div className="mb-6 md:mb-0">
             <p className="text-xl font-bold">Contact</p>
-            <p>Centre Lead of BISD Dhaka</p>
+            <p>Centre Lead of BRAC ISD Dhaka</p>
             <p className="font-bold">01729070571</p>
             <p>
               <Link to="mailto:bisddhaka@brac.net" className="underline">

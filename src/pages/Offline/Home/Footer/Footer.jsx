@@ -26,7 +26,7 @@ const Footer = () => {
             to="https://bisdonline.brac.net/"
             target="_blank"
           >
-            BISD Online
+            BRAC ISD Online
           </Link>
           <Link
             className="link link-hover"

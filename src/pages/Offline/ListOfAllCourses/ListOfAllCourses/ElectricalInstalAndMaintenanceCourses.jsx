@@ -65,9 +65,9 @@ const ElectricalInstalAndMaintenanceCourses = () => {
             Minimum SSC (Secondary School Certificate)
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Schedule:</p>
-          <p className="mt-4 ">Saturday to Thusday / 6 day</p>
+          <span className="">Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday</span>
           <p className="mt-4 font-bold md:text-xl text-md">Course Contents:</p>
-          <p className="mt-4 ">
+          <p className="">
             OSH, Cummunication, Drawing, Handtools and Power Tools, Basic
             Electrical Circuit, PVC Chennel Wiring, Surface conduit wiring,
             Conduit wiring, Motor Controlling, Motor Rewinding, Sub Station,
@@ -143,24 +143,24 @@ const ElectricalInstalAndMaintenanceCourses = () => {
           <h1 className="font-bold md:text-xl text-md ">
             Course available in:
           </h1>
-          <div className="mt-4">
+          <div className="">
             <p className="underline">
-              <Link to="/offline/centers/dhaka">BISD Dhaka Centre</Link>
+              <Link to="/offline/centers/dhaka">BRAC ISD Dhaka Centre</Link>
             </p>
             <p className="underline">
-              <Link to="/offline/centers/rajshahi">BISD Rajshahi Centre</Link>
+              <Link to="/offline/centers/rajshahi">BRAC ISD Rajshahi Centre</Link>
             </p>
             <p className="underline">
               <Link to="/offline/centers/narayanganjnKanchan">
-                BISD Narayanganj Centre
+                BRAC ISD Narayanganj Centre
               </Link>
             </p>
             <p className="underline">
-              <Link to="/offline/centers/manikganj">BISD Manikganj Centre</Link>
+              <Link to="/offline/centers/manikganj">BRAC ISD Manikganj Centre</Link>
             </p>
             <p className="underline">
               <Link to="/offline/centers/nilphamari">
-                BISD Nilphamari Centre
+                BRAC ISD Nilphamari Centre
               </Link>
             </p>
           </div>

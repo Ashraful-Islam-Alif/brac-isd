@@ -88,6 +88,9 @@ const ListOfCourses = () => {
         <div className="my-8 text-lg font-semibold underline">
           <Link to="/offline/courses/retail-Sales-Service">Retail Sales Service</Link>
         </div>
+        <div className="my-8 text-lg font-semibold underline">
+          <Link to="/offline/courses/rod-Binding">Rod Binding</Link>
+        </div>
       </div>
     </div>
   );
