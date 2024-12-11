@@ -106,7 +106,8 @@ const NarayanganjnKanchan = () => {
           <div className="mb-6 md:mb-0">
             <p className="text-xl font-bold">Contact</p>
             <p>Center Lead, BRAC ISD Narayangonj</p>
-            <p className="font-bold">01612342969, 01771065343</p>
+            <p className="font-bold">
+            01759929938</p>
             <p>
               <Link
                 to="mailto:bracisd.narayongonj@brac.net"
