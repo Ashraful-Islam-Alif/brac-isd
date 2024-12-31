@@ -82,13 +82,6 @@ const RajshahiCenter = () => {
             <h2>Electrical Installation and Maintenance</h2>
             <img className="h-[20px] " src={arrowIcon}></img>
           </Link>
-          <Link
-            class="my-8 text-lg font-semibold underline flex items-center"
-            to="/offline/courses/graphics-design"
-          >
-            <h2>Graphic Design</h2>
-            <img className="h-[20px] " src={arrowIcon}></img>
-          </Link>
          
         </div>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4 my-8">
