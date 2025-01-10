@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import registerImage from './register.webp';
+import registerImage from './register.jpg';
 const RegistrationProcess = () => {
     return (
       <div className="container mx-auto my-8 grid justify-items-center grid-cols-1 md:grid-cols-2 gap-12 max-w-screen-xl px-4">
@@ -34,7 +34,7 @@ const RegistrationProcess = () => {
         </p>
         <p className="my-4">
           <span className="font-semibold">Step 4: </span>
-          <span>BRAC team will communicate with you</span>
+          <span>BRAC ISD team will communicate with you</span>
         </p>
       </div>
     </div>
