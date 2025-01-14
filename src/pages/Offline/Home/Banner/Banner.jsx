@@ -60,78 +60,14 @@ const Banner = () => {
             />
              <div className="swiper-lazy-preloader"></div>
           </SwiperSlide>
-          <SwiperSlide>
-            <img
-              src={image2}
-              
-              alt="Slide 2"
-              className="w-full h-full object-cover "
-            />
-             <div className="swiper-lazy-preloader"></div>
-          </SwiperSlide>
-          <SwiperSlide>
-            <img
-              src={image3}
-              
-              alt="Slide 3"
-              className="w-full h-full object-cover "
-            />
-             <div className="swiper-lazy-preloader"></div>
-          </SwiperSlide>
-          <SwiperSlide>
-            <img
-              src={image4}
-              
-              alt="Slide 4"
-              className="w-full h-full object-cover "
-            />
-             <div className="swiper-lazy-preloader"></div>
-          </SwiperSlide>
-          <SwiperSlide>
-            <img
-              src={image5}
-              
-              alt=""
-              className="w-full h-full object-cover "
-            />
-             <div className="swiper-lazy-preloader"></div>
-          </SwiperSlide>
-          <SwiperSlide>
-            <img
-              src={image6}
-              
-              alt=""
-              className="w-full h-full object-cover "
-            />
-             <div className="swiper-lazy-preloader"></div>
-          </SwiperSlide>
-          <SwiperSlide>
-            <img
-              src={image7}
-              
-              alt=""
-              className="w-full h-full object-cover "
-            />
-             <div className="swiper-lazy-preloader"></div>
-          </SwiperSlide>
-          <SwiperSlide>
-            <img
-              src={image8}
-              
-              alt=""
-              className="w-full h-full object-cover "
-            />
-             <div className="swiper-lazy-preloader"></div>
-          </SwiperSlide>
-          <SwiperSlide>
-            <img
-              src={image9}
-              
-              alt=""
-              className="w-full h-full object-cover "
-            />
-             <div className="swiper-lazy-preloader"></div>
-          </SwiperSlide>
+          
+          
+          
+          
+          
+          
+          
+          
           <SwiperSlide>
             <img
               src={image10}
@@ -150,9 +86,50 @@ const Banner = () => {
             />
              <div className="swiper-lazy-preloader"></div>
           </SwiperSlide>
+          
           <SwiperSlide>
             <img
-              src={image12}
+              src={image13}
+              
+              alt=""
+              className="w-full h-full object-cover "
+            />
+             <div className="swiper-lazy-preloader"></div>
+          </SwiperSlide>
+          
+          <SwiperSlide>
+            <img
+              src={image15}
+              
+              alt=""
+              className="w-full h-full object-cover "
+            />
+             <div className="swiper-lazy-preloader"></div>
+          </SwiperSlide>
+          
+          <SwiperSlide>
+            <img
+              src={image17}
+              
+              alt=""
+              className="w-full h-full object-cover "
+            />
+             <div className="swiper-lazy-preloader"></div>
+          </SwiperSlide>
+          
+          <SwiperSlide>
+            <img
+              src={image19}
+              
+              alt=""
+              className="w-full h-full object-cover "
+            />
+             <div className="swiper-lazy-preloader"></div>
+          </SwiperSlide>
+          
+          <SwiperSlide>
+            <img
+              src={image7}
               
               alt=""
               className="w-full h-full object-cover "
@@ -161,7 +138,43 @@ const Banner = () => {
           </SwiperSlide>
           <SwiperSlide>
             <img
-              src={image13}
+              src={image2}
+              
+              alt="Slide 2"
+              className="w-full h-full object-cover "
+            />
+             <div className="swiper-lazy-preloader"></div>
+          </SwiperSlide>
+          <SwiperSlide>
+            <img
+              src={image4}
+              
+              alt="Slide 4"
+              className="w-full h-full object-cover "
+            />
+             <div className="swiper-lazy-preloader"></div>
+          </SwiperSlide>
+          <SwiperSlide>
+            <img
+              src={image6}
+              
+              alt=""
+              className="w-full h-full object-cover "
+            />
+             <div className="swiper-lazy-preloader"></div>
+          </SwiperSlide>
+          <SwiperSlide>
+            <img
+              src={image9}
+              
+              alt=""
+              className="w-full h-full object-cover "
+            />
+             <div className="swiper-lazy-preloader"></div>
+          </SwiperSlide>
+          <SwiperSlide>
+            <img
+              src={image12}
               
               alt=""
               className="w-full h-full object-cover "
@@ -179,7 +192,7 @@ const Banner = () => {
           </SwiperSlide>
           <SwiperSlide>
             <img
-              src={image15}
+              src={image8}
               
               alt=""
               className="w-full h-full object-cover "
@@ -197,15 +210,6 @@ const Banner = () => {
           </SwiperSlide>
           <SwiperSlide>
             <img
-              src={image17}
-              
-              alt=""
-              className="w-full h-full object-cover "
-            />
-             <div className="swiper-lazy-preloader"></div>
-          </SwiperSlide>
-          <SwiperSlide>
-            <img
               src={image18}
               
               alt=""
@@ -215,7 +219,16 @@ const Banner = () => {
           </SwiperSlide>
           <SwiperSlide>
             <img
-              src={image19}
+              src={image3}
+              
+              alt="Slide 3"
+              className="w-full h-full object-cover "
+            />
+             <div className="swiper-lazy-preloader"></div>
+          </SwiperSlide>
+          <SwiperSlide>
+            <img
+              src={image20}
               
               alt=""
               className="w-full h-full object-cover "
@@ -224,7 +237,7 @@ const Banner = () => {
           </SwiperSlide>
           <SwiperSlide>
             <img
-              src={image20}
+              src={image5}
               
               alt=""
               className="w-full h-full object-cover "
