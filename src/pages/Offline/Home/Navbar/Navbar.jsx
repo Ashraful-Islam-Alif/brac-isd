@@ -76,7 +76,7 @@ const Navbar = () => {
         </li>
         <li>
           <Link to="/offline/courses/careGivingTraining">
-            Caregiving Training
+            General Care Giving
           </Link>
         </li>
         <li>

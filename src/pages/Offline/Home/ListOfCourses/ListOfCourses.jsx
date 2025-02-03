@@ -17,7 +17,7 @@ const ListOfCourses = () => {
         </div>
         <div className="my-8 text-lg font-semibold underline">
           <Link to="/offline/courses/careGivingTraining">
-            Caregiving Training
+            General Care Giving
           </Link>
         </div>
         <div className="my-8 text-lg font-semibold underline">

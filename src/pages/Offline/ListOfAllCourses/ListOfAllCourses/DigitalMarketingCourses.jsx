@@ -60,14 +60,16 @@ const DigitalMarketingCourses = () => {
             <span className="font-bold md:text-xl text-md mt-4">
               Class Duration:
             </span>{" "}
-            3 hours
+            5 hours
           </p>
-          <p className="mt-4">
+          <ul className="mt-4">
             <span className="font-bold md:text-xl text-md mt-4">
               Educational Qualification:
             </span>{" "}
-            Minimum HSC
-          </p>
+           
+               <li><span>Minimum SSC (Secondary School Certificate.) or equivalent certificate or  </span></li>
+               <li><span>2-years occupation relevant work experience and pass in a challenge test on NSDA’s approved assessment</span></li>
+          </ul>
           <p className="mt-4 font-bold md:text-xl text-md">Schedule:</p>
           <p className=" ">
             <span>Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday
@@ -75,86 +77,34 @@ const DigitalMarketingCourses = () => {
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Course Contents:</p>
           <p className=" ">
-            <span>1. Introduction to Social Media Marketing</span>
+            <span>1. Interpret Concepts of Digital Marketing</span>
             <br></br>
-            <span>2. Digital Marketing Strategy Development</span>
+            <span>2. Apply Social Media Marketing</span>
             <br></br>
-            <span>3. Digital Marketing Tools</span>
+            <span>3. Interpret Search Engine Marketing (SEM)</span>
             <br></br>
-            <span>4. Content Marketing</span>
-            <br></br>
-            <span>5. Email Marketing</span>
-            <br></br>
-            <span>6. Social Media Page/Channel Monetization</span>
-            <br></br>
-            <span>7. Search Engine Optimization (SEO)</span>
-            <br></br>
-            <span>8. Online Earning</span>
-            <br></br>
-            <span>9. Online Market Place</span>
+            <span>4. Practice Basic Search Engine Optimization (SEO)</span>
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">
             Course Description:{" "}
           </p>
           <p className="">
-            Welcome to the dynamic world of Digital Marketing! This
-            comprehensive 3-month training programme is designed to equip you
-            with the essential knowledge and skills to thrive in the
-            ever-evolving digital landscape.
+          The Digital Marketing course, designed in alignment with the standards set by the National Skills Development Authority (NSDA_ BNQF Level-3) Bangladesh, equips learners with essential digital marketing skills, knowledge, and professional attitude required for success in the modern digital landscape. This course focuses on social media marketing, search engine optimization, and practical skills for implementing effective digital marketing strategies in various business environments.
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Course Overview: </p>
           <p className=""></p>
-          Digital marketing is the component of marketing that uses the Internet
-          and online-based digital technologies such as desktop computers,
-          mobile phones and other digital media and platforms to promote
-          products and services.
+          The Digital Marketing course is a 3-month intensive training program designed for individuals with a minimum SSC qualification, offering comprehensive training in digital marketing fundamentals. Conducted six days a week, with 5-hour daily sessions, the course combines theoretical knowledge with hands-on practical experience to prepare participants for professional digital marketing roles. Key topics include negotiation skills, office application software proficiency, and ethical standards in ICT workplace. Participants will master digital marketing concepts, social media marketing techniques, Search Engine Marketing (SEM), and basic Search Engine Optimization (SEO) practices. The program emphasizes practical application of digital marketing tools and strategies to achieve business objectives. Upon completion, graduates will be well-equipped to pursue careers in digital marketing, with the opportunity to appear for government certification assessments, enabling them to work in both local and international digital marketing sectors.
           <p className=" font-bold md:text-xl text-md mt-4">
             Course Objectives:
           </p>
-          <p className="mt-2">
-            1. Understand the impact of social media on business growth and
-            create effective marketing campaigns on various platforms.
-          </p>
-          <p className="mt-2">
-            2. Formulate data-driven digital marketing strategies aligned with
-            business goals to achieve optimal results.
-          </p>
-          <p className="mt-2">
-            3. Familiarise themselves with essential digital marketing tools to
-            enhance productivity and streamline tasks.
-          </p>
-          <p className="mt-2">
-            4. Master the creation of engaging content that captivates audiences
-            and drives conversions.
-          </p>
-          <p className="mt-2">
-            5. Utilise email marketing for reaching target audiences, nurturing
-            leads, and strengthening customer relationships.
-          </p>
-          <p className="mt-2">
-            6. Explore techniques for monetising social media pages and channels
-            to generate revenue.
-          </p>
-          <p className="mt-2">
-            7. Gain insights into SEO best practises, improving website
-            visibility and search engine rankings.
-          </p>
-          <p className="mt-2">
-            8. Discover diverse online earning avenues and explore potential
-            income streams in the digital realm.
-          </p>
-          <p className="mt-2">
-            9. Understand the dynamics of online marketplaces and learn to
-            leverage them effectively for expanding business reach.
+          <p className="">
+          The primary objective of this course is to equip participants with comprehensive theoretical knowledge and practical skills in digital marketing, enabling them to develop and implement effective digital marketing strategies. By the end of the training, participants will be prepared to execute social media campaigns, optimize online content, manage search engine marketing initiatives, and implement SEO strategies according to industry standards. The course ensures graduates are ready to qualify for government certification and pursue rewarding careers in the rapidly evolving digital marketing landscape, both locally and internationally.
           </p>
           <p className="font-bold md:text-xl text-md mt-4">
             Teaching Approach:
           </p>
           <p>
-            Our training approach combines theoretical knowledge with hands-on
-            practical exercises and real-world case studies. Experienced
-            industry professionals will guide you through each module, ensuring
-            a holistic learning experience.
+          The course adopts a classroom-based training approach, combining theoretical instruction with practical hands-on exercises to ensure comprehensive learning. Multiple formative assessments are conducted throughout the program to track progress and reinforce skills 
           </p>
           <p className="font-bold md:text-xl text-md mt-4">
             For Whom This Course Is:
@@ -165,6 +115,12 @@ const DigitalMarketingCourses = () => {
             possibilities of digital marketing. Whether you aim to enhance your
             career or grow your business, this course will equip you with the
             skills to succeed.
+          </p>
+          <p className="font-bold md:text-xl text-md mt-4">
+          Certification:
+          </p>
+          <p>
+          Participants will receive a completion certificate from BRAC ISD at the end of the course, validating their expertise in Digital Marketing. Moreover, having the opportunities participants to appear the assessment for government certificate.
           </p>
         </div>
         <div className="mt-4">

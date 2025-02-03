@@ -65,7 +65,7 @@ const DhakaCenter = () => {
             class="my-8 text-lg font-semibold underline flex items-center"
             to="/offline/courses/careGivingTraining"
           >
-            <h2>Caregiving Training</h2>
+            <h2>General Care Giving</h2>
             <img className="h-[20px] " src={arrowIcon}></img>
           </Link>
           <Link

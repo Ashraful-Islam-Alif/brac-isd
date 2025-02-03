@@ -59,13 +59,13 @@ const PalliativeCareCourses = () => {
             <span className="font-bold md:text-xl text-md mt-4">
               Class Duration:
             </span>{" "}
-            4 Hour 30 Min
+            4 Hours
           </p>
           <p className="mt-4">
             <span className="font-bold md:text-xl text-md mt-4">
               Educational Qualification:
             </span>{" "}
-            SSC (Secondary School Certificate)
+            Minimum SSC (Secondary School Certificate).
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Schedule:</p>
           <p className=" ">
@@ -91,6 +91,7 @@ const PalliativeCareCourses = () => {
             <br></br>
             <span>9. Hand-Held Blood Pressure Measurement</span>
             <span>
+            <br></br>
               10.Temperature, Pulse Rate, Blood Glucose, and Oxygen
               Determination
             </span>
@@ -99,64 +100,32 @@ const PalliativeCareCourses = () => {
             Course Description:{" "}
           </p>
           <p className="">
-            Explore Palliative Care with our 3-month program! Learn to support
-            patients with serious illnesses in a practical, compassionate way.
-            Our friendly instructors and job placement assistance will prepare
-            you for a meaningful role. Join us today and make a difference.
+          The Palliative Care Assistant course, designed in alignment with the standards set by the National Skills Development Authority (NSDA_ BNQF Level-2) Bangladesh, equips learners with essential skills, knowledge, and professional attitude required for providing compassionate care to patients with serious illnesses. This course focuses on the responsibilities of palliative assistants, effective communication, and practical skills necessary for supporting patients and their families during challenging times.
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Course Overview: </p>
           <p className=""></p>
-          Embark on a fulfilling journey in Palliative Care with our
-          comprehensive 3-month training program. This course is meticulously
-          designed to equip participants with the essential skills and knowledge
-          required to provide compassionate care and support to patients with
-          life-limiting illnesses. <br></br>
-          To provide practical exposure and enhance learning, participants will
-          undergo a 1-month industrial attachment in reputable healthcare
-          settings. <br></br>
-          Our training programme features hands-on practical sessions led by
-          certified trainers in palliative medicine. Participants will have
-          access to state-of-the-art labs and facilities.
+          The Palliative Care Assistant course is a 3-month intensive training program designed for individuals with a minimum SSC qualification, offering a comprehensive foundation in palliative care practices. Conducted six days a week, with 4-hour daily sessions, the course combines theoretical knowledge with hands-on practical training to prepare participants for professional roles in palliative care. Key topics include New Trends in Medical and Social Care, Responsibilities and Duties of Palliative Assistants, and Development of Communication Skills. Participants will gain general knowledge of the human body, various diseases, and specific care techniques for bedridden patients. The program emphasizes personal care and dressing, as well as specialized skills in catheter care, intravenous cannula management, NG tube care, and vital sign measurements such as blood pressure, temperature, pulse rate, blood glucose levels, and oxygen determination. Upon completion, graduates will be well-equipped to pursue careers as palliative care assistants, with the opportunity to appear for government certification assessments, enabling them to work in both local and international healthcare settings.
           <p className=" font-bold md:text-xl text-md mt-4">
             Course Objectives:
           </p>
-          <p>Upon successful course completion, graduates will:</p>
           <p className="mt-2">
-            1. Qualify for desirable employment opportunities in
-            well-established hospitals and reputable home care agencies.
-          </p>
-          <p className="mt-2">
-            2. Gain the skills and knowledge necessary to offer home care
-            services, opening avenues for potential self-employment.
-          </p>
-          <p className="mt-2">
-            3. Receive comprehensive support in locating fitting job placements,
-            ensuring a smooth transition into the workforce.
+          The primary objective of this course is to equip participants with comprehensive theoretical knowledge and practical skills in palliative care assistance, enabling them to provide high-quality support to patients with serious health conditions. By the end of the training, participants will be prepared to communicate effectively with patients and families, perform personal care tasks, manage medical devices, and monitor vital signs according to healthcare standards. The course ensures graduates are ready to qualify for government certification and pursue rewarding careers in the healthcare sector, both locally and internationally.
           </p>
           <p className="font-bold md:text-xl text-md mt-4">
             Teaching Approach:
           </p>
           <p>
-            Our training approach combines theoretical knowledge with hands-on
-            practical exercises and real-world case studies. Experienced
-            industry professionals will guide you through each module, ensuring
-            a holistic learning experience.
+          The course adopts a classroom-based training approach, combining theoretical instruction with practical hands-on exercises to ensure comprehensive learning. Multiple formative assessments are conducted throughout the program to track progress and reinforce skills.
           </p>
           <p className="font-bold md:text-xl text-md mt-4">
             For Whom This Course Is:
           </p>
           <p>
-            This training programme is ideal for compassionate individuals who
-            wish to make a meaningful difference in the lives of patients facing
-            serious illnesses. Whether you are a recent SSC graduate or seeking
-            to switch to a fulfilling career path, this course will empower you
-            to become a skilled palliative care assistant.
+          This training programme is ideal for compassionate individuals who wish to make a meaningful difference in the lives of patients facing serious illnesses. Whether you are a recent SSC graduate or seeking to switch to a fulfilling career path, this course will empower you to become a skilled palliative care assistant.
           </p>
           <p className="font-bold md:text-xl text-md mt-4">Certification:</p>
           <p>
-            Participants will receive a well-recognised certificate from BRAC
-            ISD, acknowledging their successful completion of the Palliative
-            Care Training.
+          Participants will receive a completion certificate from BRAC ISD at the end of the course, validating their expertise in Palliative Care Training. Moreover, having the opportunities for participants to appear for the assessment for a government certificate.
           </p>
         </div>
         <div className="mt-4">

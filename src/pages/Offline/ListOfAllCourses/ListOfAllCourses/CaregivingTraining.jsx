@@ -21,7 +21,7 @@ const CaregivingTraining = () => {
         <div className="hero-content text-center text-white">
           <div className="max-w-xl md:max-w-2xl lg:max-w-2xl">
             <h2 className="text-xl md:text-3xl lg:text-5xl font-bold">
-              Caregiving Training
+              General Care Giving
             </h2>
             <hr className="mx-4 md:mx-8 lg:mx-16 mt-4 border-t-8 font-bold border-[#FFA100]"></hr>
           </div>
@@ -34,7 +34,7 @@ const CaregivingTraining = () => {
           <div className="flex justify-between">
             <div style={{ whiteSpace: "wrap" }}>
               <h2 className="font-bold md:text-2xl text-lg ">
-                Caregiving Training
+                General Care Giving
               </h2>
             </div>
             <div>
@@ -58,88 +58,66 @@ const CaregivingTraining = () => {
             <span className="font-bold md:text-xl text-md mt-4">
               Class Duration:
             </span>{" "}
-            6.5 hours
+            5 hours
           </p>
           <p className="mt-4">
             <span className="font-bold md:text-xl text-md mt-4">
               Educational Qualification:
             </span>{" "}
-            Minimum SSC (Secondary School Certificate)
+            <p>Class 8 or equivalent certificate or </p>
+            <p>2 years occupational relevant work experience and pass in a challenge test on NSDA’s approved assessment. </p>
           </p>
           <p className="mt-4">
             
             <span className="font-bold md:text-xl text-md mt-4">Schedule: </span>
+            <br />
             Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Course Contents:</p>
           <p className="">
-            <span>1. Fundamental Skills of Caregiving</span>
+            <span>1. Perform Health Screening</span>
             <br></br>
-            <span>2. Working as a Team</span>
+            <span>2. Assist In Activities of Daily Living (ADLS)</span>
             <br></br>
-            <span>3. Caregiving Ground Rules</span>
+            <span>3. Perform Clinical Care Giving</span>
             <br></br>
-            <span>4. Ethical Values</span>
+            <span>4. Maintain Nutrition, Food Safety and Diet Plan</span>
             <br></br>
-            <span>5. Emergency Care</span>
+            <span>5. Maintain Basic Housekeeping in Care Giving</span>
             <br></br>
-            <span>6. First Aid Care</span>
+            <span>6. Apply Basic Physiotherapy in Care Giving </span>
             <br></br>
-            <span>7. Physiotherapy</span>
-            <br></br>
-            <span>8. Basic Personal Care to the Client</span>
-            <br></br>
-            <span>9. Food Safety and Nutrition.</span>
-            <br></br>
-            <span>10. Identifying Diseases and Care</span>
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">
             Course Description:{" "}
           </p>
           <p className="">
-            Are you compassionate and driven to provide essential care and
-            support to those in need? Our comprehensive Caregiving Training, a
-            fully residential program, is designed to equip you with the
-            fundamental skills and knowledge required to become a competent and
-            empathetic caregiver. Join us in this transformative journey and
-            make a meaningful impact on the lives of individuals requiring care.
+          The Care Giving course, designed in alignment with the standards set by the National Skills Development Authority (NSDA_ BNQF Level-2) Bangladesh, equips learners with essential skills, knowledge, and professional attitudes required for providing high-quality care to individuals in various settings. This course focuses on the fundamental principles of caregiving, including safety protocols, ethical considerations, and practical skills necessary for supporting clients in their daily activities and health management.
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Course Overview: </p>
           <p className=""></p>
-          This 3-month residential programme offers an intensive and holistic
-          curriculum that covers a wide range of caregiving essentials. From the
-          foundational skills of caregiving to emergency care, first aid, and
-          nutrition, we ensure you are well-prepared to excel in this rewarding
-          field.
+          The Care Giving course is a 3-month intensive training program designed for individuals with a minimum class 8 or equivalent or 2 years occupational relevant work experience qualification, offering a comprehensive foundation in caregiving practices. Conducted six days a week, with 5-hour daily sessions, the course combines theoretical knowledge with extensive hands-on practice to prepare participants for professional roles in caregiving. Key topics include applying Occupational Safety and Health (OSH) procedures, effective workplace interaction, and developing basic IT skills. Participants will learn to work effectively in a team environment while interpreting the ground rules of caregiving and understanding legal and ethical issues related to the field. The program covers essential skills such as basic first aid, health screening, assisting in Activities of Daily Living (ADLs), and performing clinical caregiving tasks. Additionally, participants will gain knowledge in maintaining nutrition, food safety, diet planning, basic housekeeping in caregiving environments, and applying basic physiotherapy techniques. Upon completion, graduates will be well-equipped to pursue careers in caregiving, with the opportunity to appear for government certification assessments, enabling them to work in both local and international healthcare settings.
           <p className="mt-4 font-bold md:text-xl text-md">
             Course Objectives:{" "}
           </p>
           <p className="">
-            1. Upon successful course completion, you will Pursue various
-            caregiving positions in healthcare facilities, nursing homes,
-            rehabilitation centres, and private residences.
-            <br></br>
-            2. Become a valued member of the caregiving community, contributing
-            to the well-being of individuals in need.
+          The main goal of this course is to provide participants with a thorough understanding of caregiving theory and hands-on skills, so they can offer empathetic and efficient assistance to those who require it. Upon completion of the program, participants will be capable of understanding caregiving protocols, conducting health assessments and providing initial medical assistance, aiding individuals with their daily tasks, upholding appropriate nutrition and safety measures, and utilizing fundamental physiotherapy methods in line with established practices. This course guarantees that graduates are fully prepared to meet the requirements for official certification and embark on fulfilling caregiving careers both domestically and globally.
           </p>
           <p className="font-bold md:text-xl text-md mt-4">
             Teaching Approach:
           </p>
           <p>
-            Our training approach combines theoretical knowledge with hands-on
-            practical exercises and real-world case studies. Experienced
-            industry professionals will guide you through each module, ensuring
-            a holistic learning experience.
+          The course adopts a classroom-based training approach, combining theoretical instruction with practical hands-on exercises to ensure comprehensive learning. Multiple formative assessments are conducted throughout the program to track progress and reinforce skills.
           </p>
           <p className="font-bold md:text-xl text-md mt-4">
             For Whom This Course Is:
           </p>
           <p>
-            This training is suitable for students, professionals,
-            entrepreneurs, and anyone interested in exploring the vast
-            possibilities of digital marketing. Whether you aim to enhance your
-            career or grow your business, this course will equip you with the
-            skills to succeed.
+          Youth, Age limit-18-40 years, Men and Women, Transgender.
+          </p>
+          <p className="font-bold md:text-xl text-md mt-4">Certification:</p>
+          <p>
+          Participants will receive a completion certificate from BRAC ISD at the end of the course, validating their expertise in caregiving. Moreover, participants will have the opportunity to appear for the government certificate assessment.
           </p>
         </div>
         <div className="mt-4">
