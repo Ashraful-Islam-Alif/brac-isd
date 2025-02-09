@@ -101,7 +101,7 @@ const DigitalMarketingCourses = () => {
           The primary objective of this course is to equip participants with comprehensive theoretical knowledge and practical skills in digital marketing, enabling them to develop and implement effective digital marketing strategies. By the end of the training, participants will be prepared to execute social media campaigns, optimize online content, manage search engine marketing initiatives, and implement SEO strategies according to industry standards. The course ensures graduates are ready to qualify for government certification and pursue rewarding careers in the rapidly evolving digital marketing landscape, both locally and internationally.
           </p>
           <p className="font-bold md:text-xl text-md mt-4">
-            Teaching Approach:
+            Training Approach:
           </p>
           <p>
           The course adopts a classroom-based training approach, combining theoretical instruction with practical hands-on exercises to ensure comprehensive learning. Multiple formative assessments are conducted throughout the program to track progress and reinforce skills 

@@ -109,7 +109,7 @@ const RodBinding = () => {
             certification for Sustainable Job Placement.
           </p>
           <p className="font-bold md:text-xl text-md mt-4">
-            Teaching Approach:
+            Training Approach:
           </p>
           <p>Class room based Training with Theoretical and Practical.</p>
           <p className="font-bold md:text-xl text-md mt-4">

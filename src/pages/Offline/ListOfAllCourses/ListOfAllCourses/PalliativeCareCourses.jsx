@@ -112,7 +112,7 @@ const PalliativeCareCourses = () => {
           The primary objective of this course is to equip participants with comprehensive theoretical knowledge and practical skills in palliative care assistance, enabling them to provide high-quality support to patients with serious health conditions. By the end of the training, participants will be prepared to communicate effectively with patients and families, perform personal care tasks, manage medical devices, and monitor vital signs according to healthcare standards. The course ensures graduates are ready to qualify for government certification and pursue rewarding careers in the healthcare sector, both locally and internationally.
           </p>
           <p className="font-bold md:text-xl text-md mt-4">
-            Teaching Approach:
+            Training Approach:
           </p>
           <p>
           The course adopts a classroom-based training approach, combining theoretical instruction with practical hands-on exercises to ensure comprehensive learning. Multiple formative assessments are conducted throughout the program to track progress and reinforce skills.

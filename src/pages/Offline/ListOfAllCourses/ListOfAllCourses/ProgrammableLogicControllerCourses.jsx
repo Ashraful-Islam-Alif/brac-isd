@@ -18,7 +18,7 @@ const ProgrammableLogicControllerCourses = () => {
         <div className="hero-content text-center text-white">
           <div className="max-w-xl md:max-w-2xl lg:max-w-2xl">
             <h2 className="text-xl md:text-3xl lg:text-5xl font-bold">
-              Programmable Logic Controller
+              Programmable Logic Controller (PLC)
             </h2>
             <hr className="mx-4 md:mx-8 lg:mx-16 mt-4 border-t-8 font-bold border-[#FFA100]"></hr>
           </div>
@@ -60,7 +60,8 @@ const ProgrammableLogicControllerCourses = () => {
           <span className="font-bold md:text-xl text-md mt-4">
             Educational Qualification:
           </span>{" "}
-          Minimum SSC
+          <br />
+          Minimum SSC (Secondary School Certificate)
         </p>
         <p className="mt-4 font-bold md:text-xl text-md">Schedule:</p>
         <p className="">
@@ -69,72 +70,42 @@ const ProgrammableLogicControllerCourses = () => {
         <h2 className="mt-4 font-bold md:text-xl text-md">Course Contents:</h2>
         <p>
           1. Apply Occupational Health and Safety (OHS) Procedure in The
-          Workplace. 2. Execute Sequential Control Using Relay Logic 3. Perform
-          PLC Installation, Wiring and Configuring 4. Apply PLC for Pneumatic
-          and Hydraulic Control System Application 5. Apply PLC Based Basic
-          Control System. 6. Perform Process Visualization (HMI)
+          Workplace. <br />
+          2. Execute Sequential Control Using Relay Logic <br />
+          3. Perform PLC Installation, Wiring and Configuring <br />
+          4. Apply PLC for Pneumatic and Hydraulic Control System Application <br /> 
+          5. Apply PLC Based Basic Control System. <br />
+          6. Perform Process Visualization (HMI) <br />
         </p>
         <h2 className="mt-4 font-bold md:text-xl text-md">
           Course Description:
         </h2>
         <p className="">
-          The Programmable Logic Controller (PLC) course at BRAC Institute of
-          Skills Development focuses on Industry demand oriented . Over the span
-          of 3 months, students are introduced to the Industrial Wiring. Our
-          course are Light engineering sector, This courses are accredetation
-          from BTEB& NSDA. Maintain competerncy Standard (CS) , Curriculum and
-          Competency Based Learning Materials (CBLM)
+        The Programmable Logic Controller (PLC) course, designed in alignment with the standards set by the National Skills Development Authority (NSDA_ BNQF Level- 4) Bangladesh, equips learners with essential technical skills, knowledge, and professional attitude required for excellence in automation and control systems. This course focuses on the fundamental principles of PLC technology, safety protocols, and practical skills necessary for installing, configuring, and programming PLC systems in various industrial applications.
         </p>
 
         <h2 className="mt-4 font-bold md:text-xl text-md">Course Overview:</h2>
         <p className="">
-          1. Apply Occupational Health and Safety (OHS) Procedure in The
-          Workplace. <br />
-          2. Execute Sequential Control Using Relay Logic <br />
-          3. Perform PLC Installation, Wiring and Configuring <br />
-          4. Apply PLC for Pneumatic and Hydraulic Control System Application{" "}
-          <br />
-          5. Apply PLC Based Basic Control System. <br />
-          6. Perform Process Visualization (HMI) <br />
-          7. Advance Training Program on AC drive/Inverter By - 7.1. Holip
-          Inverter 7.2. Delta Inverter 7.3. Mitsubishi Inverter 7.4. Siemens
-          Inverter 7.5. Frecon Inverter <br />
-          8. Advance Training Program on AC drive/Inverter By- 8.1. LS Inverter
-          8.2. Siemens LOGO PLC 8.3. Siemens S7 200 PLC 8.4. Siemens S7 1200 PLC
-          8.5. Delta PLC 8.6. Ls PLC 8.7. Mitsubishi LOGO PLC <br />
-          9. Carry Out Ladder Diagram, Structured Programming and Data Block
-          <br />
-          10. Apply PLC for Pneumatic and Hydraulic Control System Application
-          Skills Covered : BNQF Level-4
+        The Programmable Logic Controller course is a 3-month intensive training program designed for individuals with a minimum SSC qualification, providing a comprehensive foundation in PLC operations and automation techniques. Conducted six days a week, with 4-hour daily sessions, the course combines theoretical knowledge with extensive hands-on practice to prepare participants for professional roles in the automation sector. Key topics include applying Occupational Health and Safety (OHS) procedures, leading small teams, and developing basic IT skills. Participants will learn to interpret manuals, sketches, and drawings effectively while applying quality systems within their work processes. The program covers executing sequential control using relay logic, performing PLC installation, wiring, and configuration. Additionally, participants will gain expertise in creating ladder diagrams, structured programming, and data blocks, as well as applying PLC technology for pneumatic and hydraulic control system applications. The course also includes training on process visualization using Human-Machine Interface (HMI) systems. Upon completion, graduates will be well-equipped to pursue careers in automation and control systems, with the opportunity to appear for government certification assessments, enabling them to work in both local and international markets.
         </p>
         <p className=" font-bold md:text-xl text-md mt-4">Course Objectives:</p>
         <p className="">
-          Provide Skills Man power provide, Certification and Sustainable Job
-          Placement.
+        The primary objective of this course is to equip participants with comprehensive theoretical knowledge and practical skills in programmable logic controllers, enabling them to perform professional installation, programming, and maintenance of PLC systems. By the end of the training, participants will be prepared to interpret technical documentation, execute control logic using PLCs for various applications, and implement process visualization techniques according to industry standards. The course ensures graduates are ready to qualify for government certification and pursue rewarding careers in the automation field, both locally and internationally.
         </p>
 
-        <p className="font-bold md:text-xl text-md mt-4">Teaching Approach:</p>
+        <p className="font-bold md:text-xl text-md mt-4">Training Approach:</p>
         <p>
-          Formal Training, Off line training.Workshop Base training, Thuritical
-          and Practical Based Training.Hands-on Learning, Assessment and
-          Feedback, Continuous Assessment, Personalized Feedback, Induvisual and
-          Group work training. Maintain Competency Based Training and Assessment
-          (CBT&A) mathodology.
+        The course adopts a classroom-based training approach, combining theoretical instruction with practical hands-on exercises to ensure comprehensive learning. Multiple formative assessments are conducted throughout the program to track progress and reinforce skills.
         </p>
         <h2 className="mt-4 font-bold md:text-xl text-md">
           For Whom This Course Is:
         </h2>
         <p className="">
-          This course is ideal for engineers, technicians, and individuals
-          aspiring to work in the automation and industrial control field.
-          Whether you are a beginner or have some experience, this programme
-          will expand your knowledge and proficiency in PLC technologies.
+        Youth, Age limit-18-40 years, Men and Women, Persons with Disability, Transgender.
         </p>
         <h2 className="mt-4 font-bold md:text-xl text-md">Certificate:</h2>
         <p className="">
-          Upon successful completion of the course, you will receive a
-          certificate from BRAC ISD, recognising your expertise in Programmable
-          Logic Controllers.
+        Participants will receive a completion certificate from BRAC ISD at the end of the course, validating their expertise in Programmable Logic Control. Moreover, having the opportunities participants to appear the assessment for government certificate.
         </p>
         <div className="mt-4">
           <h1 className="font-bold md:text-xl text-md ">

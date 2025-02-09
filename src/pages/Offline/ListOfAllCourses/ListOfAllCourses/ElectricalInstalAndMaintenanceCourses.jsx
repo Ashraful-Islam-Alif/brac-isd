@@ -56,75 +56,52 @@ const ElectricalInstalAndMaintenanceCourses = () => {
             <span className="font-bold md:text-xl text-md mt-4">
               Class Duration:
             </span>{" "}
-            4 hours
+            3 hours
           </p>
           <p className="mt-4">
             <span className="font-bold md:text-xl text-md mt-4">
               Educational Qualification:
             </span>{" "}
-            Minimum SSC (Secondary School Certificate)
+            <br />
+            •	Class VIII Pass or evidence of equivalent achievement or <br />
+            •	Pass in a challenge test on language, literacy and numeracy skills considered necessary for successful completion of the qualification (Model challenge test to be developed based on units of competencies to be achieved) or <br />
+            •	2-year trade relevant work experience and pass in a challenge test on vocational skills considered necessary for successful completion of the qualification (Model challenge test to be developed). 
+
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Schedule:</p>
           <span className="">Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday</span>
           <p className="mt-4 font-bold md:text-xl text-md">Course Contents:</p>
           <p className="">
-            OSH, Cummunication, Drawing, Handtools and Power Tools, Basic
-            Electrical Circuit, PVC Chennel Wiring, Surface conduit wiring,
-            Conduit wiring, Motor Controlling, Motor Rewinding, Sub Station,
-            Basic Electronics, CCTV, Solar Sysytem, Fire prevention and
-            Detection Skills Covered : NTVQF Level-1 to 4 BNQF Level-2 &3
+          • Use Hand Tools and Power Tools <br />
+	• Apply Fundamentals Skills for Electrical Works <br />
+	• Perform Wire and Cable Joints <br />
+	• Perform Installation of Electrical Circuit <br />
+	• Perform Channel Wiring <br />
+	• Perform Conduit Wiring <br />
+
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">
             Course Description:{" "}
           </p>
           <p className="">
-            The Electyrical Installation & Maintenence course at BRAC Institute
-            of Skills Development focuses on Industry demand oriented . Over the
-            span of 3 months, students are introduced to the House wiring and
-            Industrial Wiring. Our course are Construction sector and Light
-            engineering sector, This courses are accredetation from BTEB& NSDA.
-            Maintain competerncy Standard, Curriculum and Competency Based
-            Learning Materials
+          The Electrical Installation & Maintenance course, designed in alignment with the standards set by the National Skills Development Authority (NSDA_ BNQF Level-2) Bangladesh, aims to equip learners with the technical skills, knowledge, and attitude required to excel in electrical work. This course focuses on the fundamentals of electrical systems, safety protocols, and practical skills for installing, maintaining, and troubleshooting residential, commercial, and industrial electrical setups. 
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Course Overview: </p>
           <p className="">
-            1. OSH,PPE, Drawing,Circuit diagram and Lay out diagram,
-            <br /> 2. Identify and its use Hand tools and Power Tools, <br />
-            3. Basic Electrical Circuit (Series circuit, Parallel ckt, Switch
-            board, MDB, DB, FDB, SDB, BDB,MCCB,MCB,CB, Main Switch, Energy
-            Meter, Estimating &Costing Etc.) <br /> 4. Measurement and
-            Calculations (Deferent types of Meter Analog and Digital such as
-            Ammeter, voltmeter, frequency meter, AVO Meter, P.F Meter, Watt
-            Meter, Techo meter, Earth tester, Magger, Lux Meter ,Micro Meter,
-            Vernier Calipers, Phase Sequence Meter Etc.) <br />
-            5. House Wiring (PVC Chennel Wiring, Surface conduit wiring, Conduit
-            wiring) <br />6 . Motor Controlling ( DOL, Timmer connection, Relay
-            Connection,Forwad reverse starter, Automatic Star Delta Starter
-            Circuit, Autu Transfer Swith, Power factor Imrovement Pannel, Motor
-            Controll Pannel Board) . <br />
-            7. Motor Rewinding (Fan Rewinding and Single phase and Three Phase
-            Motor Rewinding) , <br />
-            8. Sub Station(HT,LT,PFI, Generator MDB, ATS), <br />
-            9. Basic Electronics Circuit, <br />
-            10. CCTV, Solar Sysytem, <br />
-            11. Fire prevention and Detection
-            <br />
-            12. VFD
+          The Electrical Installation and Maintenance course is a 3-month intensive training program designed for individuals with a minimum Class VIII Pass or evidence of equivalent achievement qualification, offering a comprehensive foundation in electrical installation techniques. Conducted six days a week, with 5-hour daily sessions, the course combines theoretical knowledge with extensive hands-on practice to prepare participants for professional roles in the electrical field. Key topics include Occupational Safety and Health Procedures, effective workplace communication, and teamwork in the construction sector. Participants will develop skills in interpreting construction drawings and specifications, using hand tools and power tools safely, and applying fundamental skills for electrical works. The program covers practical training in performing wire and cable joints, installing electrical circuits, channel wiring, and conduit wiring. Upon completion, graduates will be well-equipped to pursue careers in electrical installation and maintenance, with the opportunity to appear for government certification assessments, enabling them to work in both local and international markets.
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">
             Course Objectives:{" "}
           </p>
           <p className="">
-            Provide Skills Man power provide, Certification and Sustainable Job
-            Placement
+          The primary objective of this course is to equip participants with comprehensive theoretical knowledge and practical skills in electrical installation and maintenance, enabling them to perform professional electrical tasks safely and efficiently. By the end of the training, participants will be prepared to interpret technical drawings, execute proper wiring techniques, install various electrical circuits, and adhere to industry safety standards. The course ensures graduates are ready to qualify for government certification and pursue rewarding careers in the electrical sector, both locally and internationally.
           </p>
 
           <p className="font-bold md:text-xl text-md mt-4">
             Training Approach:
           </p>
           <p>
-            Formal Training, Off line training . Workshop Base training ,
-            Thuritical and Practical Based Training.
+          The course adopts a classroom-based training approach, combining theoretical instruction with practical hands-on exercises to ensure comprehensive learning. Multiple formative assessments are conducted throughout the program to track progress and reinforce skills.
           </p>
           <p className="font-bold md:text-xl text-md mt-4">
             For Whom This Course Is:
@@ -134,9 +111,7 @@ const ElectricalInstalAndMaintenanceCourses = () => {
           </p>
           <p className="font-bold md:text-xl text-md mt-4">Certification:</p>
           <p>
-            Participants will receive a certificate from BRAC ISD at the end of
-            the course, validating their expertise in Electrical Installation
-            and Maintenance.
+          Participants will receive a completion certificate from BRAC ISD at the end of the course, validating their expertise in Electrical Installation and Maintenance. Moreover, participants will have the opportunity to appear for the government certificate assessment.
           </p>
         </div>
         <div className="mt-4">
@@ -161,6 +136,11 @@ const ElectricalInstalAndMaintenanceCourses = () => {
             <p className="underline">
               <Link to="/offline/centers/nilphamari">
                 BRAC ISD Nilphamari Centre
+              </Link>
+            </p>
+            <p className="underline">
+              <Link to="/offline/centers/nilphamari">
+              BRAC ISD Mirsharai Center (Inactive)
               </Link>
             </p>
           </div>

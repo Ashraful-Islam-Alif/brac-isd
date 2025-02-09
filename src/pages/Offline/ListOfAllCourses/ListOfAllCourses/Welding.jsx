@@ -97,7 +97,7 @@ const Welding = () => {
           </p>
           <p className="">Local and Global Market of Welding Job.</p>
           <p className="font-bold md:text-xl text-md mt-4">
-            Teaching Approach:
+            Training Approach:
           </p>
           <p>BNQF, CBT&A Methode, Residencial, 6 working days in a week.</p>
           <p className="font-bold md:text-xl text-md mt-4">

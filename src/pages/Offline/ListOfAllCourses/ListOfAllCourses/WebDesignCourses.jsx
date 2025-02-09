@@ -73,33 +73,19 @@ const WebDesignCourses = () => {
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Course Contents:</p>
           <p className="">
-            BRAC ISD Courses Information 100% G5 PHP,MySQL,OOP,CRUD Operation
-            Front-end Integration: Integrate Laravel with front-end libraries.
-            MVC Architecture: Understand Laravel's MVC design pattern. Blade
-            Templating: Use Laravel's Blade for managing views. Database
-            Seeding: Learn migrations and seeding in Laravel. MVC Framework:
-            LARAVEL Skills Covered : BNQF Level-3 PHP,MySQL,OOP,CRUD Operation
-            Front-end Integration: Integrate Laravel with front-end libraries.
-            MVC Architecture: Understand Laravel's MVC design pattern. Blade
-            Templating: Use Laravel's Blade for managing views. Database
-            Seeding: Learn migrations and seeding in Laravel. MVC Framework:
-            LARAVEL Skills Covered : BNQF Level-3 Turn on screen reader support
-            To enable screen reader support, press Ctrl+Alt+Z To learn about
-            keyboard shortcuts, press Ctrl+slashAshraful Islam Alif/SDP/BRAC has
-            left the document.
+          1. PHP, MySQL, OOP, CRUD <br />
+2. Operation Front-end Integration: Integrate Laravel with front-end libraries. <br />
+3. MVC Architecture: Understand Laravel's MVC design pattern. <br />
+4. Blade Templating: Use Laravel's Blade for managing views. <br />
+5. Database Seeding: Learn migrations and seeding in Laravel. <br />
+6. MVC Framework: LARAVEL Skills Covered BNQF Level-3
+
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">
             Course Description:{" "}
           </p>
           <p className="">
-            Unleash your creativity in our Web Design Course. With a discounted
-            fee of 4000, you get to explore a comprehensive curriculum that
-            covers HTML5, CSS3 with advanced animation and effects, JavaScript,
-            jQuery, SASS, SCSS, Bootstrap Latest Version, Responsive Website
-            Design, freelancing guidance, and essential software like Notepad,
-            Brackets, Visual Studio code, and Photoshop. Discover the world of
-            freelancing marketplaces like Fiverr, Freelancer, Upwork, and
-            Themeforest and kickstart your web design journey.
+          This Web Design course, focusing on HTML5, CSS3 with advanced animation and effects, JavaScript, jQuery, SASS, SCSS, Bootstrap Latest Version, Responsive Website Design, freelancing guidance, and essential software like Notepad, Brackets, Visual Studio code, and Photoshop. Discover the world of freelancing marketplaces like Fiverr, Freelancer, Upwork, and Themeforest and kickstart your web design journey. 
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Course Overview: </p>
           <p className="">
@@ -114,22 +100,24 @@ const WebDesignCourses = () => {
           </p>
 
           <p className="font-bold md:text-xl text-md mt-4">
-            Teaching Approach:
+            Training Approach:
           </p>
           <p>
-            Our training approach combines theoretical knowledge with hands-on
-            practical exercises and real-world case studies. Experienced
-            industry professionals will guide you through each module, ensuring
-            a holistic learning experience.
+          The course adopts a classroom-based training approach, combining theoretical instruction with practical hands-on exercises to ensure comprehensive learning. Multiple formative assessments are conducted throughout the program to track progress and reinforce skills.
+          </p>
+          <p className="font-bold md:text-xl text-md mt-4">
+          Course Objectives:
+          </p>
+          <p>
+          The primary objective of this course is to equip participants with comprehensive theoretical knowledge and practical skills in web design and development using Laravel. By the end of the training, participants will be prepared to develop dynamic web applications, implement MVC architecture effectively, manage databases using MySQL, and utilize Laravel's features for efficient web application development. The course ensures graduates are ready to qualify for government certification and pursue rewarding careers in the web development sector, both locally and internationally.
           </p>
           <p className="font-bold md:text-xl text-md mt-4">
             For Whom This Course Is:
           </p>
-          <p>Youth , Man and Women, PWD , Trangender</p>
+          <p>Youth, Age limit-18-40 years, Men and Women, Persons with Disability, Transgender.</p>
           <p className="font-bold md:text-xl text-md mt-4">Certification:</p>
           <p>
-            Participants will receive a well-recognised certificate from BRAC
-            ISD, acknowledging their successful completion.
+          Participants will receive a completion certificate from BRAC ISD at the end of the course, validating their expertise in Web Design. Moreover, having the opportunities participants to appear the assessment for government certificate.
           </p>
         </div>
         <div className="mt-4">

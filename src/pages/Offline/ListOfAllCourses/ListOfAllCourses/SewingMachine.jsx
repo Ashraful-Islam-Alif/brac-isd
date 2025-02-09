@@ -19,7 +19,7 @@ const SewingMachine = () => {
         <div className="hero-content text-center text-white">
           <div className="max-w-xl md:max-w-2xl lg:max-w-2xl">
             <h2 className="text-xl md:text-3xl lg:text-5xl font-bold">
-              Sewing Machine Operation
+              Knit Sewing Machine Operation
             </h2>
             <hr className="mx-4 md:mx-8 lg:mx-16 mt-4 border-t-8 font-bold border-[#FFA100]"></hr>
           </div>
@@ -30,7 +30,7 @@ const SewingMachine = () => {
         <div className="flex justify-between" >
           <div style={{ whiteSpace: "wrap" }}>
             <h2 className="font-bold md:text-2xl text-lg ">
-              Sewing Machine Operation
+              Knit Sewing Machine Operation
             </h2>
           </div>
           <div>
@@ -56,13 +56,17 @@ const SewingMachine = () => {
             <span className="font-bold mt-4 md:text-xl text-md">
               Class Duration:
             </span>{" "}
-            3 hours
+            % hours
           </p>
           <p className="mt-4">
             <span className="font-bold mt-4 md:text-xl text-md">
               Educational Qualification:
             </span>{" "}
-            Minimum class 5
+            •	Class five Pass or evidence of equivalent achievement or <br />
+•	Pass in a challenge test on language, literacy and numeracy skills considered necessary for successful completion of the qualification (Model challenge test to be developed based on units of competencies to be achieved) or <br />
+•	6 months trade relevant work experience and pass in a challenge test on vocational skills considered necessary for successful completion of the qualification (Model challenge test to be developed). <br />
+
+
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Schedule:</p>
           <p className="">
@@ -70,68 +74,43 @@ const SewingMachine = () => {
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Course Contents:</p>
           <p className="">
-            <span>
-              1. Generic : Communicate in the Workplace, Work in a team
-              Invironment.
-            </span>
-            <br></br>
-            <span>
-              2. Sector specific: Work in the RMG sector, Perform measurment and
-              calculation.
-            </span>
-            <br></br>
-            <span>
-              3. Occupation Specific: Operate Single needle lock stitch Machine,
-              Operate Dubble needle lock stitch Machine, Operate Single needle
-              chain stitch Machine Operate dubble needle chain stitch Machine,
-              Operate Four thread over lock Machine
-            </span>
+          •	Identify knitted fabrics and garments <br />
+•	Prepare for sewing operation <br />
+•	Carry out machine performance <br />
+•	Operate industrial sewing machine <br />
+•	Make t-shirt and polo-shirt <br />
+
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">
             Course Description:{" "}
           </p>
           <p className="">
-            <span>* Operate Single needle lock stitch Machine</span>
-            <br></br>
-            <span>* Operate Dubble needle lock stitch Machine</span>
-            <br></br>
-            <span>* Operate Single needle chain stitch Machine</span>
-            <br></br>
-            <span>* Operate dubble needle chain stitch Machine</span>
-            <br></br>
-            <span>* Operate Four thread over lock Machine</span>
-            <br></br>
-            <span>
-              &nbsp;&nbsp;1. Woven febrics Item: kind of pocket,
-              kind of cuffs, kind of collar, and Box plate.
-            </span>
-            <br></br>
-            <span>
-              &nbsp;&nbsp;2. Knite Fabric Item: Arm hole joint, side
-              seam, heam and moon.
-            </span>
-            <br></br>
+          The Knit Sewing Machine Operation course, designed in alignment with the standards set by the National Skills Development Authority (NSDA_ BNQF Level-2) Bangladesh, equips learners with essential skills, knowledge, and professional attitudes required for excellence in the textile and garment manufacturing industry. This course focuses on the fundamental principles of knit sewing operations, safety protocols, and practical skills necessary for operating industrial sewing machines effectively. 
           </p>
           <p className=" font-bold md:text-xl text-md mt-4">Course Overview:</p>
           <p className="">
-            Occupation Specific: Operate Single needle lock stitch Machine,<br />
-            Operate Dubble needle lock stitch Machine, <br />Operate Single needle
-            chain stitch Machine <br />Operate dubble needle chain stitch Machine,
-           <br /> Operate Four thread over lock Machine.
+          The Knit Sewing Machine Operation course is a 3-month intensive training program designed for individuals with a minimum Class five Pass or evidence of equivalent achievement qualification, providing a comprehensive foundation in sewing machine operations within the knitwear sector. Conducted six days a week, with 5-hour daily sessions, the course combines theoretical knowledge with extensive hands-on practice to prepare participants for professional roles in garment manufacturing. Key topics include applying Occupational Safety and Health (OSH) practices in the workplace, performing computations using basic mathematical concepts, and carrying out effective workplace interactions. Participants will learn to work in self-directed teams, interpret drawings and manuals, perform measurements and calculations, and apply quality procedures. The program covers essential training in identifying knitted fabrics and garments, preparing for sewing operations, carrying out machine performance checks, and operating industrial sewing machines. Participants will also gain practical experience in making t-shirts and polo shirts. Upon completion, graduates will be well-equipped to pursue careers in knit sewing machine operation, with the opportunity to appear for government certification assessments, enabling them to work in both local and international textile industries.
           </p>
           <p className=" font-bold md:text-xl text-md mt-4">
             Course Objectives:
           </p>
-          <p className="">Professional Competency</p>
+          <p className="">
+          The primary objective of this course is to equip participants with comprehensive theoretical knowledge and practical skills in knit sewing machine operation, enabling them to perform professional sewing tasks efficiently and safely. By the end of the training, participants will be prepared to interpret technical specifications accurately, operate industrial sewing machines proficiently, and produce high-quality knit garments according to industry standards. The course ensures graduates are ready to qualify for government certification and pursue rewarding careers in the garment manufacturing sector, both locally and internationally.
+          </p>
 
           <p className="font-bold mt-4 md:text-xl text-md">
-            Teaching Approach:
+            Training Approach:
           </p>
-          <p>Theoritical & Practical</p>
+          <p>
+          The course adopts a classroom-based training approach, combining theoretical instruction with practical hands-on exercises to ensure comprehensive learning. Multiple formative assessments are conducted throughout the program to track progress and reinforce skills. 
+          </p>
+          <p className="font-bold mt-4 md:text-xl text-md">For Whom This Course Is:</p>
+          <p>
+          Youth, Age limit-18-40 years, Men and Women, Persons with Disability, Transgender.
+          </p>
           <p className="font-bold mt-4 md:text-xl text-md">Certification:</p>
           <p>
-            Participants will receive a well-recognised certificate from BRAC
-            ISD, acknowledging their successful completion.
+          Participants will receive a completion certificate from BRAC ISD at the end of the course, validating their expertise in Knit Sewing Machine Operation. Moreover, having the opportunities participants to appear the assessment for government certificate.
           </p>
         </div>
         <div className="mt-4">
@@ -145,7 +124,10 @@ const SewingMachine = () => {
               </Link>
             </p>
             <p className="underline">
-              <Link to="/offline/centers/manikganj">BRAC ISD Manikganj Centre</Link>
+              <Link to="/offline/centers/manikganj">BRAC ISD Manikganj Centre (Inactive)</Link>
+            </p>
+            <p className="underline">
+              <Link to="/offline/centers/manikganj">BRAC ISD Mirsharai Center (Inactive)</Link>
             </p>
           </div>
         </div>

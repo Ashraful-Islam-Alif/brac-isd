@@ -104,7 +104,7 @@ const CaregivingTraining = () => {
           The main goal of this course is to provide participants with a thorough understanding of caregiving theory and hands-on skills, so they can offer empathetic and efficient assistance to those who require it. Upon completion of the program, participants will be capable of understanding caregiving protocols, conducting health assessments and providing initial medical assistance, aiding individuals with their daily tasks, upholding appropriate nutrition and safety measures, and utilizing fundamental physiotherapy methods in line with established practices. This course guarantees that graduates are fully prepared to meet the requirements for official certification and embark on fulfilling caregiving careers both domestically and globally.
           </p>
           <p className="font-bold md:text-xl text-md mt-4">
-            Teaching Approach:
+            Training Approach:
           </p>
           <p>
           The course adopts a classroom-based training approach, combining theoretical instruction with practical hands-on exercises to ensure comprehensive learning. Multiple formative assessments are conducted throughout the program to track progress and reinforce skills.

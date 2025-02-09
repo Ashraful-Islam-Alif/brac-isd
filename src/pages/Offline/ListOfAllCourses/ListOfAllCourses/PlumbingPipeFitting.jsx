@@ -97,7 +97,7 @@ const PlumbingPipeFitting = () => {
             Local and Global Market of Plumbing And Pipe Fittings Job.
           </p>
           <p className="font-bold mt-4 md:text-xl text-md">
-            Teaching Approach:
+            Training Approach:
           </p>
           <p>BNQF, CBT&A Methode, Residencial.</p>
           <p className="font-bold mt-4 md:text-xl text-md">Certification:</p>

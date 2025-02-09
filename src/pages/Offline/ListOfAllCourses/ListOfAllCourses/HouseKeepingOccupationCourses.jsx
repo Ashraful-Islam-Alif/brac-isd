@@ -52,143 +52,50 @@ const HouseKeepingOccupationCourses = () => {
           <span className="font-bold md:text-xl text-md mt-4">
             Class Duration:
           </span>{" "}
-          3.5 hours
+          4 hours
         </p>
         <p className="mt-4">
           <span className="font-bold md:text-xl text-md mt-4">
-            Educational Qualification:
+            Educational Qualification: <br />
           </span>{" "}
-          Minimum SSC
+          SSC or equivalent certificate or <br />
+          Class eight or equivalent certificate with 2-years occupation relevant work experience and pass in a challenge test on NSDA’s approved assessment.
+
         </p>
         <p className="mt-4 font-bold md:text-xl text-md">Schedule:</p>
         <p className="">Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday</p>
         <p className="mt-4 font-bold md:text-xl text-md">Course Contents:</p>
         <p className=" ">
-          OSH, Work In the Team Environment, Participate In Workplace
-          Communication, Carry Out Workplace Interaction in English, Maintain
-          Professionalism in The Workplace, Work in the Tourism and Hospitality
-          Areas, Practice Workplace Hygiene Procedures, Provide Effective Guest
-          Service, Perform Workplace and Safety Practice, Provite Housekeeping
-          Services to Guests, Clean and Prepare Rooms for Guests, Provide
-          Valet/Butler Service, Laundry Linen and Guest Clothes, Clean Public
-          Areas, Facilities and Equipment, Deal With/Handle Intoxicated Guests.
-          Skills Covered : NTVQF Level-1 to 4 BNQF Level-2 &3.
+        •	Provide Housekeeping Services to Guests <br />
+•	Clean and Prepare Rooms for Guests <br />
+•	Provide Valet/Butler Service <br />
+•	Laundry Linen And Guest Clothes <br />
+•	Clean Public Areas, Facilities and Equipment <br />
+•	Deal With/Handle Intoxicated Guests <br />
+
         </p>
         <p className="mt-4 font-bold md:text-xl text-md">Course Description:</p>
         <p>
-          Our course are Tourism & Hospitality sector, This courses are
-          accredetation from BTEB& NSDA. Maintain competerncy Standard,
-          Curriculum and Competency Based Learning Materials. Total Hours-500,
-          Total Classes-45+50=95 (Including Industrial Attachment)
+        The Housekeeping course, designed in alignment with the standards set by the National Skills Development Authority (NSDA_ BNQF Level-2) Bangladesh, equips learners with essential skills, knowledge, and professional attitude required for excellence in housekeeping services within the tourism and hospitality sectors. This course focuses on the fundamental principles of housekeeping, safety protocols, and practical skills necessary for providing high-quality service to guests. 
         </p>
 
         <p className="mt-4 font-bold md:text-xl text-md">Course Overview:</p>
         <p>
-          1. OSH: <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;a. Identify OSH policies and procedures
-          <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;b. Follow OSH procedures <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;c. Report Hazard and Risk <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;d. Report to emergencies e. Maintain personal
-          well-being
-          <br />
-          2. Work in a team environment: <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;a. Define team role and scope <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;b. Identify individual role and responsibility{" "}
-          <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;c. Participate Team discussions <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;d. Work as a team member
-          <br />
-          3. Participate in workplace Communication: <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;a. Obtain Convey workplace information <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;b. Speak english at a basic operational level{" "}
-          <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;c. Participate in workplace meetings and
-          discussions <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;d. Complete relevant work-related documents
-          <br />
-          4. Carry Out Workplace interaction in English: <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;a. Interpret workplace communication and
-          etiquette <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;b. Interpret workplace documents <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;c. Participate in workplace meetings and
-          discussions <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;d. Practice professional ethics at workplace
-          <br />
-          5. Maintain Professionalism in the workplace: <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;a. Respect work time frames <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;b. Maintain personal appearance and hygiene{" "}
-          <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;c. Maintain adequate distance with colleagues
-          and guests d. Work in an ethical manner.
-          <br /> Sector Specific:
-          <br /> 1. Work In the Tourism and Hospitality Sector: a. Describe the
-          organization strucure within the sector <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;b. Identify processes and procedures <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;c. Identify workplace requirments <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;d. Organize own workload <br />
-          2. Practice Workplace Hygiene Procedure: a. Follow hygiene procedure{" "}
-          <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;b. Identify and prevent hygiene risks <br />
-          3. Provide Effective guest service: a. Greet guest <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;b. Identify needs of guests <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;c. Provite service to guests <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;d. Handle queries of guests <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;e. Handle complaints/ conflict situations{" "}
-          <br />
-          4. Perform Workplace Safety and Security practices: a. Follow
-          workplace procedures for health, safety and security practices b.
-          Observe and monitor people c. Deal with emergency situationsworkplace
-          d. Maintain safe and secure workplace
-          <br />
-          Occupational:
-          <br />
-          1. Provite Housekeeping service: <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;a. Receive housekeeping requests <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;b. Service housekeeping requests <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;c. Provide advice to guests <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;d. Liaise with other departments 2. Clean and
-          prepare Room for guests: <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;a. Set up equipment and trolleys <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;b. Access rooms for servicing <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;c. Make up Beds <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;d. Clean and clear rooms 3. Provite
-          Valet/Butler Service: <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;a. Perform valet service for guests <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;b. Display professional standards <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;c. Care for guest property 4. Laundru linen
-          and guest cloths: <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;a. Collect laundry for laundering functions{" "}
-          <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;b. Perform laundering function <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;c. Process laundered item <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;d. Return laundered item 5. Clean public
-          Areas, Facilities and Equipment: <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;a. Select and setup equipment and materials{" "}
-          <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;b. Apply Cleaning technique <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;c. Clean dry and wet areas <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;d. Maintain and store cleaning equipment and
-          chemical 6. Deal with/handle Intoxicated guests: <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;a. Determine the level of intoxication <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;b. Apply appropriate procedures <br />
-          &nbsp;&nbsp;&nbsp;&nbsp;c. Comply with legislation.
+        The Housekeeping course is a 4-month intensive training program designed for individuals with a minimum SSC or equivalent certificate qualification, offering a comprehensive foundation in housekeeping practices. Conducted six days a week, with 4-hour daily sessions, the course combines theoretical knowledge with extensive hands-on practice to prepare participants for professional roles in hospitality. Key topics include applying Occupational Safety and Health (OSH) procedures, working effectively in team environments, and participating in workplace communication. Participants will learn to carry out workplace interactions in English while maintaining professionalism in various settings. The program covers essential practices for working in tourism and hospitality areas, including workplace hygiene procedures and effective guest service. Participants will gain skills in providing housekeeping services to guests, cleaning and preparing rooms, performing valet/butler services, and handling laundry for linens and guest clothes. Additional training includes cleaning public areas, facilities, and equipment, as well as managing interactions with intoxicated guests. Upon completion, graduates will be well-equipped to pursue careers in housekeeping, with the opportunity to appear for government certification assessments, enabling them to work in both local and international hospitality environments.
         </p>
         <h2 className="mt-4 font-bold md:text-xl text-md">
           Course Objectives:
         </h2>
 
         <p className="">
-          Provide Skills Man power provide, Certification and Sustainable Job
-          Placement.
+        The primary objective of this course is to equip participants with comprehensive theoretical knowledge and practical skills in housekeeping services, enabling them to deliver high-quality care and support to guests. By the end of the training, participants will be prepared to maintain cleanliness and hygiene standards, provide effective guest service, handle various housekeeping tasks professionally, and ensure guest satisfaction according to industry standards. The course ensures graduates are ready to qualify for government certification and pursue rewarding careers in the hospitality sector, both locally and internationally.
         </p>
         <h2 className="mt-4 font-bold md:text-xl text-md">
           Training Approach:
         </h2>
 
         <p className="">
-          Formal Training, Off line training . Workshop Base training ,
-          Thuritical and Practical Based Training.
+        The course adopts a classroom-based training approach, combining theoretical instruction with practical hands-on exercises to ensure comprehensive learning. Multiple formative assessments are conducted throughout the program to track progress and reinforce skills. 
         </p>
         <h2 className="mt-4 font-bold md:text-xl text-md">
           For Whom This Course Is:
@@ -200,8 +107,7 @@ const HouseKeepingOccupationCourses = () => {
         <h2 className="mt-4 font-bold md:text-xl text-md">Certificate: </h2>
 
         <p className="">
-          At the end of the course, participants will receive a certificate from
-          BRAC ISD, validating their expertise in Housekeeping Occupation.
+        Participants will receive a completion certificate from BRAC ISD at the end of the course, validating their expertise in House Keeping. Moreover, having the opportunities participants to appear the assessment for government certificate.
         </p>
         <div className="mt-4">
           <h1 className="font-bold md:text-xl text-md ">

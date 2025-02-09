@@ -50,78 +50,59 @@ const GraphicsDesignCourses = () => {
           <span className="font-bold md:text-xl text-md mt-4">
             Class Duration:
           </span>{" "}
-          3 hours
+          5 hours
         </p>
         <p className="mt-4">
           <span className="font-bold md:text-xl text-md mt-4">
             Educational Qualification:
           </span>{" "}
-          Minimum SSC (Secondary School Certificate)
+          Bachelor's Degree or evidence of equivalent achievement.
         </p>
         <p className="mt-4">
-          <span className="font-bold md:text-xl text-md mt-4">Schedule</span>{" "}
+          <span className="font-bold md:text-xl text-md mt-4">Schedule:</span>{" "}
+          <br />
           Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday
         </p>
         <p className="mt-4 font-bold md:text-xl text-md">Course Contents:</p>
         <p className=" ">
-          Adobe Illustrator: Students learn vector graphics creation, logo
-          design, and illustration techniques. Key topics include using the Pen
-          tool, mastering shapes, and creating complex illustrations. <br />
-          Adobe Photoshop: The course covers photo editing, retouching, and
-          manipulation. Students gain skills in working with layers, masks, and
-          blending modes to create polished and professional designs. <br />
-          Practical Projects: Throughout the course, students work on real-world
-          projects such as posters, brochures, and digital art, allowing them to
-          apply their skills and build a portfolio.
+        •	Apply Graphic Design Concepts and Guidelines. <br />
+•	Create Professional Designs using Illustration Software. <br />
+•	Separate and Compose Images. <br /> 
+•	Create Mock Up and Print. <br /> 
+•	Develop Materials for Output. <br /> 
         </p>
-
         <h2 className="mt-4 font-bold md:text-xl text-md">
           Course Description:{" "}
         </h2>
 
         <p className="">
-          The Graphic Design course at Brac Institute of Skills Development
-          focuses on developing proficiency in Adobe Illustrator and Photoshop,
-          two of the most widely used software in the field. Over the span of 3
-          months, students are introduced to the fundamentals of design,
-          including color theory, typography, and layout principles.
+        The Graphic Design course, designed in alignment with the standards set by the National Skills Development Authority (NSDA_ BNQF Level-3) Bangladesh, equips learners with essential skills, knowledge, and professional attitude required for success in the graphic design industry. This course focuses on the fundamental principles of graphic design, software proficiency, and practical skills necessary for creating visually appealing designs across various media.
         </p>
         <h2 className="mt-4 font-bold md:text-xl text-md">Course Overview: </h2>
 
         <p className="">
-          ILLUSTRATOR: Logo Design Brand Identity Design Vector Drawing
-          Flyer/Brochure Design Poster Design Magazine/Newsletter Print Design
-          Banner Design T-Shirt Design Print Output Setup <br />
-          PHOTOSHOP: Photo Retouch Background Removing Hair Masking Image
-          Manupulation Color Correction Portrait Drawing Image Resizing Banner
-          Design Animation UI/UX Design
+        The Graphic Design course is a 3-month intensive training program designed for individuals with a minimum Bachelor's Degree or evidence of equivalent achievement qualification, providing a comprehensive foundation in graphic design techniques and software applications. Conducted six days a week, with 5-hour daily sessions, the course combines theoretical knowledge with extensive hands-on practice to prepare participants for professional roles in graphic design. Key topics include applying Occupational Safety and Health (OSH) procedures, effective workplace interaction, and operating personal computers and office application software. Participants will learn to access information using the internet and electronic mail while complying with ethical standards in the IT workplace. The program emphasizes graphic design concepts and guidelines, enabling participants to create professional designs using illustration software. Additional training includes separating and composing images, creating mock-ups for print, and developing materials for output. Upon completion, graduates will be well-equipped to pursue careers in graphic design, with the opportunity to appear for government certification assessments, enabling them to work in both local and international creative sectors.
         </p>
-        <p className="font-bold md:text-xl text-md mt-4">Teaching Approach:</p>
+        <h2 className="mt-4 font-bold md:text-xl text-md">Course Objectives: </h2>
+
+        <p className="">
+        The primary objective of this course is to equip participants with comprehensive theoretical knowledge and practical skills in graphic design, enabling them to produce high-quality visual content that meets industry standards. By the end of the training, participants will be prepared to apply graphic design principles, operate relevant software effectively, create professional designs, and develop materials suitable for various outputs. The course ensures graduates are ready to qualify for government certification and pursue rewarding careers in the graphic design field, both locally and internationally.
+        </p>
+        <p className="font-bold md:text-xl text-md mt-4">Training Approach:</p>
         <p>
-          1. Hands-on Learning • Software Demos • Practical Exercises 2.
-          Project-Based Learning • Real-World Projects • Portfolio Development
-          3. Collaborative Learning • Peer Review Sessions • Group Projects 4.
-          Interactive Lectures • Conceptual Understanding • Q&A Sessions 5.
-          Tutorials and Supplemental Resources • Video Tutorials • Reading
-          Materials 6. Assessment and Feedback • Continuous Assessment •
-          Personalized Feedback.
+        The course adopts a classroom-based training approach, combining theoretical instruction with practical hands-on exercises to ensure comprehensive learning. Multiple formative assessments are conducted throughout the program to track progress and reinforce skills 
         </p>
         <h2 className="mt-4 font-bold md:text-xl text-md">
-          Who Should Enroll:
+        For Whom This Course Is:
         </h2>
 
         <p className="">
-          If you have a passion for creativity and want to excel in Graphics
-          Design, this course is perfect for you. Whether you are a beginner or
-          have some design experience, our programme will elevate your skills
-          and broaden your horizons in the world of design.
+        Youth, Age limit-18-40 years, Men and Women, Persons with Disability, Transgender.
         </p>
         <h2 className="mt-4 font-bold md:text-xl text-md">Certificate: </h2>
 
         <p className="">
-          Upon successful completion of the course, you will receive a
-          certificate from BRAC ASD, validating your proficiency in Graphics
-          Design.
+        Participants will receive a completion certificate from BRAC ISD at the end of the course, validating their expertise in Graphic Design. Moreover, having the opportunities participants to appear the assessment for government certificate.
         </p>
         <div className="mt-4">
           <h1 className="font-bold md:text-xl text-md ">
@@ -132,38 +113,11 @@ const GraphicsDesignCourses = () => {
               <Link to="/offline/centers/dhaka">BRAC ISD Dhaka Centre</Link>
             </p>
             <p className="underline">
-              <Link to="/offline/centers/rangpur">BRAC ISD Rangpur Centre</Link>
-            </p>
-            <p className="underline">
-              <Link to="/offline/centers/rajshahi">BRAC ISD Rajshahi Centre</Link>
-            </p>
-            <p className="underline">
-              <Link to="/offline/centers/cumilla">BRAC ISD Cumilla Centre</Link>
-            </p>
-            <p className="underline">
-              <Link to="/offline/centers/chattogram">
-                BRAC ISD Chattogram Centre
-              </Link>
-            </p>
-            <p className="underline">
               <Link to="/offline/centers/sylhet">BRAC ISD Sylhet Centre</Link>
-            </p>
-            <p className="underline">
-              <Link to="/offline/centers/chattogram2">BRAC ISD Halishahar Centre</Link>
-            </p>
-            <p className="underline">
-              <Link to="/offline/centers/chattogram3">
-                BRAC ISD Patiya(Chattogram) Centre
-              </Link>
             </p>
             <p className="underline">
               <Link to="/offline/centers/mymensingh">
                 BRAC ISD Mymensingh Centre
-              </Link>
-            </p>
-            <p className="underline">
-              <Link to="/offline/centers/narayanganjnBondor">
-                BRAC ISD Bandar(Narayanganj) Centre
               </Link>
             </p>
           </div>

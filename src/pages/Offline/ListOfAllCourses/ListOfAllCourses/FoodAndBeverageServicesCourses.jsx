@@ -53,61 +53,50 @@ const FoodAndBeverageServicesCourses = () => {
           <span className="font-bold md:text-xl text-md mt-4">
             Class Duration:
           </span>{" "}
-          3.5 hours
+          4 hours
         </p>
         <p className="mt-4">
           <span className="font-bold md:text-xl text-md mt-4">
             Educational Qualification:
           </span>{" "}
-          Minimum SSC
+          <br />
+          •	Minimum SSC (Secondary School Certificate) or equivalent certificate or <br />
+•	Minimum 2 years working experience in related field/occupation and pass in challenge test developed by NSDA.
+
         </p>
         <p className="mt-4 font-bold md:text-xl text-md">Schedule:</p>
         <p className="">Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday</p>
         <p className="mt-4 font-bold md:text-xl text-md">Course Contents:</p>
         <p className=" ">
-          OSH procedure in the workplace, Use english in the workplace, Received
-          and respond to workplace instructions, work in a team environment,
-          Work in the Tourism and Hospitality Sector, Practice workplace hygiene
-          procedure, Provide effective guest service, Apply food safety
-          procedures, Perform opening closing activities for restaurants, Apply
-          product knowledge on Food and Beverage service, Prepare for table
-          service, Provide in room dining, Provide Food and Beverage Service.
-          Skills Covered : NTVQF Level-1 BNQF Level-2.
+        •	Apply Food Safety Procedures  <br />
+•	Perform Opening-Closing Activities for Restaurants <br />
+•	Apply Product Knowledge on Food and Beverage Service <br />
+•	Prepare Table for Service <br />
+•	Provide in-Room Dining <br />
+•	Provide Food and Beverage Service <br />
         </p>
         <p className="mt-4 font-bold md:text-xl text-md">Course Description:</p>
         <p>
-          Our course are Tourism and Hospitality sector, This courses are
-          accredetation from BTEB & NSDA. Maintain competency Standard,
-          Curriculum and Competency Based Learning Materials.
+        The Food and Beverage Service course, designed in alignment with the standards set by the National Skills Development Authority (NSDA_ BNQF Level-2) Bangladesh, equips learners with essential hospitality skills, knowledge, and professional attitude required for excellence in food and beverage service. This course focuses on guest service excellence, hygiene protocols, and practical skills for providing high-quality dining experiences in hotels, restaurants, and hospitality establishments.
         </p>
 
         <p className="mt-4 font-bold md:text-xl text-md">Course Overview:</p>
         <p>
-          1. Identify OSH policies and procedures, <br />2. Follow OSH procedures, <br />3.
-          Report hazards and risks, <br />4. Respond to emergencies <br />5. Maintain
-          personal wellbeing <br />6 . Listen to conversation in english, <br />7. Perform
-          conversation in English, <br />8. Interpet and follow verbal instructions,
-          <br />9. Read and interpret workplace documents, <br />10. Prepare tools,
-          equipment and premises, <br />11. Prepare restaurant for seervice <br />12. Carry
-          out closing tasks <br />13. Greet guest <br />14. Identify needs of guests <br />15.
-          Provide service to guest <br />16. Handle queries of guests <br />17. Handle
-          complaints/conflict situations, evaluation and recommendations <br />18.
-          Identify the product <br />19. Collect information on food and beverage <br />20.
-          Share information with guests <br />21. Interpret types of service.
+        The Food and Beverage Service course is a 4-month intensive training program designed for individuals with a minimum SSC qualification, offering comprehensive training in hospitality service operations. Conducted six days a week, with 4-hour daily sessions, the course combines theoretical knowledge with hands-on practical training to prepare participants for professional food service roles. Key topics include Occupational Safety and Health Procedures, English communication skills, and Team Environment practices. Participants will master workplace hygiene procedures, guest service excellence, and food safety protocols. The program covers comprehensive training in restaurant operations, product knowledge, table service techniques, in-room dining procedures, and professional food and beverage service standards. Upon completion, graduates will be well-equipped to pursue careers in the hospitality industry, with the opportunity to appear for government certification assessments, enabling them to work in both local and international hospitality sectors.
         </p>
         <h2 className="mt-4 font-bold md:text-xl text-md">
           Course Objectives:
         </h2>
 
         <p className="">
-        Provide Skills Man power, Certification and Sustainable Job Placement.
+        The primary objective of this course is to equip participants with comprehensive theoretical knowledge and practical skills in food and beverage service, enabling them to deliver professional hospitality services and maintain high standards of guest satisfaction. By the end of the training, participants will be prepared to communicate effectively in English, maintain hygiene standards, demonstrate product knowledge, and provide excellent food and beverage service according to international hospitality standards. The course ensures graduates are ready to qualify for government certification and pursue rewarding careers in the growing hospitality sector, both locally and internationally.
         </p>
         <h2 className="mt-4 font-bold md:text-xl text-md">
           Training Approach:
         </h2>
 
         <p className="">
-        Formal Training, Off line training, Theoritical and Practical Based Training. 
+        The course adopts a classroom-based training approach, combining theoretical instruction with practical hands-on exercises to ensure comprehensive learning. Multiple formative assessments are conducted throughout the program to track progress and reinforce skills  
         </p>
         <h2 className="mt-4 font-bold md:text-xl text-md">
           For Whom This Course Is:
@@ -119,8 +108,7 @@ const FoodAndBeverageServicesCourses = () => {
         <h2 className="mt-4 font-bold md:text-xl text-md">Certificate: </h2>
 
         <p className="">
-          At the end of the course, participants will receive a certificate from
-          BRAC ISD, validating their expertise in Food and Beverage Services.
+        Participants will receive a completion certificate from BRAC ISD at the end of the course, validating their expertise in Food and Beverage Services. Moreover, having the opportunities participants to appear the assessment for government certificate.
         </p>
         <div className="mt-4">
           <h1 className="font-bold md:text-xl text-md ">
@@ -133,6 +121,11 @@ const FoodAndBeverageServicesCourses = () => {
             <p className="underline">
               <Link to="/offline/centers/coxbazar">
                 BRAC ISD Cox's Bazar Centre
+              </Link>
+            </p>
+            <p className="underline">
+              <Link to="/offline/centers/coxbazar">
+              BRAC Mirsharai Centre (Inactive)
               </Link>
             </p>
           </div>

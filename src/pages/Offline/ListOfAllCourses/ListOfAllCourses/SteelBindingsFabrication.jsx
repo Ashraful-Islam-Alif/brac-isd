@@ -55,7 +55,7 @@ const SteelBindingsFabrication = () => {
           </p>
           <p className="mt-4">
             <span className="font-bold md:text-xl text-md mt-4">Educational Qualification:</span>{" "}
-            Minimum SSC
+            Minimum SSC (Secondary School Certificate).
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Schedule:</p>
           <p className="">
@@ -64,45 +64,41 @@ const SteelBindingsFabrication = () => {
           <p className="mt-4 font-bold md:text-xl text-md">Course Contents:</p>
           <p className="">
             <span>
-              Perform Basic Mathics, OH&S in Workplace, Communicate in English
-              in the work Environment.Translate Drawing ,plan and
-              Speceification, Use Hand and Power Tools, Perform Preparation
-              Works, Perform Fabrication Works, Perform Assembly of
-              Prefabricated Steel Works, Perform Steel Re- Bar Installation
-              Works, Perform Basic Construction Leveling Procedures,Perform
-              Formworks Installation
+            •	Occupation Safety and Health (OSH) <br />
+•	Workplace Communications  <br />
+•	Interpretation of Drawings, Plans, and Specifications <br />
+•	Use of Hand and Power Tools <br />
+•	Perform Basic Mathematics <br />
+•	Perform Preparation Works <br />
+•	Fabrication Works <br />
+•	Assembly of Prefabricated Steel Works <br />
+•	Steel Re-Bar Installation Works <br />
+•	Basic Construction Leveling Procedures <br />
+•	Formworks Installation <br />
+
             </span>
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Course Description: </p>
           <p className="">
-            Use basic mathematical Formula, Identify OHS policies and
-            Procedures, Perform Conversation in English with Others, Interprate
-            store Manuals ,design and plans, Operate Hand And Power
-            Tools,Prepare Hand Tools, Equipment and Materials, Bend main bars
-            using manual benders and bending Machine, install
-            scaffolding,install re bars for building elements, plan and prepare
-            for work and set up level, install fformworks for building
-            elements,repair and replace damaged formworks.
+          The Steel Binding and Fabrication course equips learners with comprehensive technical skills, knowledge, and professional attitude required for excellence in steel fabrication and construction work. This course focuses on fundamental fabrication techniques, safety protocols, and practical skills for preparing, assembling, and installing steel structures in construction projects.
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Course Overview: </p>
           <p className="">
-            Local And Global Market. All Kinds Of steel binding, scaffolding,
-            installation Bar, Beem, operate manual bending and bending Machine,
-            repeair and replace damage formwork, set up level Works.{" "}
+          The Steel Binding and Fabrication course is a 3-month intensive training program designed for individuals with a minimum SSC qualification, offering a strong foundation in steel fabrication and installation techniques. Conducted six days a week, with 6-hour daily sessions, the course combines theoretical knowledge with extensive hands-on practice to prepare participants for professional steel fabrication roles. Key topics include Occupational Safety and Health procedures, Workplace Communications, and technical drawing interpretation. Participants will master basic mathematics, proper use of hand and power tools, and preparation techniques. The program provides comprehensive training in fabrication works, assembly of prefabricated steel structures, steel re-bar installation, construction leveling procedures, and formworks installation. Upon completion, graduates will be well-equipped to pursue careers in steel fabrication and construction, with the opportunity to appear for government certification assessments, enabling them to work in both local and international construction sectors.
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Course Objectives: </p>
           <p className="">
-            Local and Global Market of steel binding and Fabrication and
-            scaffolding Job.{" "}
+          The primary objective of this course is to equip participants with comprehensive theoretical knowledge and practical skills in steel binding and fabrication, enabling them to perform professional fabrication work, steel installation, and construction-related tasks. By the end of the training, participants will be prepared to interpret technical drawings, perform accurate measurements, fabricate steel components, and execute quality installation work according to industry standards. The course ensures graduates are ready to qualify for government. 
           </p>
-          <p className="font-bold mt-4 md:text-xl text-md">Teaching Approach:</p>
-          <p>BNQF, CBT&A Methode, Residencial.</p>
+          <p className="font-bold mt-4 md:text-xl text-md">Training Approach:</p>
+          <p>
+          The course adopts a classroom-based training approach, combining theoretical instruction with practical hands-on exercises to ensure comprehensive learning. Multiple formative assessments are conducted throughout the program to track progress and reinforce skills. 
+          </p>
           <p className="mt-4 font-bold">For Whom This Course is: </p>
           <p className="">18 Years To 40 Years age </p>
           <p className="font-bold mt-4 md:text-xl text-md">Certification:</p>
           <p>
-            Participants will receive a well-recognised certificate from BRAC
-            ISD, acknowledging their successful completion.
+          Participants will receive a completion certificate from BRAC ISD at the end of the course, validating their expertise in Steel Binding and Fabrication. Moreover, having the opportunities participants to appear the assessment for government certificate.
           </p>
         </div>
         <div className="mt-4">

@@ -59,7 +59,7 @@ const ComputerOperationCourses = () => {
           <span className="font-bold md:text-xl text-md mt-4">
             Educational Qualification:
           </span>{" "}
-          Minimum 8 Pass
+          Minimum Class eight Pass
         </p>
         <p className="mt-4 font-bold md:text-xl text-md">Schedule:</p>
         <p className="">
@@ -76,48 +76,12 @@ const ComputerOperationCourses = () => {
         </p>
         <p className="mt-4 font-bold md:text-xl text-md">Course Description:</p>
         <p>
-          The Computer Office Application course at BRAC Institute of Skills
-          Development is designed to equip students with essential computer
-          skills needed in modern office environments. Over the course of 1.5
-          months, students will gain proficiency in English and Bangla typing,
-          basic internet tools, fundamental computer operations, and key
-          Microsoft Office applications, including Word, Excel, and PowerPoint.
+        The Computer Office Application course, designed in alignment with the standards set by the National Skills Development Authority (NSDA_ BNQF Level-3) Bangladesh, equips learners with essential computer skills and knowledge necessary for effective office administration. This course focuses on practical applications of computer software, typing proficiency, and basic internet tools to enhance productivity in various professional environments. 
         </p>
 
         <p className="mt-4 font-bold md:text-xl text-md">Course Overview:</p>
         <p>
-          1. English and Bangla Typing: Introduction to typing software (e.g.,
-          TypingMaster, Avro Keyboard for Bangla), Touch typing techniques,
-          Practice drills for increasing typing speed and accuracy, Typing tests
-          to monitor progress
-          <br />
-          2. Basic Internet Tools: Introduction to web browsers (Chrome,
-          Firefox), Effective web searching (using search engines like Google),
-          Bookmarking and managing favorite websites, Understanding and using
-          cloud storage (Google Drive, Dropbox), Setting up and managing email
-          accounts (Gmail, Outlook), Composing, sending, and organizing emails,
-          Attaching files and managing email attachments, Creating and using
-          contact lists, Introduction to email etiquette and professional
-          communication
-          <br />
-          3. Computer Basic Operation: Overview of computer hardware (CPU, RAM,
-          hard drives, peripherals), Understanding operating systems (Windows),
-          Basic troubleshooting and maintenance, File management: creating,
-          saving, organizing, and retrieving files, Introduction to basic
-          computer terminologies and concepts
-          <br />
-          4. Microsoft Word: Introduction to the Microsoft Word interface,
-          Creating, saving, and opening documents, Basic text formatting (font
-          styles, sizes, colors), Paragraph formatting (alignment, spacing,
-          indentation)
-          <br />
-          5. Microsoft Excel: Introduction to the Excel interface, Creating and
-          saving workbooks, Basic data entry and cell formatting, Introduction
-          to formulas and functions (SUM, AVERAGE, etc.)
-          <br />
-          6. Microsoft PowerPoint: Introduction to the PowerPoint interface,
-          Creating and saving presentations, Slide design basics (layouts,
-          themes), Inserting and formatting text, images, and graphics
+        The Computer Office Application course is a 1.5-month intensive training program designed for individuals with a minimum Class eight Pass qualification. Conducted six days a week, with 3-hour daily sessions, the course combines theoretical knowledge with hands-on practice to prepare participants for professional roles in office settings. Key topics include English and Bangla typing skills to improve communication efficiency, basic internet tools for online research and communication, and foundational computer operations. Participants will gain proficiency in Microsoft Word for document creation and formatting, Microsoft Excel for data management and analysis, and Microsoft PowerPoint for effective presentation design. Throughout the course, learners will engage in practical exercises that simulate real-world office tasks, ensuring they are well-prepared for the demands of modern workplaces. Upon completion, graduates will be equipped to pursue careers in administrative roles, with the opportunity to appear for government certification assessments, enabling them to work in both local and international office environments.
         </p>
         <p className="mt-4 font-bold md:text-xl text-md">Course Objective:</p>
         <p>
@@ -127,31 +91,11 @@ const ComputerOperationCourses = () => {
         </p>
         <p className="mt-4 font-bold md:text-xl text-md">Course Objective:</p>
         <p>
-          The course is designed to equip students with the creative and
-          technical skills needed to excel in the graphic design industry,
-          whether for personal projects or professional endeavors.
+        The primary objective of this course is to equip participants with comprehensive theoretical knowledge and practical skills in computer office applications, enabling them to perform various administrative tasks efficiently. By the end of the training, participants will be prepared to create professional documents, manage data effectively, design impactful presentations, and utilize internet tools for enhanced productivity. The course ensures graduates are ready to qualify for government certification and pursue rewarding careers in office administration, both locally and internationally.
         </p>
-        <p className="mt-4 font-bold md:text-xl text-md">Teaching Approach:</p>
+        <p className="mt-4 font-bold md:text-xl text-md">Training Approach:</p>
         <p>
-          1. Hands-on Learning <br />
-          •&nbsp;&nbsp;&nbsp;&nbsp;Software Demos
-          <br />
-          •&nbsp;&nbsp;&nbsp;&nbsp;Practical Exercises <br />
-          2. Project-Based Learning <br />
-          •&nbsp;&nbsp;&nbsp;&nbsp;Real-World Projects <br />
-          •&nbsp;&nbsp;&nbsp;&nbsp;Portfolio Development <br />
-          3. Collaborative Learning <br />
-          •&nbsp;&nbsp;&nbsp;&nbsp;Peer Review Sessions <br />
-          •&nbsp;&nbsp;&nbsp;&nbsp;Group Projects <br />
-          4. Interactive Lectures <br />
-          •&nbsp;&nbsp;&nbsp;&nbsp;Conceptual Understanding <br />
-          •&nbsp;&nbsp;&nbsp;&nbsp;Q&A Sessions <br />
-          5. Tutorials and Supplemental Resources <br />
-          •&nbsp;&nbsp;&nbsp;&nbsp;Video Tutorials <br />
-          •&nbsp;&nbsp;&nbsp;&nbsp;Reading Materials <br />
-          6. Assessment and Feedback <br />
-          •&nbsp;&nbsp;&nbsp;&nbsp;Continuous Assessment <br />
-          •&nbsp;&nbsp;&nbsp;&nbsp;Personalized Feedback <br />
+        The course adopts a classroom-based training approach, combining theoretical instruction with practical hands-on exercises to ensure comprehensive learning. Multiple formative assessments are conducted throughout the program to track progress and reinforce skills. 
         </p>
 
         <h2 className="mt-4 font-bold md:text-xl text-md">
@@ -159,14 +103,12 @@ const ComputerOperationCourses = () => {
         </h2>
 
         <p className="">
-          Youth, Age limit-18 Years to 40 , Man and Women, PWD , Trangender
+          Youth, Age limit-18 Years to 40 , Man and Women, PWD , Trangender.
         </p>
         <h2 className="mt-4 font-bold md:text-xl text-md">Certificate: </h2>
 
         <p className="">
-          Upon successful completion of the course, you will receive a
-          certificate from BRAC ISD, validating your expertise in Computer
-          Office Applications.
+        Participants will receive a completion certificate from BRAC ISD at the end of the course, validating their expertise in Computer Office Applications. Moreover, having the opportunities participants to appear the assessment for government certificate.
         </p>
         <div className="mt-4">
           <h1 className="font-bold md:text-xl text-md ">

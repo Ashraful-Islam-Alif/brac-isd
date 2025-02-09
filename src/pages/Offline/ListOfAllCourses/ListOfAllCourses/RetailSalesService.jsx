@@ -145,7 +145,7 @@ const RetailSalesService = () => {
             manpower for economic growth of the country
           </p>
           <p className="font-bold md:text-xl text-md mt-4">
-            Teaching Approach:
+            Training Approach:
           </p>
           <p>
             Demonstration: 80% <br />

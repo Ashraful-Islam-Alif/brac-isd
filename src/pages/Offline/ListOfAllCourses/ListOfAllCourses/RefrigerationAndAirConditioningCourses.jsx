@@ -65,92 +65,53 @@ const RefrigerationAndAirConditioningCourses = () => {
         <p className="">Saturday, Sunday, Monday, Tuesday, Wednesday, Thursday</p>
         <p className="mt-4 font-bold md:text-xl text-md">Course Contents:</p>
         <p className=" ">
-          Apply OSH Practices in the workplace, Interpret Technical Drawing, Use
-          Hand tools and Power Tools, Use measuring instruments, Basic
-          Electrical Works, Perform gas welding and brazing, Repair and maintain
-          compressor, Service and Repair Refrigerators and Deep Freezers,
-          Service window and split type air-conditioners. Service window and
-          split type air-conditioners. Central Air- Conditioning. Skills Covered
-          : NTVQF Level-1 to 2 BNQF Level-1 & 2.
+        •	Apply OSH Practices in the workplace <br />
+•	Interpret Technical Drawing <br />
+•	Use Hand tools and Power Tools <br />
+•	Use measuring instruments <br />
+•	Basic Electrical Works <br />
+•	Perform gas welding and brazing <br />
+•	Repair and maintain compressor <br />
+•	Service and Repair Refrigerators and Deep Freezers <br />
+•	Service window and split-type air-conditioners <br />
+•	Service window and split-type air-conditioners <br />
+•	Central Air- Conditioning. <br />
+
         </p>
         <p className="mt-4 font-bold md:text-xl text-md">Course Description:</p>
         <p>
-          Our course are Transport Equipment sector and Light engineering
-          sectror, This courses are accredetation from BTEB& NSDA. Maintain
-          competerncy Standard, Curriculum and Competency Based Learning
-          Materials
+        The Refrigeration and Air Conditioning course, designed in alignment with the standards set by the National Skills Development Authority (NSDA_ BNQF Level-1 & 2) Bangladesh, equips learners with essential technical skills, knowledge, and professional attitude required for excellence in refrigeration and air conditioning systems. This course focuses on the fundamental principles of refrigeration technology, safety protocols, and practical skills necessary for servicing and maintaining various cooling systems in residential and commercial settings.
         </p>
 
         <p className="mt-4 font-bold md:text-xl text-md">Course Overview:</p>
         <p>
-          1. Apply OSH Practices in the workplace (Follow Safety Sign and
-          Regulation, Personal Protective Equipment,First Aid on minor injuries,
-          Hazards Control Refrigeration and Air-Conditioning Hazards) <br />
-          2. Interpret Technical Drawing <br />
-          3. Use Hand tools and Power Tools <br />
-          4. Use measuring instruments (Calculate CFT of a refrigerator using
-          measuring tape ,outside and inside diameter of a tube using slide
-          calipers, AVO meter, clip-on meter, thermometer, pressure gauge){" "}
-          <br />
-          5. Basic Electrical Works (series circuit connection, parallel circuit
-          connection, test/series board, three-pin socket (with circuit breaker)
-          Calculate electrical power for refrigerator and ac's) <br />
-          6. Perform gas welding and brazing (tube cutting, tube bending,
-          flaring of a copper tube, swaging of a copper tube, operate gas
-          welding, tube joint using brazing, Disassemble a joint by de-brazing
-          procedure) <br />
-          7. Repair and maintain compressor (reciprocating
-          compressor,single-phase compressor, three-phase compressor using DOL
-          starter, Change of a sealed compressor, troubleshooting of a
-          compressor) <br />
-          8. Service and Repair Refrigerators and Deep Freezers ( parts or
-          accessories for RAC works, frost type refrigerators, connection of a
-          de-frost refrigerator, no-frost refrigerator, chest freez, display
-          refrigerator, vapor compression refrigeration cycle, Replace a
-          compressor, leak test of a compressor, Repair leak/s of a refrigerator
-          unit, Vacuum a refrigerator , Flush the mechanical cycle of a
-          refrigerator or freezer, refrigerant procedure of a refrigerator,
-          Dis-assemble a non-frost refrigerator Assemble a non-frost
-          refrigerator parts) <br />
-          9. Service window and split type air-conditioners. (window ac, Connect
-          electronic circuit of a window ac, leak test of a window ac, Flush the
-          mechanical cycle of a window ac, Vacuum a window ac unit Charge
-          refrigerant into the window ac., connecting electrical terminals of
-          split ac.) <br />
-          10. Service window and split type air-conditioners. (Install Windows
-          type AC Troubleshoot window type AC., connection of split type ac,
-          leak test., Vacuum split type ac., pump down of split type ac.) <br />
-          11. Central AC.
+        The Refrigeration and Air Conditioning course is a 3-month intensive training program designed for individuals with a minimum class 8 pass qualification, providing a comprehensive foundation in refrigeration and air conditioning practices. Conducted six days a week, with 4-hour daily sessions, the course combines theoretical knowledge with extensive hands-on practice to prepare participants for professional roles in the refrigeration and air conditioning sector. Key topics include applying Occupational Safety and Health (OSH) practices, interpreting technical drawings, and safely using hand and power tools. Participants will learn to use measuring instruments effectively while acquiring basic electrical skills relevant to refrigeration systems. The program covers essential training in gas welding and brazing techniques, repairing and maintaining compressors, servicing and repairing refrigerators and deep freezers, as well as servicing window and split-type air conditioners. Additionally, participants will gain skills in central air-conditioning systems. Upon completion, graduates will be well-equipped to pursue careers in refrigeration and air conditioning, with the opportunity to appear for government certification assessments, enabling them to work in both local and international markets.
         </p>
         <h2 className="mt-4 font-bold md:text-xl text-md">
           Course Objectives:
         </h2>
 
         <p className="">
-          Provide Skills Man power provide, Certification and Sustainable Job
-          Placement.
+        The primary objective of this course is to equip participants with comprehensive theoretical knowledge and practical skills in refrigeration and air conditioning systems, enabling them to perform professional service and maintenance tasks efficiently. By the end of the training, participants will be prepared to interpret technical drawings, execute repairs on various cooling systems, maintain compressors, and apply safety standards in their work. The course ensures graduates are ready to qualify for government certification and pursue rewarding careers in the refrigeration and air conditioning sector, both locally and internationally.
         </p>
         <h2 className="mt-4 font-bold md:text-xl text-md">
           Training Approach:
         </h2>
 
         <p className="">
-          Formal Training, Off line training . Workshop Base training ,
-          Thuritical and Practical Based Training.
+        The course adopts a classroom-based training approach, combining theoretical instruction with practical hands-on exercises to ensure comprehensive learning. Multiple formative assessments are conducted throughout the program to track progress and reinforce skills.
         </p>
         <h2 className="mt-4 font-bold md:text-xl text-md">
           For Whom This Course Is:
         </h2>
 
         <p className="">
-          Youth, Age limit-18 Years to 40 , Man and Women, PWD , Trangender.
+        Youth, Age limit-18-40 years, Men and Women, Persons with Disability, Transgender.
         </p>
         <h2 className="mt-4 font-bold md:text-xl text-md">Certificate: </h2>
 
         <p className="">
-          At the end of the course, participants will receive a certificate from
-          BRAC ISD, validating their expertise in Refrigeration and Air
-          Conditioning.
+        Participants will receive a completion certificate from BRAC ISD at the end of the course, validating their expertise in Refrigeration and Air Conditioning. Moreover, participants will have the opportunity to appear for the government certificate assessment.
         </p>
         <div className="mt-4">
           <h1 className="font-bold md:text-xl text-md ">
@@ -159,9 +120,6 @@ const RefrigerationAndAirConditioningCourses = () => {
           <div className="">
             <p className="underline">
               <Link to="/offline/centers/dhaka">BRAC ISD Dhaka Centre</Link>
-            </p>
-            <p className="underline">
-              <Link to="/offline/centers/rajshahi">BRAC ISD Rajshahi Centre</Link>
             </p>
           </div>
         </div>

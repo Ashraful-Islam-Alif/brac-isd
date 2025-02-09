@@ -99,7 +99,7 @@ const DigitalMarketingCourses = () => {
           </p>
           <p className="">Local and Global Market of Job.</p>
           <p className="font-bold md:text-xl text-md mt-4">
-            Teaching Approach:
+            Training Approach:
           </p>
           <p>BNQF, CBT&A Methode, Residencial.</p>
           <p className="font-bold md:text-xl text-md mt-4">
