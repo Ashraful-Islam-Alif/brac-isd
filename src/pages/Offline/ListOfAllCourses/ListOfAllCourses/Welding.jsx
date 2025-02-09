@@ -57,13 +57,15 @@ const Welding = () => {
             <span className="font-bold md:text-xl text-md mt-4">
               Class Duration:
             </span>{" "}
-            6 hours
+            5 hours
           </p>
           <p className="mt-4">
             <span className="font-bold md:text-xl text-md mt-4">
               Educational Qualification:
-            </span>{" "}
-            Minimum SSC
+            </span>{" "} <br />
+            •	Class eight or equivalent certificate, or <br />
+•	2-years occupation relevant work experience and pass in a challenge test on NSDA’s approved assessment.
+
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Schedule:</p>
           <p className="">
@@ -72,38 +74,47 @@ const Welding = () => {
           <p className="mt-4 font-bold md:text-xl text-md">Course Contents:</p>
           <p className="">
             <span>
-              BCA, OSH, First AID, Teem Work, Comunication in English, Hand and
-              Power Tools, Graduate Measurments, Interprate Technical Drawing,
-              Inspection and Test Welding, SMAW, FCAW, GTAW (Plate 1G to 4G, 1F
-              To 4F and Pipe 1G To 6G.)
+            •	Use Hand and Power Tools <br />
+•	Use Measuring Instruments <br />
+•	Perform Oxy-acetylene Cutting <br />
+•	Perform Gas Welding and Brazing<br />
+•	Perform Weld Beads and Padding using SMAW <br />
+•	Perform Shielded Metal Arc Welding (SMAW)– 1F and 2F Positions <br />
+•	Perform Shielded Metal Arc Welding (SMAW)– 1G and 2G Positions <br />
+
             </span>
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">
             Course Description:{" "}
           </p>
           <p className="">
-            Use basic mathematical Formula, Identify OHS policies and
-            Procedures, Perform Conversation in English with Others, Interprate
-            WPS and store Manuals, Arc Welding plate 1G to 4G, 1F to 4F, Pipe 1G
-            to 6G, MIG Welding 1G and 2G,TIG Welding 1G to 2G, Spot Welding,
-            Wire Mash, Gas Welding 1G and 2G And Cutting, Plasma Cutting.
+          The Welding course, designed in alignment with the standards set by the National Skills Development Authority (NSDA_ BNQF Level-1) Bangladesh, provides learners with comprehensive technical skills, knowledge, and professional attitude required for excellence in welding operations. This course focuses on various welding techniques, safety protocols, and practical skills for performing quality welding work in industrial, manufacturing, and construction settings.
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Course Overview: </p>
           <p className=""></p>
-          Local And Global Market. All Kinds Of Welding Works, Shipbuilding
-          Works, Repair And Maintenance Works, Constructional Welding Works.
+          The Welding course is a 3-month intensive training program designed for individuals with a minimum Class eight or equivalent certificate qualification, offering a strong foundation in welding techniques and operations. Conducted six days a week, with 5-hour daily sessions, the course combines theoretical knowledge with extensive hands-on practice to prepare participants for professional welding roles. Key topics include Occupational Safety and Health practices, basic mathematical computations, and housekeeping procedures. Participants will master technical drawing interpretation, proper use of hand and power tools, and measuring instruments. The program provides comprehensive training in various welding techniques including Oxy-acetylene cutting, Gas welding and brazing, and Shielded Metal Arc Welding (SMAW) in multiple positions (1F, 2F, 1G, and 2G). Upon completion, graduates will be well-equipped to pursue careers in welding, with the opportunity to appear for government certification assessments, enabling them to work in both local and international industrial sectors. 
           <p className=" font-bold md:text-xl text-md mt-4">
             Course Objectives:
           </p>
-          <p className="">Local and Global Market of Welding Job.</p>
+          <p className="">
+          The primary objective of this course is to equip participants with comprehensive theoretical knowledge and practical skills in welding, enabling them to perform professional welding operations across various positions and techniques. By the end of the training, participants will be prepared to interpret technical drawings, operate welding equipment safely, perform different types of welds, and execute quality welding work according to industry standards. The course ensures graduates are ready to qualify for government certification and pursue rewarding careers in the manufacturing, construction, and industrial sectors, both locally and internationally.
+          </p>
           <p className="font-bold md:text-xl text-md mt-4">
             Training Approach:
           </p>
-          <p>BNQF, CBT&A Methode, Residencial, 6 working days in a week.</p>
+          <p>
+          The course adopts a classroom-based training approach, combining theoretical instruction with practical hands-on exercises to ensure comprehensive learning. Multiple formative assessments are conducted throughout the program to track progress and reinforce skills. 
+          </p>
           <p className="font-bold md:text-xl text-md mt-4">
             For Whom This Course Is:
           </p>
           <p>18 Years To 40 Years age.</p>
+          <p className="font-bold md:text-xl text-md mt-4">
+          Certification:
+          </p>
+          <p>
+          Participants will receive a completion certificate from BRAC ISD, validating their expertise in welding. Additionally, graduates will have the opportunity to appear for government certification exams, further enhancing their qualifications and career prospects.
+          </p>
         </div>
         <div className="mt-4">
           <h1 className="font-bold md:text-xl text-md ">

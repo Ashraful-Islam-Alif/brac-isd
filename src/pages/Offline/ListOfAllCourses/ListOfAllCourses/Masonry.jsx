@@ -56,13 +56,16 @@ const DigitalMarketingCourses = () => {
             <span className="font-bold md:text-xl text-md mt-4">
               Class Duration:
             </span>{" "}
-            7 hours
+            5 hours
           </p>
           <p className="mt-4">
             <span className="font-bold md:text-xl text-md mt-4">
               Educational Qualification:
-            </span>{" "}
-            Minimum SSC
+            </span>{" "} <br />
+            •	Class VIII Pass or evidence of equivalent achievement or  <br />
+•	Pass in a challenge test on language, literacy and numeracy skills considered necessary for successful completion of the qualification (Model challenge test to be developed based on units of competencies to be achieved) or <br />
+•	2-years trade relevant work experience and pass in a challenge test on vocational skills considered necessary for successful completion of the qualification (Model challenge test to be developed).  <br />
+
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Schedule:</p>
           <p className="">
@@ -71,41 +74,39 @@ const DigitalMarketingCourses = () => {
           <p className="mt-4 font-bold md:text-xl text-md">Course Contents:</p>
           <p className="">
             <span>
-              OHS in Workplace, First Aid, Communication in English in the work
-              Environment, Perform Basic Mathics, Translate Drawing, Plan and
-              Speceification, Use Hand and Power Tools, Break and Block preper
-              location to fix ,build a concreat , Finish brick or block laying
-              work and curing ,mix plaster materils ,apply plaster to corner ,
-              apply plaster on plain surface
+            •	Use Tools for Masonry Works  <br />
+•	Perform Fundamental Works of Masonry <br />
+•	Construct Brick Wall and Foundation. <br />
+•	Perform Brick Soling <br />
+•	Perform Plaster Works on Masonry Surface <br />
+
             </span>
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">
             Course Description:{" "}
           </p>
           <p className="">
-            Identify OHS policies and Procedures, Perform Conversation in
-            English with Others, Use basic mathematical Formula, design and
-            plans, Operate Hand And Power Tools, Break and Block preper location
-            to fix ,build a concreat , Finish brick or block laying work and
-            curing ,mix plaster materils ,apply plaster to corner , apply
-            plaster on plain surface
+          The Masonry course, designed in alignment with the standards set by the National Skills Development Authority (NSDA_BNQF Level- 2) Bangladesh, prepares learners with essential technical skills, knowledge, and professional attitude required for excellence in construction and masonry work. This course emphasizes fundamental masonry techniques, workplace safety, team collaboration, and practical skills for constructing and finishing various masonry structures in residential and commercial settings.
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Course Overview: </p>
           <p className=""></p>
-          Local And Global Market. All Kinds Of Plaster And Brick or block
-          Fittings Works, Repair And Maintenance Works, Constructional Works.
+          The Masonry course is a 3-month intensive training program designed for individuals with a class VIII Pass or evidence of equivalent achievement, offering comprehensive training in masonry and construction fundamentals. Conducted six days a week, with 5-hour daily sessions, the course blends theoretical knowledge with extensive hands-on practice to prepare participants for professional masonry work. Key topics include Occupational Safety and Health Procedures, Workplace Communications, and Team Environment practices. Participants will gain expertise in interpreting construction drawings, using masonry tools, performing fundamental masonry works, and mastering specialized skills such as brick wall construction, foundation work, brick soling, and plastering techniques. Upon completion, graduates will be well-equipped to pursue careers in the construction industry, with the opportunity to appear for government certification assessments, enabling them to work in both local and international construction sectors.
           <p className=" font-bold md:text-xl text-md mt-4">
             Course Objectives:
           </p>
-          <p className="">Local and Global Market of Job.</p>
+          <p className="">
+          The primary objective of this course is to equip participants with comprehensive theoretical knowledge and practical skills in masonry work, enabling them to perform professional construction tasks, implement safety protocols, and execute quality masonry projects. By the end of the training, participants will be prepared to work effectively in construction teams, interpret technical drawings, construct various masonry structures, and apply finishing techniques to meet industry standards. The course ensures graduates are ready to qualify for government certification and pursue rewarding careers in the growing construction sector, both locally and internationally.
+          </p>
           <p className="font-bold md:text-xl text-md mt-4">
             Training Approach:
           </p>
-          <p>BNQF, CBT&A Methode, Residencial.</p>
+          <p>
+          The course adopts a classroom-based training approach, combining theoretical instruction with practical hands-on exercises to ensure comprehensive learning. Multiple formative assessments are conducted throughout the program to track progress and reinforce skills. 
+          </p>
           <p className="font-bold md:text-xl text-md mt-4">
             For Whom This Course Is:
           </p>
-          <p>18 Years To 40 Years age</p>
+          <p>Youth, Age limit-18-40 years, Men and Women, Transgender.</p>
         </div>
         <div className="mt-4">
           <h1 className="font-bold md:text-xl text-md ">

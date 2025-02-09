@@ -51,13 +51,16 @@ const RodBinding = () => {
             <span className="font-bold md:text-xl text-md mt-4">
               Class Duration:
             </span>{" "}
-            4 Hours
+            5 Hours
           </p>
           <p className="mt-4">
             <span className="font-bold md:text-xl text-md mt-4">
               Educational Qualification:
-            </span>{" "}
-            Minimum Class 8 Pass
+            </span>{" "} <br />
+            •	Class VIII Pass or evidence of equivalent achievement or <br />
+•	Pass in a challenge test on language, literacy and numeracy skills considered necessary for successful completion of the qualification (Model challenge test to be developed based on units of competencies to be achieved) or <br />
+•	2-year trade relevant work experience and pass in a challenge test on vocational skills considered necessary for successful completion of the qualification (Model challenge test to be developed).  <br />
+
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Schedule:</p>
           <p className="">
@@ -66,20 +69,12 @@ const RodBinding = () => {
           <p className="mt-4 font-bold md:text-xl text-md">Course Contents:</p>
           <p className="">
             <span>
-              1.Interpret Drawings and Specifications in Construction Manuals{" "}
-              <br />
-              2.Perform Fundamental Works of Rod Bindings
-              <br />
-              3.Use Tools for Rod Binding Works
-              <br />
-              4.Prepare Rod for works
-              <br />
-              5.Prepare Stirrups and Ties
-              <br />
-              6. Perform Rod Binding for Base/ Footing
-              <br />
-              7. Perform Rod Binding for Column
-              <br />
+            •	Perform Fundamental Works of Rod Binding <br />
+•	Use Tools for Rod Binding Works <br />
+•	Prepare Rod for Work <br />
+•	Prepare Stirrups and Ties <br />
+•	Perform Rod Binding for Base/ Footing <br />
+•	Perform Rod Binding for Column <br />
             </span>
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">
@@ -87,36 +82,37 @@ const RodBinding = () => {
           </p>
           <p className="">
             <span>
-              Rod Binding course typically focus on providing skills training in
-              the construction industry, specifically in reinforcing concrete
-              structures. This course helps to create skilled workforce to serve
-              the growing construction industry.
+            The Rod Binding course, designed in alignment with the standards set by the National Skills Development Authority (NSDA_ BNQF Level- 2) Bangladesh, equips learners with essential technical skills, knowledge, and professional attitude required for excellence in reinforcement steel work. This course focuses on fundamental rod binding techniques, safety protocols, and practical skills for preparing and installing reinforcement structures in various construction projects, ensuring structural integrity and durability. 
             </span>
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Course Overview: </p>
           <p className=""></p>
           <span>
-            Rod Binding is a 360 hours course under NSDA which is designed to
-            create skilled resources with practical facilities to entertain the
-            construction sector's demand. Moreover, this course will help to get
-            government certification for employment in country and abroad.
+          The Rod Binding course is a 3-month intensive training program designed for individuals with a Class VIII Pass or evidence of equivalent achievement, providing a strong foundation in reinforcement steel work. Conducted six days a week, with 5-hour daily sessions, the course combines theoretical knowledge with extensive hands-on practice to prepare participants for professional rod binding work. Key topics include Occupational Safety and Health Procedures, Team Environment practices, and Workplace Communications. Participants will master the interpretation of construction drawings, fundamental rod binding techniques, and proper use of specialized tools. The program provides comprehensive training in rod preparation, creating stirrups and ties, and performing rod binding for critical structural elements such as bases, footings, and columns. Upon completion, graduates will be well-equipped to pursue careers in construction, with the opportunity to appear for government certification assessments, enabling them to work in both local and international construction sectors.
           </span>
           <p className=" font-bold md:text-xl text-md mt-4">
             Course Objectives:
           </p>
           <p className="">
-            Provide Skills training to create skilled resources with government
-            certification for Sustainable Job Placement.
+          The primary objective of this course is to equip participants with comprehensive theoretical knowledge and practical skills in rod binding, enabling them to perform professional reinforcement work for various structural elements in construction projects. By the end of the training, participants will be prepared to interpret technical drawings, prepare and handle reinforcement materials, and execute quality rod binding work according to industry specifications. The course ensures graduates are ready to qualify for government certification and pursue rewarding careers in the construction sector, both locally and internationally.
           </p>
           <p className="font-bold md:text-xl text-md mt-4">
             Training Approach:
           </p>
-          <p>Class room based Training with Theoretical and Practical.</p>
+          <p>
+          The course adopts a classroom-based training approach, combining theoretical instruction with practical hands-on exercises to ensure comprehensive learning. Multiple formative assessments are conducted throughout the program to track progress and reinforce skills. 
+          </p>
           <p className="font-bold md:text-xl text-md mt-4">
             For Whom This Course Is:
           </p>
           <p>
             Youth, Age limit-18 Years to 40 , Man and Women, PWD , Trangender.
+          </p>
+          <p className="font-bold md:text-xl text-md mt-4">
+          Certification:
+          </p>
+          <p>
+          Participants will receive a completion certificate from BRAC ISD at the end of the course, validating their expertise in Rod Binding. Moreover, having the opportunities participants to appear the assessment for government certificate.
           </p>
         </div>
         <div className="mt-4">

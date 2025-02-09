@@ -61,12 +61,22 @@ const ListOfCourses = () => {
         </div>
         <div className="my-8 text-lg font-semibold underline">
           <Link to="/offline/courses/sewing-machine">
-            Sewing Machine Operation
+            Knit Sewing Machine Operation
+          </Link>
+        </div>
+        <div className="my-8 text-lg font-semibold underline">
+          <Link to="/offline/courses/woven_sewing-machine">
+            Woven Sewing Machine Operation
+          </Link>
+        </div>
+        <div className="my-8 text-lg font-semibold underline">
+          <Link to="/offline/courses/plumbing">
+            Plumbing
           </Link>
         </div>
         <div className="my-8 text-lg font-semibold underline">
           <Link to="/offline/courses/plumbing-pipe-fitting">
-            Plumbing & Pipe Fitting
+            Pipe Fitting
           </Link>
         </div>
         <div className="my-8 text-lg font-semibold underline">

@@ -56,12 +56,12 @@ const SewingMachine = () => {
             <span className="font-bold mt-4 md:text-xl text-md">
               Class Duration:
             </span>{" "}
-            % hours
+            5 hours
           </p>
           <p className="mt-4">
             <span className="font-bold mt-4 md:text-xl text-md">
               Educational Qualification:
-            </span>{" "}
+            </span>{" "} <br />
             •	Class five Pass or evidence of equivalent achievement or <br />
 •	Pass in a challenge test on language, literacy and numeracy skills considered necessary for successful completion of the qualification (Model challenge test to be developed based on units of competencies to be achieved) or <br />
 •	6 months trade relevant work experience and pass in a challenge test on vocational skills considered necessary for successful completion of the qualification (Model challenge test to be developed). <br />

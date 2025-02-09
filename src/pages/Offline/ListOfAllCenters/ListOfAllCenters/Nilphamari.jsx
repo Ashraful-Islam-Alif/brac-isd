@@ -69,7 +69,7 @@ const Nilphamari = () => {
             class="my-8 text-lg font-semibold underline flex items-center"
             to="/offline/courses/plumbing-pipe-fitting"
           >
-            <h2>Plumbing & Pipe Fitting</h2>
+            <h2>Pipe Fitting</h2>
             <img className="h-[20px] " src={arrowIcon}></img>
           </Link>
           <Link

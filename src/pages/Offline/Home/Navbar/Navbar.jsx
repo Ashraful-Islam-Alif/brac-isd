@@ -119,12 +119,22 @@ const Navbar = () => {
         </li>
         <li>
           <Link to="/offline/courses/sewing-machine">
-            Sewing Machine Operation
+            Knit Sewing Machine Operation
+          </Link>
+        </li>
+        <li>
+          <Link to="/offline/courses/woven_sewing-machine">
+            Woven Sewing Machine Operation
+          </Link>
+        </li>
+        <li>
+          <Link to="/offline/courses/plumbing">
+            Plumbing
           </Link>
         </li>
         <li>
           <Link to="/offline/courses/plumbing-pipe-fitting">
-            Plumbing & Pipe Fitting
+            Pipe Fitting
           </Link>
         </li>
         <li>

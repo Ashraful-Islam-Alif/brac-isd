@@ -19,7 +19,7 @@ const PlumbingPipeFitting = () => {
         <div className="hero-content text-center text-white">
           <div className="max-w-xl md:max-w-2xl lg:max-w-2xl">
             <h2 className="text-xl md:text-3xl lg:text-5xl font-bold">
-              Plumbing & Pipe Fitting
+              Pipe Fitting
             </h2>
             <hr className="mx-4 md:mx-8 lg:mx-16 mt-4 border-t-8 font-bold border-[#FFA100]"></hr>
           </div>
@@ -30,7 +30,7 @@ const PlumbingPipeFitting = () => {
         <div className="flex justify-between" >
           <div style={{ whiteSpace: "wrap" }}>
             <h2 className="font-bold md:text-2xl text-lg ">
-              Plumbing & Pipe Fitting
+              Pipe Fitting
             </h2>
           </div>
           <div>
@@ -56,13 +56,15 @@ const PlumbingPipeFitting = () => {
             <span className="font-bold mt-4 md:text-xl text-md">
               Class Duration:
             </span>{" "}
-            7 Hours
+            5 hours
           </p>
           <p className="mt-4">
             <span className="font-bold mt-4 md:text-xl text-md">
               Educational Qualification:
-            </span>{" "}
-            Minimum SSC
+            </span>{" "} <br />
+            •	Class eight or equivalent certificate or <br />
+•	2-years occupation relevant work experience and pass in a challenge test on NSDA’s approved assessment. <br />
+
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Schedule:</p>
           <p className="">
@@ -71,39 +73,42 @@ const PlumbingPipeFitting = () => {
           <p className="mt-4 font-bold md:text-xl text-md">Course Contents:</p>
           <p className="">
             <span>
-              OHS in Workplace, First Aid, Communication in English in the work
-              Environment, Perform Basic Mathics, Translate Drawing, Plan and
-              Speceification, Use Hand and Power Tools, Pipe Cutting And
-              Threading, Water Supply Line Installation Using G.I,PPR,PVC & uPVC
-              Pipe, Sewer Pipe Line Installation, Plumbing Fixtures
-              Installation, Pressure Testing of Piping System.
+            •	Prepare Pipes for Fitting <br />
+•	Perform Tack Welding and Gas Cutting <br />
+•	Install Piping System on Ground Surface <br />
+•	Install Overhead Piping System <br />
+•	Install Underground Piping System <br />
+
             </span>
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">
             Course Description:{" "}
           </p>
           <p className="">
-            Identify OHS policies and Procedures, Perform Conversation in
-            English with Others, Use basic mathematical Formula, design and
-            plans, Operate Hand And Power Tools, Prepare Hand Tools, Equipment
-            and Materials, Perform Pipe Cutting & Threading Operation, Water
-            Supply Line Installation Using G.I,PPR,PVC & uPVC Pipe, Sewer Pipe
-            Line Installation, Plumbing Fixtures Installation, Pressure Testing
-            of Piping System.
+          The Pipe Fitting course, designed in alignment with the standards set by the National Skills Development Authority (NSDA_BNQF Level- 2) Bangladesh, equips learners with comprehensive technical skills, knowledge, and professional attitude required for excellence in pipe installation and fitting work. This course focuses on essential piping system installations, safety protocols, and practical skills for ground surface, overhead, and underground piping systems in residential, commercial, and industrial settings. 
           </p>
 
           <p className="font-bold mt-4 md:text-xl text-md">Course Overview:</p>
           <p className="">
-            Local and Global Market of Plumbing And Pipe Fittings Job.
+          The Pipe Fitting course is a 3-month intensive training program designed for individuals with a class eight or equivalent certificate, providing a strong foundation in pipe fitting and installation techniques. Conducted six days a week, with 5-hour daily sessions, the course combines theoretical understanding with hands-on practical training to prepare participants for professional pipe fitting roles. Key topics include Occupational Safety and Health Procedures, Workplace Communication in English, and Team Environment practices. Participants will develop expertise in interpreting technical drawings, performing measurements and calculations, pipe preparation, tack welding, and gas cutting. The program covers comprehensive training in installing piping systems across various environments - ground surface, overhead, and underground installations. Upon completion, graduates will be well-prepared to pursue careers in pipe fitting, with the opportunity to appear for government certification assessments, enabling them to work in both local and international markets.
+          </p>
+          <p className="font-bold mt-4 md:text-xl text-md">Course Objectives:</p>
+          <p className="">
+          The primary objective of this course is to equip participants with comprehensive theoretical knowledge and practical skills in pipe fitting, enabling them to perform professional pipe installation, implement safety protocols, and execute quality piping projects across different environments. By the end of the training, participants will be prepared to interpret technical drawings, perform accurate measurements, handle specialized tools and equipment, and install various piping systems according to industry standards. The course ensures graduates are ready to qualify for government certification and pursue rewarding careers in the industrial and construction sectors, both locally and internationally.
           </p>
           <p className="font-bold mt-4 md:text-xl text-md">
             Training Approach:
           </p>
-          <p>BNQF, CBT&A Methode, Residencial.</p>
+          <p>
+          The course adopts a classroom-based training approach, combining theoretical instruction with practical hands-on exercises to ensure comprehensive learning. Multiple formative assessments are conducted throughout the program to track progress and reinforce skills. 
+          </p>
+          <p className="font-bold mt-4 md:text-xl text-md">For Whom This Course Is:</p>
+          <p>
+          Youth, Age limit-18-40 years, Men and Women, Transgender.
+          </p>
           <p className="font-bold mt-4 md:text-xl text-md">Certification:</p>
           <p>
-            Participants will receive a well-recognised certificate from BRAC
-            ISD, acknowledging their successful completion.
+          Participants will receive a completion certificate from BRAC ISD at the end of the course, validating their expertise in Pipe Fitting. Moreover, having the opportunities participants to appear the assessment for government certificate.
           </p>
         </div>
         <div className="mt-4">

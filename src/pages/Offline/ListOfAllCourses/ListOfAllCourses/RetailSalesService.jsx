@@ -16,7 +16,7 @@ const RetailSalesService = () => {
         <div className="hero-content text-center text-white">
           <div className="max-w-xl md:max-w-2xl lg:max-w-2xl">
             <h2 className="text-xl md:text-3xl lg:text-5xl font-bold">
-              Retail Sales Service
+            Retail Sales Service/Operations
             </h2>
             <hr className="mx-4 md:mx-8 lg:mx-16 mt-4 border-t-8 font-bold border-[#FFA100]" />
           </div>
@@ -32,7 +32,7 @@ const RetailSalesService = () => {
           >
             <div style={{ whiteSpace: "wrap" }}>
               <h2 className="font-bold md:text-2xl text-lg ">
-                Retail Sales Service
+              Retail Sales Service/Operations
               </h2>
             </div>
             <div>
@@ -50,19 +50,19 @@ const RetailSalesService = () => {
             <span className="font-bold md:text-xl text-md ">
               Training Duration:
             </span>{" "}
-            5 Month (520 Hours)
+            5 Month
           </p>
           <p className="mt-4">
             <span className="font-bold md:text-xl text-md mt-4">
               Class Duration:
             </span>{" "}
-            4 Hours
+            2.30 hours
           </p>
           <p className="mt-4">
             <span className="font-bold md:text-xl text-md mt-4">
               Educational Qualification:
-            </span>{" "}
-            Minimum SSC
+            </span>{" "} <br />
+            Minimum SSC (Secondary School Certificate) or equivalent certificate
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Schedule:</p>
           <p className="">
@@ -72,17 +72,13 @@ const RetailSalesService = () => {
           <p className="mt-4 font-bold md:text-xl text-md">Course Contents:</p>
           <p className="">
             <span>
-              1.Practice Occupational Safety and Health <br />
-              2.Work in Team Environment <br />
-              3.Perform Effective Workplace Interaction <br />
-              4. Prepare Labels and Price Tag for Display <br />
-              5.Display Products for Mercndaizing <br />
-              6.Perform Sales and Services <br />
-              7.Perform Payment Transactions <br />
-              8.Prepare Mercendise for Delivery <br />
-              9.Maintain Relationship with Customer <br />
-              10.Operate Machine and Software for Customer Services <br />
-              11.Practice 5S in Workplace
+            •	Interpret sales operations in retail business <br />
+•	Operate machinery and software <br />
+•	Identify and perform store room activities <br />
+•	Perform Visual merchandising <br />
+•	Carryout sales operations <br />
+•	Perform payment and transaction activities <br />
+
             </span>
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">
@@ -90,74 +86,36 @@ const RetailSalesService = () => {
           </p>
           <p className="">
             <span>
-              1.Practice Occupational Safety and Health <br />
-              2.Work in Team Environment <br />
-              3.Perform Effective Workplace Interaction <br />
-              4. Prepare Labels and Price Tag for Display <br />
-              5.Display Products for Mercndaizing <br />
-              6.Perform Sales and Services <br />
-              7.Perform Payment Transactions <br />
-              8.Prepare Mercendise for Delivery <br />
-              9.Maintain Relationship with Customer <br />
-              10.Operate Machine and Software for Customer Services <br />
-              11.Practice 5S in Workplace
+            The Retail Sales Operations course, designed in alignment with the standards set by the National Skills Development Authority (NSDA_ BNQF Level-3) Bangladesh, equips learners with essential retail skills, knowledge, and professional attitude required for excellence in retail business operations. This course focuses on sales techniques, customer service, merchandising, and practical skills for managing retail operations in various commercial settings.
             </span>
           </p>
           <p className="mt-4 font-bold md:text-xl text-md">Course Overview: </p>
           <p className=""></p>
           <span>
-            Level-3 Retail Sales Serviceis is designed to build on fundamental
-            retail skills and offer advanced training for those looking to excel
-            in retail sales and customer service. <br />
-            1.Advanced Customer Service Skills <br />
-            2.Understanding Customer Needs <br />
-            3.Building Rapport <br />
-            4.Handling Complaints <br />
-            5. Product Knowledge and Sales Techniques <br />
-            6.In-Depth Product Knowledge <br />
-            7.Cross-Selling and Upselling <br />
-            8.Sales Techniques
-            <br />
-            9.Visual Merchandising <br />
-            10.Retail Operations and Management <br />
-            11.Store Operations <br />
-            12.Staff Management <br />
-            13.Health and Safety <br />
-            14.Marketing and Promotions <br />
-            15. Technology and Digital Retail including POS System
-            <br />
-            16.Customer Experience and Feedback <br />
-            17.Review and Practical Application <br />
-            18.Assessment and Certification
+          The Retail Sales Operations course is a 5-month intensive training program designed for individuals with a minimum SSC qualification, providing a strong foundation in retail business operations. Conducted six days a week, with 2.30-hour daily sessions, the course combines theoretical knowledge with hands-on practical training to prepare participants for professional retail roles. Key topics include Occupational Safety and Health Procedures, Team Environment practices, and housekeeping procedures. Participants will develop expertise in client relations, sales operations interpretation, and machinery and software operation. The program covers comprehensive training in store room management, visual merchandising techniques, sales operations, and payment transaction procedures. Upon completion, graduates will be well-equipped to pursue careers in retail operations, with the opportunity to appear for government certification assessments, enabling them to work in both local and international retail sectors.
           </span>
           <p className=" font-bold md:text-xl text-md mt-4">
             Course Objectives:
           </p>
           <p className="">
-            The objectives of the course are as follows: <br />• to create a
-            host of skilled professionals to meet domestic demand and export
-            abroad. <br />• to create opportunities for the employers of the
-            country to choose appropriate trained manpower for employment in
-            their respective industries. <br />• to help to alleviate poverty
-            and to get rid of unemployment crisis of the country. <br />• to
-            help elevate standard of services of hospitality industry of the
-            country. <br />• to earn foreign currency by exporting trained
-            manpower for economic growth of the country
+          The primary objective of this course is to equip participants with comprehensive theoretical knowledge and practical skills in retail sales operations, enabling them to perform professional retail functions and deliver excellent customer service. By the end of the training, participants will be prepared to manage store operations, handle visual merchandising, conduct sales activities, and process transactions according to industry standards. The course ensures graduates are ready to qualify for government certification and pursue rewarding careers in the retail sector, both locally and internationally.
           </p>
           <p className="font-bold md:text-xl text-md mt-4">
             Training Approach:
           </p>
           <p>
-            Demonstration: 80% <br />
-            Theoritical: 20% <br />
-            Oral Formative Assessment: 4
-            <br />
-            Summetive Assessment: 1
+          The course adopts a classroom-based training approach, combining theoretical instruction with practical hands-on exercises to ensure comprehensive learning. Multiple formative assessments are conducted throughout the program to track progress and reinforce skills 
           </p>
           <p className="font-bold md:text-xl text-md mt-4">
             For Whom This Course Is:
           </p>
           <p>18 Years To 30 Years age.</p>
+          <p className="font-bold md:text-xl text-md mt-4">
+          Certification:
+          </p>
+          <p>
+          Participants will receive a completion certificate from BRAC ISD at the end of the course, validating their expertise in Retail Sales Operations. Moreover, having the opportunities participants to appear the assessment for government certificate.
+          </p>
         </div>
         <div className="mt-4">
           <h1 className="font-bold md:text-xl text-md ">
