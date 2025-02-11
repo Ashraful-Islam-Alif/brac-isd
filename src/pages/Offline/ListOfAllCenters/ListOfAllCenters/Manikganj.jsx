@@ -51,7 +51,7 @@ const Manikganj = () => {
             class="my-8 text-lg font-semibold underline flex items-center"
             to="/offline/courses/sewing-machine"
           >
-            <h2>Sewing Machine Operation</h2>
+            <h2>Knit Sewing Machine Operation</h2>
             <img className="h-[20px] " src={arrowIcon}></img>
           </Link>
           <Link
@@ -73,6 +73,13 @@ const Manikganj = () => {
             to="/offline/courses/plumbing-pipe-fitting"
           >
             <h2>Pipe Fitting</h2>
+            <img className="h-[20px] " src={arrowIcon}></img>
+          </Link>
+          <Link
+            class="my-8 text-lg font-semibold underline flex items-center"
+            to="/offline/courses/plumbing"
+          >
+            <h2>Plumbing</h2>
             <img className="h-[20px] " src={arrowIcon}></img>
           </Link>
           <Link

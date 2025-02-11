@@ -73,6 +73,13 @@ const Nilphamari = () => {
             <img className="h-[20px] " src={arrowIcon}></img>
           </Link>
           <Link
+          class="my-8 text-lg font-semibold underline flex items-center"
+          to="/offline/courses/plumbing"
+          >
+          <h2>Plumbing</h2>
+          <img className="h-[20px] " src={arrowIcon}></img>
+          </Link>
+          <Link
             class="my-8 text-lg font-semibold underline flex items-center"
             to="/offline/courses/tiles-marbel-work"
           >

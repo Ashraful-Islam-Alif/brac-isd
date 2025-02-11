@@ -183,6 +183,18 @@ const ListOfCenters = () => {
             </h2>
           </a>
         </div>
+        <div>
+          <a href="/offline/centers/mirsharai">
+            <img
+              src="https://i.ibb.co.com/VY8tKwwv/Mirsarai-Chattogram.jpg"
+              alt=""
+              style={{ width: "400px", height: "220px" }}
+            ></img>
+            <h2 className="text-center underline font-bold text-[#FFA100] text-xl">
+              <Link to="/offline/courses/mirsharai">BRAC ISD Mirsharai</Link>
+            </h2>
+          </a>
+        </div>
       </div>
     </div>
   );

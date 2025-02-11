@@ -39,6 +39,7 @@ import RetailSalesService from "../pages/Offline/ListOfAllCourses/ListOfAllCours
 import RodBinding from "../pages/Offline/ListOfAllCourses/ListOfAllCourses/RodBinding";
 import Plumbing from "../pages/Offline/ListOfAllCourses/ListOfAllCourses/Plumbing";
 import WovenSewingMachineOperation from "../pages/Offline/ListOfAllCourses/ListOfAllCourses/WovenSewingMachineOperation";
+import Mirsharai from "../pages/Offline/ListOfAllCenters/ListOfAllCenters/Mirsharai";
 
 export const router = createBrowserRouter([
   {
@@ -202,6 +203,10 @@ export const router = createBrowserRouter([
       {
         path: "offline/courses/woven_sewing-machine",
         element: <WovenSewingMachineOperation></WovenSewingMachineOperation>,
+      },
+      {
+        path: "offline/courses/mirsharai",
+        element: <Mirsharai></Mirsharai>,
       },
     ],
   },

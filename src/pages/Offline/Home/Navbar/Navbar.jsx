@@ -39,6 +39,11 @@ const Navbar = () => {
           </Link>
         </li>
         <li>
+          <Link to="/offline/courses/mirsharai">
+            BRAC ISD Mirsharai (Chattogram)
+          </Link>
+        </li>
+        <li>
           <Link to="/offline/centers/narayanganjnKanchan">
             BRAC ISD Narayanganj{" "}
           </Link>
