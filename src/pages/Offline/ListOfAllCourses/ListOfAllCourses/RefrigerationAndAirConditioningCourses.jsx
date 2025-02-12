@@ -121,6 +121,9 @@ const RefrigerationAndAirConditioningCourses = () => {
             <p className="underline">
               <Link to="/offline/centers/dhaka">BRAC ISD Dhaka Centre</Link>
             </p>
+            <p className="underline">
+              <Link to="/offline/centers/rajshahi">BRAC ISD Rajshahi Centre</Link>
+            </p>
           </div>
         </div>
       </div>

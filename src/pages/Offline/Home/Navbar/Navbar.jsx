@@ -142,11 +142,11 @@ const Navbar = () => {
             Pipe Fitting
           </Link>
         </li>
-        <li>
+        {/* <li>
           <Link to="/offline/courses/steel-bindings-fabrication">
             Steel Bindings & Fabrication
           </Link>
-        </li>
+        </li> */}
         <li>
           <Link to="/offline/courses/tiles-marbel-work">
             Tiles & Marbel Work

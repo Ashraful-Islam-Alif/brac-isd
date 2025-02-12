@@ -125,14 +125,6 @@ const RodBinding = () => {
                 BRAC ISD Narayanganj Centre
               </Link>
             </p>
-            <p className="underline">
-              <Link to="/offline/centers/manikganj">BRAC ISD Manikganj Centre</Link>
-            </p>
-            <p className="underline">
-              <Link to="/offline/centers/nilphamari">
-                BRAC ISD Nilphamari Centre
-              </Link>
-            </p>
           </div>
         </div>
       </div>

@@ -113,11 +113,36 @@ const GraphicsDesignCourses = () => {
               <Link to="/offline/centers/dhaka">BRAC ISD Dhaka Centre</Link>
             </p>
             <p className="underline">
+              <Link to="/offline/centers/rangpur">BRAC ISD Rangpur Centre</Link>
+            </p>
+            <p className="underline">
+              <Link to="/offline/centers/rajshahi">BRAC ISD Rajshahi Centre</Link>
+            </p>
+            <p className="underline">
+              <Link to="/offline/centers/cumilla">BRAC ISD Cumilla Centre</Link>
+            </p>
+            <p className="underline">
+              <Link to="/offline/centers/chattogram">BRAC ISD Chattogram Centre</Link>
+            </p>
+            <p className="underline">
               <Link to="/offline/centers/sylhet">BRAC ISD Sylhet Centre</Link>
             </p>
             <p className="underline">
               <Link to="/offline/centers/mymensingh">
                 BRAC ISD Mymensingh Centre
+              </Link>
+            </p>
+            <p className="underline">
+              <Link to="/offline/centers/chattogram2">BRAC ISD Halishahar Centre</Link>
+            </p>
+            <p className="underline">
+              <Link to="/offline/centers/chattogram3">
+                BRAC ISD Patiya(Chattogram) Centre
+              </Link>
+            </p>
+            <p className="underline">
+              <Link to="/offline/centers/narayanganjnBondor">
+                BRAC ISD Bandar(Narayanganj) Centre
               </Link>
             </p>
           </div>

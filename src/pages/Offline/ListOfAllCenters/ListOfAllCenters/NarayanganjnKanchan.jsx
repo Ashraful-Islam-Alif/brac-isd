@@ -73,13 +73,13 @@ const NarayanganjnKanchan = () => {
             <h2>Plumbing</h2>
             <img className="h-[20px] " src={arrowIcon}></img>
           </Link>
-          <Link
+          {/* <Link
             class="my-8 text-lg font-semibold underline flex items-center"
             to="/offline/courses/steel-bindings-fabrication"
           >
             <h2>Steel Bindings & Fabrication</h2>
             <img className="h-[20px] " src={arrowIcon}></img>
-          </Link>
+          </Link> */}
           <Link
             class="my-8 text-lg font-semibold underline flex items-center"
             to="/offline/courses/tiles-marbel-work"
@@ -87,13 +87,13 @@ const NarayanganjnKanchan = () => {
             <h2>Tiles and Marble Fittings</h2>
             <img className="h-[20px] " src={arrowIcon}></img>
           </Link>
-          <Link
+          {/* <Link
             class="my-8 text-lg font-semibold underline flex items-center"
             to="/offline/courses/masonry"
           >
             <h2>Masonry</h2>
             <img className="h-[20px] " src={arrowIcon}></img>
-          </Link>
+          </Link> */}
           <Link
             class="my-8 text-lg font-semibold underline flex items-center"
             to="/offline/courses/welding"

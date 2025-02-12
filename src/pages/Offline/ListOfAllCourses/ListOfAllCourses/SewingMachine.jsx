@@ -124,11 +124,17 @@ const SewingMachine = () => {
               </Link>
             </p>
             <p className="underline">
+              <Link to="/offline/centers/nilphamari">
+                BRAC ISD Nilphamari Centre
+              </Link>
+            </p>
+            <p className="underline">
               <Link to="/offline/centers/manikganj">BRAC ISD Manikganj Centre (Inactive)</Link>
             </p>
             <p className="underline">
               <Link to="/offline/centers/manikganj">BRAC ISD Mirsharai Center (Inactive)</Link>
             </p>
+            
           </div>
         </div>
       </div>

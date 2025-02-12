@@ -79,11 +79,11 @@ const ListOfCourses = () => {
             Pipe Fitting
           </Link>
         </div>
-        <div className="my-8 text-lg font-semibold underline">
+        {/* <div className="my-8 text-lg font-semibold underline">
           <Link to="/offline/courses/steel-bindings-fabrication">
             Steel Bindings & Fabrication
           </Link>
-        </div>
+        </div> */}
         <div className="my-8 text-lg font-semibold underline">
           <Link to="/offline/courses/tiles-marbel-work">
             Tiles & Marbel Work

@@ -51,13 +51,7 @@ const Nilphamari = () => {
             <h2>Electrical Installation & Maintenance</h2>
             <img className="h-[20px] " src={arrowIcon}></img>
           </Link>
-          <Link
-            class="my-8 text-lg font-semibold underline flex items-center"
-            to="/offline/courses/rod-Binding"
-          >
-            <h2>Rod Binding</h2>
-            <img className="h-[20px] " src={arrowIcon}></img>
-          </Link>
+          
           <Link
             class="my-8 text-lg font-semibold underline flex items-center"
             to="/offline/courses/computer-operation"
@@ -85,6 +79,20 @@ const Nilphamari = () => {
           >
             <h2>Tiles and Marble Fittings</h2>
             <img className="h-[20px] " src={arrowIcon}></img>
+          </Link>
+          <Link
+                      class="my-8 text-lg font-semibold underline flex items-center"
+                      to="/offline/courses/masonry"
+                    >
+                      <h2>Masonry</h2>
+                      <img className="h-[20px] " src={arrowIcon}></img>
+          </Link>
+          <Link
+          class="my-8 text-lg font-semibold underline flex items-center"
+          to="/offline/courses/sewing-machine"
+          >
+          <h2>Knit Sewing Machine Operation</h2>
+          <img className="h-[20px] " src={arrowIcon}></img>
           </Link>
         </div>
 

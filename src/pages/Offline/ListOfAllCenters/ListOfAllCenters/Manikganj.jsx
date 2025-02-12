@@ -61,13 +61,13 @@ const Manikganj = () => {
             <h2>Electrical Installation and Maintenance</h2>
             <img className="h-[20px] " src={arrowIcon}></img>
           </Link>
-          <Link
+          {/* <Link
             class="my-8 text-lg font-semibold underline flex items-center"
             to="/offline/courses/steel-bindings-fabrication"
           >
             <h2>Steel Bindings & Fabrication</h2>
             <img className="h-[20px] " src={arrowIcon}></img>
-          </Link>
+          </Link> */}
           <Link
             class="my-8 text-lg font-semibold underline flex items-center"
             to="/offline/courses/plumbing-pipe-fitting"
@@ -82,13 +82,13 @@ const Manikganj = () => {
             <h2>Plumbing</h2>
             <img className="h-[20px] " src={arrowIcon}></img>
           </Link>
-          <Link
+          {/* <Link
             class="my-8 text-lg font-semibold underline flex items-center"
             to="/offline/courses/tiles-marbel-work"
           >
             <h2>Tiles and Marble Fittings</h2>
             <img className="h-[20px] " src={arrowIcon}></img>
-          </Link>
+          </Link> */}
           <Link
             class="my-8 text-lg font-semibold underline flex items-center"
             to="/offline/courses/masonry"
@@ -96,13 +96,13 @@ const Manikganj = () => {
             <h2>Masonry</h2>
             <img className="h-[20px] " src={arrowIcon}></img>
           </Link>
-          <Link
+          {/* <Link
             class="my-8 text-lg font-semibold underline flex items-center"
             to="/offline/courses/rod-Binding"
           >
             <h2>Rod Binding</h2>
             <img className="h-[20px] " src={arrowIcon}></img>
-          </Link>
+          </Link> */}
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4 my-8">
