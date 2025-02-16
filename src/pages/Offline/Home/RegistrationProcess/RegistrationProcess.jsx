@@ -24,7 +24,7 @@ const RegistrationProcess = () => {
           <span className="font-semibold">Step 3: </span>
           <span>
             <Link
-              to="https://docs.google.com/forms/d/e/1FAIpQLScoauq-f2VJ6nHBH_X7qNMb7pwg-p2XA-tUzNI45HmaTbRbBw/viewform"
+              to="https://docs.google.com/forms/d/e/1FAIpQLSfn_JpZI_pLhNBTBdjwQAPe9n22d9te7kYH7N44KkCTn1hDyg/viewform?usp=sf_link"
               target="_blank"
               className="underline text-blue-600 hover:text-blue-800"
             >
