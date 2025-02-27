@@ -16,7 +16,7 @@ const ListOfCourses = () => {
           </Link>
         </div>
         <div className="my-8 text-lg font-semibold underline">
-          <Link to="/offline/courses/careGivingTraining">
+          <Link to="/offline/courses/careGiving">
             General Care Giving
           </Link>
         </div>
@@ -60,7 +60,7 @@ const ListOfCourses = () => {
           </Link>
         </div>
         <div className="my-8 text-lg font-semibold underline">
-          <Link to="/offline/courses/sewing-machine">
+          <Link to="/offline/courses/knit-sewing-machine">
             Knit Sewing Machine Operation
           </Link>
         </div>
@@ -75,7 +75,7 @@ const ListOfCourses = () => {
           </Link>
         </div>
         <div className="my-8 text-lg font-semibold underline">
-          <Link to="/offline/courses/plumbing-pipe-fitting">
+          <Link to="/offline/courses/pipe-fitting">
             Pipe Fitting
           </Link>
         </div>

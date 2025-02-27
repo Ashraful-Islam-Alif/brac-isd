@@ -36,7 +36,7 @@ const DhakaCenter = () => {
         <div className="hero-content text-center text-white">
           <div className="max-w-xl md:max-w-2xl lg:max-w-2xl">
             <h2 className="text-xl md:text-3xl lg:text-5xl font-bold">
-              BRAC ISD Uttara (Dhaka)
+              BRAC ISD Dhaka (Uttara)
             </h2>
             <hr className="mx-4 md:mx-8 lg:mx-30 mt-4 border-t-8 font-bold border-[#FFA100]"></hr>
           </div>
@@ -44,7 +44,7 @@ const DhakaCenter = () => {
       </div>
       <div className=" my-8 max-w-screen-xl mx-8">
         <h2 className="my-4 text-xl font-bold">
-          Available Courses of BRAC ISD Uttara (Dhaka) Centre
+          Available Courses of BRAC ISD Dhaka (Uttara) Centre
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
           <Link
@@ -63,7 +63,7 @@ const DhakaCenter = () => {
           </Link>
           <Link
             class="my-8 text-lg font-semibold underline flex items-center"
-            to="/offline/courses/careGivingTraining"
+            to="/offline/courses/careGiving"
           >
             <h2>General Care Giving</h2>
             <img className="h-[20px] " src={arrowIcon}></img>

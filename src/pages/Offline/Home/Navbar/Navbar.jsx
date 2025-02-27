@@ -8,7 +8,7 @@ const Navbar = () => {
     >
       <ul>
         <li>
-          <Link to="/offline/centers/dhaka">BRAC ISD Uttara (Dhaka)</Link>
+          <Link to="/offline/centers/dhaka">BRAC ISD Dhaka (Uttara)</Link>
         </li>
         <li>
           <Link to="/offline/centers/rangpur">BRAC ISD Rangpur</Link>
@@ -44,12 +44,12 @@ const Navbar = () => {
           </Link>
         </li>
         <li>
-          <Link to="/offline/centers/narayanganjnKanchan">
+          <Link to="/offline/centers/narayanganjKanchan">
             BRAC ISD Narayanganj{" "}
           </Link>
         </li>
         <li>
-          <Link to="/offline/centers/narayanganjnBondor">
+          <Link to="/offline/centers/narayanganjBandar">
             BRAC ISD Bandar (Narayanganj)
           </Link>
         </li>
@@ -80,7 +80,7 @@ const Navbar = () => {
           </Link>
         </li>
         <li>
-          <Link to="/offline/courses/careGivingTraining">
+          <Link to="/offline/courses/careGiving">
             General Care Giving
           </Link>
         </li>
@@ -123,7 +123,7 @@ const Navbar = () => {
           </Link>
         </li>
         <li>
-          <Link to="/offline/courses/sewing-machine">
+          <Link to="/offline/courses/knit-sewing-machine">
             Knit Sewing Machine Operation
           </Link>
         </li>
@@ -138,7 +138,7 @@ const Navbar = () => {
           </Link>
         </li>
         <li>
-          <Link to="/offline/courses/plumbing-pipe-fitting">
+          <Link to="/offline/courses/pipe-fitting">
             Pipe Fitting
           </Link>
         </li>

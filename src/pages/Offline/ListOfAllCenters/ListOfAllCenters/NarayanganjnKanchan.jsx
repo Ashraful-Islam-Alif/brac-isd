@@ -54,14 +54,14 @@ const NarayanganjnKanchan = () => {
           </Link>
           <Link
             class="my-8 text-lg font-semibold underline flex items-center"
-            to="/offline/courses/sewing-machine"
+            to="/offline/courses/knit-sewing-machine"
           >
             <h2>Knit Sewing Machine Operation</h2>
             <img className="h-[20px] " src={arrowIcon}></img>
           </Link>
           <Link
             class="my-8 text-lg font-semibold underline flex items-center"
-            to="/offline/courses/plumbing-pipe-fitting"
+            to="/offline/courses/pipe-fitting"
           >
             <h2>Pipe Fitting</h2>
             <img className="h-[20px] " src={arrowIcon}></img>

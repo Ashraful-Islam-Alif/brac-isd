@@ -107,7 +107,7 @@ const TilesMarbelWork = () => {
           <h1 className="font-bold  md:text-xl text-md">Course available in:</h1>
           <div className="">
             <p className="underline">
-              <Link to="/offline/centers/narayanganjnKanchan">
+              <Link to="/offline/centers/narayanganjKanchan">
                 BRAC ISD Narayanganj Centre
               </Link>
             </p>

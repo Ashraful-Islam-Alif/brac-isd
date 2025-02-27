@@ -141,7 +141,7 @@ const GraphicsDesignCourses = () => {
               </Link>
             </p>
             <p className="underline">
-              <Link to="/offline/centers/narayanganjnBondor">
+              <Link to="/offline/centers/narayanganjBandar">
                 BRAC ISD Bandar(Narayanganj) Centre
               </Link>
             </p>

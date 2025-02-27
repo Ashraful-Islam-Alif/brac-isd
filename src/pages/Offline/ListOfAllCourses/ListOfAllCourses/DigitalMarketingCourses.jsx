@@ -155,7 +155,7 @@ const DigitalMarketingCourses = () => {
               <Link to="/offline/centers/mymensingh">BRAC ISD Mymensingh Centre</Link>
             </p>
             <p className="underline">
-              <Link to="/offline/centers/narayanganjnBondor">
+              <Link to="/offline/centers/narayanganjBandar">
                 BRAC ISD Bandar(Narayanganj) Centre
               </Link>
             </p>

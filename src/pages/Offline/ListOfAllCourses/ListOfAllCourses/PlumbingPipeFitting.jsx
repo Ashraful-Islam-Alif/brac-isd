@@ -117,7 +117,7 @@ const PlumbingPipeFitting = () => {
           </h1>
           <div className="">
             <p className="underline">
-              <Link to="/offline/centers/narayanganjnKanchan">
+              <Link to="/offline/centers/narayanganjKanchan">
                 BRAC ISD Narayanganj Centre
               </Link>
             </p>

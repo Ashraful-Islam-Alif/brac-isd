@@ -15,7 +15,7 @@ const ListOfCenters = () => {
               style={{ width: "400px", height: "220px" }}
             ></img>
             <h2 className="text-center underline font-bold text-[#FFA100] text-xl">
-              <Link to="/offline/centers/dhaka">BRAC ISD Uttara (Dhaka)</Link>
+              <Link to="/offline/centers/dhaka">BRAC ISD Dhaka (Uttara)</Link>
             </h2>
           </a>
         </div>
@@ -120,28 +120,28 @@ const ListOfCenters = () => {
           </a>
         </div>
         <div>
-          <a href="/offline/centers/narayanganjnBondor">
+          <a href="/offline/centers/narayanganjBandar">
             <img
               src="https://i.ibb.co/74Jhy9r/narayanganj-Bondor.jpg"
               alt=""
               style={{ width: "400px", height: "220px" }}
             ></img>
             <h2 className="text-center underline font-bold text-[#FFA100] text-xl">
-              <Link to="/offline/centers/narayanganjnBondor">
+              <Link to="/offline/centers/narayanganjBandar">
                 BRAC ISD Bandar (Narayanganj)
               </Link>
             </h2>
           </a>
         </div>
         <div>
-          <a href="/offline/centers/narayanganjnKanchan">
+          <a href="/offline/centers/narayanganjKanchan">
             <img
               src="https://i.ibb.co/w78d8FL/narayangan-Kanchan.jpg"
               alt=""
               style={{ width: "400px", height: "220px" }}
             ></img>
             <h2 className="text-center underline font-bold text-[#FFA100] text-xl">
-              <Link to="/offline/centers/narayanganjnKanchan">
+              <Link to="/offline/centers/narayanganjKanchan">
                 BRAC ISD Narayanganj
               </Link>
             </h2>

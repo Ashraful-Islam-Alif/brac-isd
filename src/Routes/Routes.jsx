@@ -100,11 +100,11 @@ export const router = createBrowserRouter([
         element:   <PatiaChattogram></PatiaChattogram>,
       },
       {
-        path: "offline/centers/narayanganjnBondor",
+        path: "offline/centers/narayanganjBandar",
         element:  <NarayanganjBandar></NarayanganjBandar>,
       },
       {
-        path: "offline/centers/narayanganjnKanchan",
+        path: "offline/centers/narayanganjKanchan",
         element: <NarayanganjnKanchan></NarayanganjnKanchan>
       },
       {
@@ -157,11 +157,11 @@ export const router = createBrowserRouter([
         element: <HouseKeepingOccupationCourses></HouseKeepingOccupationCourses>
       },
       {
-        path: "offline/courses/sewing-machine",
+        path: "offline/courses/knit-sewing-machine",
         element: <SewingMachine></SewingMachine>
       },
       {
-        path: "offline/courses/plumbing-pipe-fitting",
+        path: "offline/courses/pipe-fitting",
         element: <PlumbingPipeFitting></PlumbingPipeFitting>
       },
       {
@@ -177,7 +177,7 @@ export const router = createBrowserRouter([
         element: <PalliativeCareCourses></PalliativeCareCourses>
       },
       {
-        path: "offline/courses/careGivingTraining",
+        path: "offline/courses/careGiving",
         element: <CaregivingTraining></CaregivingTraining>
       },
       {

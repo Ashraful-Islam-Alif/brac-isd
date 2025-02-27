@@ -49,7 +49,7 @@ const Manikganj = () => {
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
         <Link
             class="my-8 text-lg font-semibold underline flex items-center"
-            to="/offline/courses/sewing-machine"
+            to="/offline/courses/knit-sewing-machine"
           >
             <h2>Knit Sewing Machine Operation</h2>
             <img className="h-[20px] " src={arrowIcon}></img>
@@ -70,7 +70,7 @@ const Manikganj = () => {
           </Link> */}
           <Link
             class="my-8 text-lg font-semibold underline flex items-center"
-            to="/offline/courses/plumbing-pipe-fitting"
+            to="/offline/courses/pipe-fitting"
           >
             <h2>Pipe Fitting</h2>
             <img className="h-[20px] " src={arrowIcon}></img>
